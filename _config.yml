@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "LI ZHENYUAN"
-description              : "Zhenyuan is now a Researcher at Zhejiang University, focus on Intrusion Detection and Threat Analysis. "
+description              : "Researcher at Zhejiang University, focusing on Intrusion Detection and Cyber Threat Analysis. "
 repository               : "li-zhenyuan/li-zhenyuan.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,8 +27,8 @@ author:
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=3YGMOdwAAAAJ"
   email            : "li_zhenyuan@qq.com"
+  googlescholar    : "https://scholar.google.com/citations?user=3YGMOdwAAAAJ"
   researchgate     : "https://www.researchgate.net/profile/Zhenyuan-Li-3"
   uri              :
   bitbucket        :
