@@ -21,7 +21,7 @@ I am a Researcher in the [Zhejiang University, Schoolof Software Technology](htt
 
 My research interests lie in system security, intrustion detection and cyber threat analysis techniques. I am now working towards to design practical intrusion detection and attack investigation systems. Currently I work closely with [Prof. Yan Chen](https://users.cs.northwestern.edu/~ychen/) and [Xuhong Zhang](https://person.zju.edu.cn/zhangxuhong)
 
-**"Contact [me](mailto:li_zhenyuan@qq.com) for intrusion detection systems research that are in line with the industry!!!"**
+**"Contact [me](mailto:li_zhenyuan@qq.com) for intrusion detection systems research that are in line with the industry!!!"（持续招收对安全研究有兴趣的硕士研究生和本科生！）**
 
 
 # 🔥 News
@@ -38,9 +38,10 @@ My research interests lie in system security, intrustion detection and cyber thr
 **Zhenyuan Li**, Jun Zeng, Yan Chen, Zhenkai Liang
 
 [**Project**](https://github.com/li-zhenyuan/Knowledge-enhanced-Attack-Graph) <strong><span class='show_paper_citations' data='3YGMOdwAAAAJ:UeHWp8X0CEIC'></span></strong> 
-![](https://img.shields.io/github/stars/li-zhenyuan/Effective-and-Light-Weight-Deobfuscation-and-Semantic-Aware-Attack-Detection-for-PowerShell-Scripts?style=social)
+![](https://img.shields.io/github/stars/li-zhenyuan/Knowledge-enhanced-Attack-Graph?style=social)
 
-- We are doing follow-up work based on this one, including: [Poster: Towards automated and large-scale cyber attack reconstruction with apt reports](https://www.ndss-symposium.org/wp-content/uploads/NDSS2022Poster_paper_37.pdf) and [Poster: A First Look at Evasion against Provenance Graph-based Threat Detection](https://www.researchgate.net/profile/Zhenyuan-Li-3/publication/346655029_Mimic_the_Whole_Attack_Chain_A_First_Look_at_Evasion_against_Provenance_Graph_based_Detection/links/5fce220945851568d146d3ef/Mimic-the-Whole-Attack-Chain-A-First-Look-at-Evasion-against-Provenance-Graph-based-Detection.pdf).
+- AttacKG can automatically extract structured attack behavior graphs from CTI reports and identify the associated attack techniques, and aggregate threat intelligence across reports to collect different aspects of techniques and enhance attack behavior graphs into technique knowledge graphs (TKGs).
+- AttacKG can empower many downstream security applications such as **threat identification**, **automatic threat reasoning and disposition**.
 </div>
 </div>
 
@@ -52,7 +53,7 @@ My research interests lie in system security, intrustion detection and cyber thr
 **Zhenyuan Li**, Qi Alfred Chen, Chunlin Xiong, Yan Chen, Tiantian Zhu, Hai Yang
 
 [**Project**](https://github.com/li-zhenyuan/Effective-and-Light-Weight-Deobfuscation-and-Semantic-Aware-Attack-Detection-for-PowerShell-Scripts) <strong><span class='show_paper_citations' data='3YGMOdwAAAAJ:u-x6o8ySG0sC'></span></strong>
-![](https://img.shields.io/github/stars/li-zhenyuan/Knowledge-enhanced-Attack-Graph?style=social)
+![](https://img.shields.io/github/stars/li-zhenyuan/Effective-and-Light-Weight-Deobfuscation-and-Semantic-Aware-Attack-Detection-for-PowerShell-Scripts?style=social)
 
 - The first effective and light-weight deobfuscation approach for PowerShell scripts. Adopted in the product of an [startup security company](https://www.fyreshld.com/) <img src='./images/MingYan.jpg' style='width: 4em;'>.
 </div>
@@ -60,9 +61,13 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 - ``TDSC 2022`` [RATScope: Recording and Reconstructing Missing RAT Semantic Behaviors for Forensic Analysis on Windows](https://ieeexplore.ieee.org/document/9234076), Runqing Yang, Xutong Chen, Haitao Xu, Yueqiang Chen, Chunlin Xiong, Linqi Ruan, Mohammad Kavousl, **Zhenyuan Li**, Liheng Xu, Yan Chen 
 
+- ``NDSS 2022 Poster`` [Poster: Towards automated and large-scale cyber attack reconstruction with apt reports](https://www.ndss-symposium.org/wp-content/uploads/NDSS2022Poster_paper_37.pdf), Chunlin Xiong, **Zhenyuan Li**, Yan Chen, Tiantian Zhu, Jian Wang, Hai Yang, Wei Ruan
+
 - ``FITEE 2022`` [Generic, Efficient, and Effective Deobfuscation and Semantic-Aware Attack Detection for PowerShell Scripts](https://link.springer.com/article/10.1631/FITEE.2000436), Chunlin Xiong, **Zhenyuan Li**, Qi Alfred Chen, Yan Chen, Tiantian Zhu, Hai Yang, and Wei Ruan
 
 - ``COSE 2021`` [Threat Detection and Investigation with System-level Provenance Graphs: A Survey](https://www.sciencedirect.com/science/article/pii/S0167404821001061), **Zhenyuan Li**, Qi Alfred Chen, Yang Runqing, Yan Chen
+
+- ``ACSAC 2020 Poster`` [Poster: Mimic the Whole Attack Chain: A First Look at Evasion against Provenance Graph based Detection](https://www.researchgate.net/profile/Zhenyuan-Li-3/publication/346655029_Mimic_the_Whole_Attack_Chain_A_First_Look_at_Evasion_against_Provenance_Graph_based_Detection/links/5fce220945851568d146d3ef/Mimic-the-Whole-Attack-Chain-A-First-Look-at-Evasion-against-Provenance-Graph-based-Detection.pdf), **Zhenyuan Li**, Qi Alfred Chen, Yang Runqing, Yan Chen
 
 
 # 🎖 Honors and Awards
@@ -81,7 +86,7 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 # 💬 Invited Talks
 - *2020.10*, InForSec Cyber Security Academic Papers Sharing (Co-located with Beijing Cyber Security Conference)  \| [\[video\]](https://www.bilibili.com/video/BV1gy4y187Lq/?share_source=copy_web&vd_source=23dc4357b22105e2ec9569d56ca4163c)
-- *2019.11* Effective and Light-Weight Deobfuscation and Semantic-Aware Attack Detection for PowerShell Scripts, CCS'19, London
+- *2019.11*, Effective and Light-Weight Deobfuscation and Semantic-Aware Attack Detection for PowerShell Scripts, CCS'19, London
 
 
 # 💻 Work Experience
