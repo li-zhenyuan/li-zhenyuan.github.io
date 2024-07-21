@@ -28,7 +28,22 @@ My research interests lie in system security, intrustion detection and cyber thr
 - *2023.06*: &nbsp;🎉🎉 I join [Zhejiang University, Schoolof Software Technology](http://www.cst.zju.edu.cn/) <img src='./images/ZJU-Logo.png' style='width: 6em;'> as Researcher. 
 
 
+# 💫 Research Projects
+- 国家重点研发计划，**面向终端的高隐蔽传播网络公害识别，取证和归因研究**，2024/01-2026/12，在研，子课题负责人
+- “蚂蚁”校企合作项目，**基于大语言模型的自动化漏洞利用方案生成与推荐**，2024/06-2025/06，在研，项目负责人
+- “华为”校企合作项目，**抗混淆的鸿蒙应用安全指纹与风险描述生成算法研究**，2024/06-2025/06，在研，课题负责人
+- 浙江省“领雁”研发计划，**某云平台安全技术研究**，2024/01-2024/12，在研，课题负责人
+- CCF-绿盟“鲲鹏”科研基金，**云计算环境下基于流处理的大规模溯源分析**，2024/01-2024/12，在研，项目负责人
+
+
 # 📝 Publications 
+- ``ArXiv 2024`` [Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection](https://arxiv.org/pdf/2404.14720), Lingzhi Wang, Xiangmin Shen, Weijian Li, **Zhenyuan Li**, R Sekar, Han Liu, Yan Chen
+
+- ``ArXiv 2024`` [Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection](https://arxiv.org/pdf/2404.14720), Lingzhi Wang, Xiangmin Shen, Weijian Li, **Zhenyuan Li**, R Sekar, Han Liu, Yan Chen
+
+- ``AsiaCCS 2024`` [Decoding the MITRE Engenuity ATT&CK Enterprise Evaluation: An Analysis of EDR Performance in Real-World Environments](https://dl.acm.org/doi/pdf/10.1145/3634737.3645012), Xiangmin Shen, **Zhenyuan Li**, Graham Burleigh, Lingzhi Wang, Yan Chen
+
+- ``CSCWD 2024`` [An Automated Alert Cross-Verification System with Graph Neural Networks for IDS Events](https://ieeexplore.ieee.org/abstract/document/10580010/), Liang Li, Yuanhui He, Feiyang Huang, Ziming Zhao, Zhuoxue Song, Tong Zhou, **Zhenyuan Li**, Fan Zhang
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESORICS 2022</div><img src='images/AttacKG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -90,9 +105,10 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 
 # 💻 Work Experience
+- *2023.07 - now*, [Zhejiang University](https://www.zju.edu.cn), Hangzhou, China.
 - *2022.07 - 2023.07*, [Huawei, 2012 Lab](https://www.huawei.com/en/), Hangzhou, China.
 
 
 # 🎓 Academic Service
 - Subreviewer/External reviewer : NDSS'22, AsiaCCS'21, CCS'19, ICDCS'19, ESORICS'19, CCS'18
-- Reviewer : IEEE Access (2020)
+- Reviewer : TOSEM (2024), 计算机学报 (2024), 计算机科学(2024), IEEE Access (2020)
