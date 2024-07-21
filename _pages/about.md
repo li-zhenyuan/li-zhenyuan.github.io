@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Researcher in the [Zhejiang University, Schoolof Software Technology](http://www.cst.zju.edu.cn/) <img src='./images/ZJU-Logo.png' style='width: 6em;'>. Before coming to ZJU, I worked at [Huawei, 2012 Lab](https://www.huawei.com/en/) <img src='./images/Huawei-Logo.wine.png' style='width: 5em;'> as a Senior Engineer. I graduated from Department of Computer Science and Technology, Zhejiang University with a Ph.D. degreed. 
 
-My research interests lie in system security, intrustion detection and cyber threat analysis techniques. I am now working towards to design practical intrusion detection and attack investigation systems. Currently I work closely with [Prof. Yan Chen](https://users.cs.northwestern.edu/~ychen/) and [Xuhong Zhang](https://person.zju.edu.cn/zhangxuhong)
+My research interests lie in system security, intrustion detection and cyber threat analysis techniques. I am now working towards to design practical intrusion detection and attack investigation systems. Currently I work closely with [Prof. Yan Chen](https://users.cs.northwestern.edu/~ychen/).
 
 **"Contact [me](mailto:li_zhenyuan@qq.com) for intrusion detection systems research that are in line with the industry!!!"（持续招收对安全研究有兴趣的硕士研究生和本科生！）**
 
@@ -28,7 +28,7 @@ My research interests lie in system security, intrustion detection and cyber thr
 - *2023.06*: &nbsp;🎉🎉 I join [Zhejiang University, Schoolof Software Technology](http://www.cst.zju.edu.cn/) <img src='./images/ZJU-Logo.png' style='width: 6em;'> as Researcher. 
 
 
-# 💫 Research Projects
+# 💫 Fundings
 - 国家重点研发计划，**面向终端的高隐蔽传播网络公害识别，取证和归因研究**，2024/01-2026/12，在研，子课题负责人
 - “蚂蚁”校企合作项目，**基于大语言模型的自动化漏洞利用方案生成与推荐**，2024/06-2025/06，在研，项目负责人
 - “华为”校企合作项目，**抗混淆的鸿蒙应用安全指纹与风险描述生成算法研究**，2024/06-2025/06，在研，课题负责人
