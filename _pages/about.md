@@ -60,6 +60,16 @@ My research interests lie in system security, intrustion detection and cyber thr
 </div>
 </div>
 
+- ``TDSC 2022`` [RATScope: Recording and Reconstructing Missing RAT Semantic Behaviors for Forensic Analysis on Windows](https://ieeexplore.ieee.org/document/9234076), Runqing Yang, Xutong Chen, Haitao Xu, Yueqiang Chen, Chunlin Xiong, Linqi Ruan, Mohammad Kavousl, **Zhenyuan Li**, Liheng Xu, Yan Chen 
+
+- ``NDSS 2022 Poster`` [Poster: Towards automated and large-scale cyber attack reconstruction with apt reports](https://www.ndss-symposium.org/wp-content/uploads/NDSS2022Poster_paper_37.pdf), Chunlin Xiong, **Zhenyuan Li**, Yan Chen, Tiantian Zhu, Jian Wang, Hai Yang, Wei Ruan
+
+- ``FITEE 2022`` [Generic, Efficient, and Effective Deobfuscation and Semantic-Aware Attack Detection for PowerShell Scripts](https://link.springer.com/article/10.1631/FITEE.2000436), Chunlin Xiong, **Zhenyuan Li**, Qi Alfred Chen, Yan Chen, Tiantian Zhu, Hai Yang, and Wei Ruan
+
+- ``COSE 2021`` [Threat Detection and Investigation with System-level Provenance Graphs: A Survey](https://www.sciencedirect.com/science/article/pii/S0167404821001061), **Zhenyuan Li**, Qi Alfred Chen, Yang Runqing, Yan Chen
+
+- ``ACSAC 2020 Poster`` [Poster: Mimic the Whole Attack Chain: A First Look at Evasion against Provenance Graph based Detection](https://www.researchgate.net/profile/Zhenyuan-Li-3/publication/346655029_Mimic_the_Whole_Attack_Chain_A_First_Look_at_Evasion_against_Provenance_Graph_based_Detection/links/5fce220945851568d146d3ef/Mimic-the-Whole-Attack-Chain-A-First-Look-at-Evasion-against-Provenance-Graph-based-Detection.pdf), **Zhenyuan Li**, Qi Alfred Chen, Yang Runqing, Yan Chen
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2019</div><img src='images/CCS19.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -73,16 +83,6 @@ My research interests lie in system security, intrustion detection and cyber thr
 - The first effective and light-weight deobfuscation approach for PowerShell scripts. Adopted in the product of an [startup security company](https://www.fyreshld.com/) <img src='./images/MingYan.jpg' style='width: 4em;'>.
 </div>
 </div>
-
-- ``TDSC 2022`` [RATScope: Recording and Reconstructing Missing RAT Semantic Behaviors for Forensic Analysis on Windows](https://ieeexplore.ieee.org/document/9234076), Runqing Yang, Xutong Chen, Haitao Xu, Yueqiang Chen, Chunlin Xiong, Linqi Ruan, Mohammad Kavousl, **Zhenyuan Li**, Liheng Xu, Yan Chen 
-
-- ``NDSS 2022 Poster`` [Poster: Towards automated and large-scale cyber attack reconstruction with apt reports](https://www.ndss-symposium.org/wp-content/uploads/NDSS2022Poster_paper_37.pdf), Chunlin Xiong, **Zhenyuan Li**, Yan Chen, Tiantian Zhu, Jian Wang, Hai Yang, Wei Ruan
-
-- ``FITEE 2022`` [Generic, Efficient, and Effective Deobfuscation and Semantic-Aware Attack Detection for PowerShell Scripts](https://link.springer.com/article/10.1631/FITEE.2000436), Chunlin Xiong, **Zhenyuan Li**, Qi Alfred Chen, Yan Chen, Tiantian Zhu, Hai Yang, and Wei Ruan
-
-- ``COSE 2021`` [Threat Detection and Investigation with System-level Provenance Graphs: A Survey](https://www.sciencedirect.com/science/article/pii/S0167404821001061), **Zhenyuan Li**, Qi Alfred Chen, Yang Runqing, Yan Chen
-
-- ``ACSAC 2020 Poster`` [Poster: Mimic the Whole Attack Chain: A First Look at Evasion against Provenance Graph based Detection](https://www.researchgate.net/profile/Zhenyuan-Li-3/publication/346655029_Mimic_the_Whole_Attack_Chain_A_First_Look_at_Evasion_against_Provenance_Graph_based_Detection/links/5fce220945851568d146d3ef/Mimic-the-Whole-Attack-Chain-A-First-Look-at-Evasion-against-Provenance-Graph-based-Detection.pdf), **Zhenyuan Li**, Qi Alfred Chen, Yang Runqing, Yan Chen
 
 
 # 🎖 Honors and Awards
