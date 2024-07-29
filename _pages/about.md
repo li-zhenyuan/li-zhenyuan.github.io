@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Researcher in the [Zhejiang University, Schoolof Software Technology](http://www.cst.zju.edu.cn/) <img src='./images/ZJU-Logo.png' style='width: 6em;'>. Before coming to ZJU, I worked at [Huawei, 2012 Lab](https://www.huawei.com/en/) <img src='./images/Huawei-Logo.wine.png' style='width: 5em;'> as a Senior Engineer. I graduated from Department of Computer Science and Technology, Zhejiang University with a Ph.D. degreed. 
+I am a Researcher in the [Zhejiang University, Schoolof Software Technology](http://www.cst.zju.edu.cn/) <img src='./images/ZJU-Logo.png' style='width: 6em;'>. Before joining ZJU, I worked at [Huawei, 2012 Lab](https://www.huawei.com/en/) <img src='./images/Huawei-Logo.wine.png' style='width: 5em;'> as a Senior Engineer. I graduated from Department of Computer Science and Technology, Zhejiang University with a Ph.D. degreed. 
 
 My research interests lie in system security, intrustion detection and cyber threat analysis techniques. I am now working towards to design practical intrusion detection and attack investigation systems. Currently I work closely with [Prof. Yan Chen](https://users.cs.northwestern.edu/~ychen/).
 
@@ -29,7 +29,7 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 
 # 💫 Fundings
-- 国家重点研发计划，**面向终端的高隐蔽传播网络公害识别，取证和归因研究**，2024/01-2026/12，在研，子课题负责人
+- 国家重点研发计划"网络空间安全治理"专项，**面向终端的高隐蔽传播网络公害识别，取证和归因研究**，2024/01-2026/12，在研，子课题负责人
 - “蚂蚁”校企合作项目，**基于大语言模型的自动化漏洞利用方案生成与推荐**，2024/06-2025/06，在研，项目负责人
 - “华为”校企合作项目，**抗混淆的鸿蒙应用安全指纹与风险描述生成算法研究**，2024/06-2025/06，在研，课题负责人
 - 浙江省“领雁”研发计划，**某云平台安全技术研究**，2024/01-2024/12，在研，课题负责人
@@ -62,7 +62,7 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 - ``TDSC 2022`` [RATScope: Recording and Reconstructing Missing RAT Semantic Behaviors for Forensic Analysis on Windows](https://ieeexplore.ieee.org/document/9234076), Runqing Yang, Xutong Chen, Haitao Xu, Yueqiang Chen, Chunlin Xiong, Linqi Ruan, Mohammad Kavousl, **Zhenyuan Li**, Liheng Xu, Yan Chen 
 
-- ``NDSS 2022 Poster`` [Poster: Towards automated and large-scale cyber attack reconstruction with apt reports](https://www.ndss-symposium.org/wp-content/uploads/NDSS2022Poster_paper_37.pdf), Chunlin Xiong, **Zhenyuan Li**, Yan Chen, Tiantian Zhu, Jian Wang, Hai Yang, Wei Ruan
+- ``NDSS 2022 Poster`` [Poster: Towards automated and large-scale cyber attack reconstruction with apt reports](https://www.ndss-symposium.org/wp-content/uploads/NDSS2022Poster_paper_37.pdf), **Zhenyuan Li**, Ahmad Soltani, Anis Yusof, Aris Cahyadi Risdianto, Kang Huang, Jun Zeng, Zhenkai Liang, Yan Chen
 
 - ``FITEE 2022`` [Generic, Efficient, and Effective Deobfuscation and Semantic-Aware Attack Detection for PowerShell Scripts](https://link.springer.com/article/10.1631/FITEE.2000436), Chunlin Xiong, **Zhenyuan Li**, Qi Alfred Chen, Yan Chen, Tiantian Zhu, Hai Yang, and Wei Ruan
 
@@ -114,7 +114,7 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 
 # 🎓 Academic Service
-- Subreviewer/External reviewer : NDSS'22, AsiaCCS'21, CCS'19, ICDCS'19, ESORICS'19, CCS'18
-- Reviewer : TOSEM (2024), 计算机学报 (2024), 计算机科学(2024), IEEE Access (2020)
+- Reviewer: TOSEM (2024), 计算机学报 (2024), 计算机科学(2024), IEEE Access (2020)
+- Subreviewer/External reviewer: IEEE S&P(2025, 2024) NDSS(2022), AsiaCCS(2021), CCS(2019, 2018), ICDCS(2019), ESORICS(2019)
 
 <a href="https://info.flagcounter.com/GT4T"><img src="https://s01.flagcounter.com/map/GT4T/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
