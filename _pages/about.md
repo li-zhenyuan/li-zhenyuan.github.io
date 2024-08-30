@@ -49,7 +49,7 @@ My research interests lie in system security, intrustion detection and cyber thr
 ![](https://img.shields.io/github/stars/MarineYY/MARLIN?style=social)
 
 - Marlin conceptualize real-time attack detection in streaming logs as a streaming graph alignment problem. Utilizing the attack knowledge stored in query graphs, we can identify crucial entities and events within the provenance graph. This approach narrows down the search space and still retains essential contexts, enhancing our system’s robustness against evasion tactics.
-- 
+
 </div>
 </div>
 
