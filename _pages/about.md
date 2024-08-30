@@ -25,24 +25,18 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 
 # 🔥 News
-- *2024.08*：&nbsp;🎉🎉 Granted National Natural Science Foundation of China (Youth Program).
-- *2024.01*: &nbsp;🎉🎉 Our paper "Decoding the MITRE Engenuity ATT&CK Enterprise Evaluation: An Analysis of EDR Performance in Real-World Environments" is accepted by AsiaCCS'24.
-- *2023.06*: &nbsp;🎉🎉 I join [Zhejiang University, Schoolof Software Technology](http://www.cst.zju.edu.cn/) <img src='./images/ZJU-Logo.png' style='width: 6em;'> as Researcher. 
-
-
-# 💫 Fundings
-- 国家自然基金青年科学基金项目，**云原生下大规模实时溯源分析与攻击检测方法和关键技术研究**，2025/01-2027/12，获批，项目负责人
-- 国家重点研发计划"网络空间安全治理"专项，**面向终端的高隐蔽传播网络公害识别，取证和归因研究**，2024/01-2026/12，在研，子课题负责人
-- “蚂蚁”校企合作项目，**基于大语言模型的自动化漏洞利用方案生成与推荐**，2024/06-2025/06，在研，项目负责人
-- “华为”校企合作项目，**抗混淆的鸿蒙应用安全指纹与风险描述生成算法研究**，2024/06-2025/06，在研，课题负责人
-- 浙江省“领雁”研发计划，**某云平台安全技术研究**，2024/01-2024/12，在研，课题负责人
-- CCF-绿盟“鲲鹏”科研基金，**云计算环境下基于流处理的大规模溯源分析**，2024/01-2024/12，在研，项目负责人
+- *2024.08*: &nbsp;🎉🎉 Our paper "Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection" is accepted by NDSS'25.
+- *2024.08*：🎉🎉 Granted National Natural Science Foundation of China (Youth Program).
+- *2024.01*: 🎉🎉 Our paper "Decoding the MITRE Engenuity ATT&CK Enterprise Evaluation: An Analysis of EDR Performance in Real-World Environments" is accepted by AsiaCCS'24.
+- *2023.06*: 🎉🎉 I join [Zhejiang University, Schoolof Software Technology](http://www.cst.zju.edu.cn/) <img src='./images/ZJU-Logo.png' style='width: 6em;'> as Researcher. 
 
 
 # 📝 Publications 
-- ``ArXiv 2024`` [Marlin: Knowledge-Driven Analysis of Provenance Graphs forEfficient and Robust Detection of Cyber Attacks](https://arxiv.org/pdf/2403.12541), **Zhenyuan Li**, Yangyang Wei, Xiangmin Shen, Lingzhi Wang, Yan Chen, Haitao Xu, Shouling Ji, Fan Zhang, Liang Hou, Wenmao Liu, Xuhong Zhang, Jianwei Ying
+- ``NDSS 2025`` [Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection](https://arxiv.org/pdf/2404.14720), Lingzhi Wang, Xiangmin Shen, Weijian Li, **Zhenyuan Li**, R Sekar, Han Liu, Yan Chen
 
-- ``ArXiv 2024`` [Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection](https://arxiv.org/pdf/2404.14720), Lingzhi Wang, Xiangmin Shen, Weijian Li, **Zhenyuan Li**, R Sekar, Han Liu, Yan Chen
+-``ArXiv 2024`` [From Sands to Mansions: Enabling Automatic Full-Life-Cycle Cyberattack Construction with LLM](https://arxiv.org/pdf/2407.16928), Lingzhi Wang, Jiahui Wang, Kyle Jung, Kedar Thiagarajan, Emily Wei, Xiangmin Shen, Yan Chen, **Zhenyuan Li**
+
+- ``ArXiv 2024`` [Marlin: Knowledge-Driven Analysis of Provenance Graphs forEfficient and Robust Detection of Cyber Attacks](https://arxiv.org/pdf/2403.12541), **Zhenyuan Li**, Yangyang Wei, Xiangmin Shen, Lingzhi Wang, Yan Chen, Haitao Xu, Shouling Ji, Fan Zhang, Liang Hou, Wenmao Liu, Xuhong Zhang, Jianwei Ying
 
 - ``AsiaCCS 2024`` [Decoding the MITRE Engenuity ATT&CK Enterprise Evaluation: An Analysis of EDR Performance in Real-World Environments](https://dl.acm.org/doi/pdf/10.1145/3634737.3645012), Xiangmin Shen, **Zhenyuan Li**, Graham Burleigh, Lingzhi Wang, Yan Chen
 
@@ -86,6 +80,15 @@ My research interests lie in system security, intrustion detection and cyber thr
 - The first effective and light-weight deobfuscation approach for PowerShell scripts. Adopted in the product of an [startup security company](https://www.fyreshld.com/) <img src='./images/MingYan.jpg' style='width: 4em;'>.
 </div>
 </div>
+
+
+# 💫 Fundings
+- 国家自然基金青年科学基金项目，**云原生下大规模实时溯源分析与攻击检测方法和关键技术研究**，2025/01-2027/12，获批，项目负责人
+- 国家重点研发计划"网络空间安全治理"专项，**面向终端的高隐蔽传播网络公害识别，取证和归因研究**，2024/01-2026/12，在研，子课题负责人
+- “蚂蚁”校企合作项目，**基于大语言模型的自动化漏洞利用方案生成与推荐**，2024/06-2025/06，在研，项目负责人
+- “华为”校企合作项目，**抗混淆的鸿蒙应用安全指纹与风险描述生成算法研究**，2024/06-2025/06，在研，课题负责人
+- 浙江省“领雁”研发计划，**某云平台安全技术研究**，2024/01-2024/12，在研，课题负责人
+- CCF-绿盟“鲲鹏”科研基金，**云计算环境下基于流处理的大规模溯源分析**，2024/01-2024/12，在研，项目负责人
 
 
 # 📝 Teaching
