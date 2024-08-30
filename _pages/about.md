@@ -25,8 +25,8 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 
 # 🔥 News
-- *2024.08*: &nbsp;🎉🎉 Our paper "Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection" is accepted by NDSS'25.
-- *2024.08*：🎉🎉 Granted National Natural Science Foundation of China (Youth Program).
+- *2024.08*: 🎉🎉 Our paper "Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection" is accepted by NDSS'25.
+- *2024.08*: 🎉🎉 Granted National Natural Science Foundation of China (Youth Program).
 - *2024.01*: 🎉🎉 Our paper "Decoding the MITRE Engenuity ATT&CK Enterprise Evaluation: An Analysis of EDR Performance in Real-World Environments" is accepted by AsiaCCS'24.
 - *2023.06*: 🎉🎉 I join [Zhejiang University, Schoolof Software Technology](http://www.cst.zju.edu.cn/) <img src='./images/ZJU-Logo.png' style='width: 6em;'> as Researcher. 
 
@@ -34,7 +34,7 @@ My research interests lie in system security, intrustion detection and cyber thr
 # 📝 Publications 
 - ``NDSS 2025`` [Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection](https://arxiv.org/pdf/2404.14720), Lingzhi Wang, Xiangmin Shen, Weijian Li, **Zhenyuan Li**, R Sekar, Han Liu, Yan Chen
 
--``ArXiv 2024`` [From Sands to Mansions: Enabling Automatic Full-Life-Cycle Cyberattack Construction with LLM](https://arxiv.org/pdf/2407.16928), Lingzhi Wang, Jiahui Wang, Kyle Jung, Kedar Thiagarajan, Emily Wei, Xiangmin Shen, Yan Chen, **Zhenyuan Li**
+- ``ArXiv 2024`` [From Sands to Mansions: Enabling Automatic Full-Life-Cycle Cyberattack Construction with LLM](https://arxiv.org/pdf/2407.16928), Lingzhi Wang, Jiahui Wang, Kyle Jung, Kedar Thiagarajan, Emily Wei, Xiangmin Shen, Yan Chen, **Zhenyuan Li**
 
 - ``ArXiv 2024`` [Marlin: Knowledge-Driven Analysis of Provenance Graphs forEfficient and Robust Detection of Cyber Attacks](https://arxiv.org/pdf/2403.12541), **Zhenyuan Li**, Yangyang Wei, Xiangmin Shen, Lingzhi Wang, Yan Chen, Haitao Xu, Shouling Ji, Fan Zhang, Liang Hou, Wenmao Liu, Xuhong Zhang, Jianwei Ying
 
