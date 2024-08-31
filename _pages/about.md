@@ -28,7 +28,7 @@ My research interests lie in system security, intrustion detection and cyber thr
 - *2024.08*: 🎉🎉 Our paper "Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection" is accepted by NDSS'25.
 - *2024.08*: 🎉🎉 Granted National Natural Science Foundation of China (Youth Program).
 - *2024.01*: 🎉🎉 Our paper "Decoding the MITRE Engenuity ATT&CK Enterprise Evaluation: An Analysis of EDR Performance in Real-World Environments" is accepted by AsiaCCS'24.
-- *2023.06*: 🎉🎉 I join [Zhejiang University, Schoolof Software Technology](http://www.cst.zju.edu.cn/) <img src='./images/ZJU-Logo.png' style='width: 6em;'> as Researcher. 
+- *2023.07*: 🎉🎉 I join [Zhejiang University, Schoolof Software Technology](http://www.cst.zju.edu.cn/) <img src='./images/ZJU-Logo.png' style='width: 6em;'> as Researcher. 
 
 
 # 📝 Publications 
@@ -48,8 +48,8 @@ My research interests lie in system security, intrustion detection and cyber thr
 [**Project**](https://github.com/MarineYY/MARLIN) <strong><span class='show_paper_citations' data='3YGMOdwAAAAJ:UeHWp8X0CEIC'></span></strong> 
 ![](https://img.shields.io/github/stars/MarineYY/MARLIN?style=social)
 
-- Marlin conceptualize real-time attack detection in streaming logs as a streaming graph alignment problem. Utilizing the attack knowledge stored in query graphs, we can identify crucial entities and events within the provenance graph. This approach narrows down the search space and still retains essential contexts, enhancing our system’s robustness against evasion tactics.
-
+- Marlin conceptualize real-time attack detection in streaming logs as a streaming graph alignment problem, leveraging query graphs to pinpoint critical elements in the provenance graph. Integrated into a tag propagation framework, it processes each event once, reducing redundancy and enhancing efficiency and defense against evasion.
+    
 </div>
 </div>
 
@@ -114,9 +114,11 @@ My research interests lie in system security, intrustion detection and cyber thr
 - *Yangyang Wei* (Master) 2023 - now
 - *Jiahui Wang* (Master) 2023 - now
 - *Mingxiang Shi* (Master) 2023 - now
-- *Yao Zhu* (Master, Co-advisored with Shouling Ji) 2024 - now
+- *Yu Yang* (Master) 2023 - now
+- *Yao Zhu* (Master) 2023 - now
 - *Yuqiao Gu* (Master) 2024 - now
 - *Zhengkai Wang* (Master) 2024 - now
+- *Ai Jiang* (Master) 2024 - now
 
 
 # 🎖 Honors and Awards
@@ -126,6 +128,16 @@ My research interests lie in system security, intrustion detection and cyber thr
 - *2015-11* National Scholarship (Undergraduate) (Top 1%)
 
 
+# 💬 Invited Talks
+- *2020.10*, InForSec Cyber Security Academic Papers Sharing (Co-located with Beijing Cyber Security Conference)  \| [\[video\]](https://www.bilibili.com/video/BV1gy4y187Lq/?share_source=copy_web&vd_source=23dc4357b22105e2ec9569d56ca4163c)
+- *2019.11*, Effective and Light-Weight Deobfuscation and Semantic-Aware Attack Detection for PowerShell Scripts, CCS'19, London
+
+
+# 🛎️ Academic Service
+- Reviewer: TOSEM (2024), 计算机学报 (2024), 计算机科学(2024), IEEE Access (2020)
+- Subreviewer/External reviewer: IEEE S&P(2025, 2024) NDSS(2022), AsiaCCS(2021), CCS(2019, 2018), ICDCS(2019), ESORICS(2019)
+
+
 # 📖 Educations
 - *2017.09 - 2022.06*, Ph.D. in Cyber Security, Zhejiang University, Advised by [Prof. Yan Chen](https://users.cs.northwestern.edu/~ychen/).
 - *2021.05 - 2022.04*, Visiting Ph.D. Student, National University of Singapore, Advised by [Prof. Zhenkai Liang](https://www.comp.nus.edu.sg/~liangzk/).
@@ -133,18 +145,8 @@ My research interests lie in system security, intrustion detection and cyber thr
 - *2010.09 - 2013.06*, Zhenhai Middle School, Ningbo.
 
 
-# 💬 Invited Talks
-- *2020.10*, InForSec Cyber Security Academic Papers Sharing (Co-located with Beijing Cyber Security Conference)  \| [\[video\]](https://www.bilibili.com/video/BV1gy4y187Lq/?share_source=copy_web&vd_source=23dc4357b22105e2ec9569d56ca4163c)
-- *2019.11*, Effective and Light-Weight Deobfuscation and Semantic-Aware Attack Detection for PowerShell Scripts, CCS'19, London
-
-
 # 💻 Work Experience
 - *2023.07 - now*, [Zhejiang University](https://www.zju.edu.cn), Hangzhou, China.
 - *2022.07 - 2023.07*, [Huawei, 2012 Lab](https://www.huawei.com/en/), Hangzhou, China.
-
-
-# 🛎️ Academic Service
-- Reviewer: TOSEM (2024), 计算机学报 (2024), 计算机科学(2024), IEEE Access (2020)
-- Subreviewer/External reviewer: IEEE S&P(2025, 2024) NDSS(2022), AsiaCCS(2021), CCS(2019, 2018), ICDCS(2019), ESORICS(2019)
 
 <a href="https://info.flagcounter.com/GT4T"><img src="https://s01.flagcounter.com/map/GT4T/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
