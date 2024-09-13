@@ -25,7 +25,7 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 
 # 🔥 News
-- *2024.09*: 🎉🎉 Granted Ningbo Yongjiang Talent Programme (Youth Program).
+<!-- - *2024.09*: 🎉🎉 Granted Ningbo Yongjiang Talent Programme (Youth Program). -->
 - *2024.08*: 🎉🎉 Granted National Natural Science Foundation of China (Youth Program).
 - *2024.08*: 🎉🎉 Our paper "Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection" is accepted by NDSS'25.
 - *2024.01*: 🎉🎉 Our paper "Decoding the MITRE Engenuity ATT&CK Enterprise Evaluation: An Analysis of EDR Performance in Real-World Environments" is accepted by AsiaCCS'24.
@@ -98,7 +98,7 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 
 # 💫 Fundings
-- 宁波市“甬江人才工程”青年创新人才项目，**关键基础设施云安全关键技术研究**，2025/01-2029/12，获批，项目负责人
+<!-- - 宁波市“甬江人才工程”青年创新人才项目，**关键基础设施云安全关键技术研究**，2025/01-2029/12，获批，项目负责人 -->
 - 国家自然基金青年科学基金项目，**云原生下大规模实时溯源分析与攻击检测方法和关键技术研究**，2025/01-2027/12，获批，项目负责人
 - 国家重点研发计划“网络空间安全治理”专项，**面向终端的高隐蔽传播网络公害识别，取证和归因研究**，2024/01-2026/12，在研，子课题负责人
 - “蚂蚁”校企合作项目，**基于大语言模型的自动化漏洞利用方案生成与推荐**，2024/06-2025/06，在研，项目负责人
