@@ -25,7 +25,8 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 
 # 🔥 News
-<!-- - *2024.09*: 🎉🎉 Granted Ningbo Yongjiang Talent Programme (Youth Program). -->
+- *2024.09*: 🎉🎉 Our paper "Exploring the Depths of WebAudio: Advancing Greybox Fuzzing for Enhanced Vulnerability Detection in Safari" is accepted by APSEC'24.
+- *2024.09*: 🎉🎉 Awarded Ningbo Yongjiang Talent Programme (Youth Program).
 - *2024.08*: 🎉🎉 Granted National Natural Science Foundation of China (Youth Program).
 - *2024.08*: 🎉🎉 Our paper "Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection" is accepted by NDSS'25.
 - *2024.01*: 🎉🎉 Our paper "Decoding the MITRE Engenuity ATT&CK Enterprise Evaluation: An Analysis of EDR Performance in Real-World Environments" is accepted by AsiaCCS'24.
@@ -34,7 +35,7 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 
 # 📝 Publications 
-- ``NDSS 2025`` [Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection](https://arxiv.org/pdf/2404.14720), Lingzhi Wang, Xiangmin Shen, Weijian Li, **Zhenyuan Li**, R Sekar, Han Liu, Yan Chen
+- ``NDSS 2025`` [Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection](https://arxiv.org/pdf/2404.14720), Lingzhi Wang, Xiangmin Shen, Weijian Li, **Zhenyuan Li**✉️, R Sekar, Han Liu, Yan Chen
 
 - ``ArXiv 2024`` [From Sands to Mansions: Enabling Automatic Full-Life-Cycle Cyberattack Construction with LLM](https://arxiv.org/pdf/2407.16928), Lingzhi Wang, Jiahui Wang, Kyle Jung, Kedar Thiagarajan, Emily Wei, Xiangmin Shen, Yan Chen, **Zhenyuan Li**
   
@@ -52,6 +53,8 @@ My research interests lie in system security, intrustion detection and cyber thr
     
 </div>
 </div>
+
+- ``APSEC 2024`` Exploring the Depths of WebAudio: Advancing Greybox Fuzzing for Enhanced Vulnerability Detection in Safari, Jiashui Wang, Jiahui Wang, Jundong Xie, **Zhenyuan Li**✉️, Yan Chen, Peng Qian
 
 - ``AsiaCCS 2024`` [Decoding the MITRE Engenuity ATT&CK Enterprise Evaluation: An Analysis of EDR Performance in Real-World Environments](https://dl.acm.org/doi/pdf/10.1145/3634737.3645012), Xiangmin Shen, **Zhenyuan Li**, Graham Burleigh, Lingzhi Wang, Yan Chen
 
