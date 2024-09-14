@@ -100,6 +100,18 @@ My research interests lie in system security, intrustion detection and cyber thr
 </div>
 
 
+# Patents
+- **李振源**, 纪守领, 韦洋洋, 曾慧然, 尹建伟, **基于标签传递和事件基线学习的实时攻击链检测方法及系统**
+- 纪守领,	林型双,	赵彬彬,	巫英才,	邓水光, 孙斌, 伍一鸣, **李振源**, **基于大语言模型的智能合约功能性漏洞检测方法和系统**
+- 纪守领,	林型双,	赵彬彬,	巫英才,	邓水光, 孙斌, 伍一鸣, **李振源**, **基于不变式验证的智能合约功能性漏洞检测方法和系统**
+- 王凌志, 王家辉, 李振源, **一种端到端网络攻击构建方法**
+- 张帆, 周童, 赵新杰, 郭世泽, 许海涛, **李振源**, 陈思, 孙晓盼, **基于动态 API 的安卓高隐蔽型恶意软件检测方法与系统**
+- 张帆, 凌茜, **李振源**, 许海涛, 赵新杰, 郭世泽, 姚凯强 , **基于符号执行的 DDoS 攻击漏洞挖掘方法、系统、设备、介质**
+- （已授权）**李振源**, 曾慧然, **基于标签和图对齐的流式溯源图实时攻击检测方法及系统**
+- （已授权）杨润青, 熊春霖, **李振源**, 宋哲, **基于动态行为的细粒度RAT程序检测方法、系统及相应的APT攻击检测方法**
+- （已授权）**李振源**, 熊春霖, 陈焰, 杨海, **解混淆方法、装置、计算机设备和存储介质**
+
+
 # 💫 Fundings
 <!-- - 宁波市“甬江人才工程”青年创新人才项目，**关键基础设施云安全关键技术研究**，2025/01-2029/12，获批，项目负责人 -->
 - 国家自然基金青年科学基金项目，**云原生下大规模实时溯源分析与攻击检测方法和关键技术研究**，2025/01-2027/12，获批，项目负责人
@@ -118,11 +130,11 @@ My research interests lie in system security, intrustion detection and cyber thr
 - *Yangyang Wei* (Master) 2023 - now
 - *Jiahui Wang* (Master) 2023 - now
 - *Mingxiang Shi* (Master) 2023 - now
-- *Yu Yang* (Master) 2023 - now
-- *Yao Zhu* (Master) 2023 - now
+- *Yu Yang* (Master, Co-advised) 2023 - now
+- *Yao Zhu* (Master, Co-advised) 2023 - now
 - *Yuqiao Gu* (Master) 2024 - now
 - *Zhengkai Wang* (Master) 2024 - now
-- *Ai Jiang* (Master) 2024 - now
+- *Ai Jiang* (Master, Co-advised) 2024 - now
 
 
 # 🎖 Honors and Awards
