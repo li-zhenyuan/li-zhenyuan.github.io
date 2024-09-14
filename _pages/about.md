@@ -26,7 +26,7 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 # 🔥 News
 - *2024.09*: 🎉🎉 Our paper "Exploring the Depths of WebAudio: Advancing Greybox Fuzzing for Enhanced Vulnerability Detection in Safari" is accepted by APSEC'24.
-- *2024.09*: 🎉🎉 Awarded Ningbo Yongjiang Talent Programme (Youth Program).
+- *2024.09*: 🎉🎉 Awarded Ningbo "YongJiang" Talent Programme (Youth Program).
 - *2024.08*: 🎉🎉 Granted National Natural Science Foundation of China (Youth Program).
 - *2024.08*: 🎉🎉 Our paper "Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection" is accepted by NDSS'25.
 - *2024.01*: 🎉🎉 Our paper "Decoding the MITRE Engenuity ATT&CK Enterprise Evaluation: An Analysis of EDR Performance in Real-World Environments" is accepted by AsiaCCS'24.
