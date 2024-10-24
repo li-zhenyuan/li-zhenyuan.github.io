@@ -150,8 +150,8 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 
 # 🛎️ Academic Service
-- Reviewer: TOSEM (2024), 计算机学报 (2024), 计算机科学(2024), IEEE Access (2020)
-- Subreviewer/External reviewer: IEEE S&P(2025, 2024) NDSS(2022), AsiaCCS(2021), CCS(2019, 2018), ICDCS(2019), ESORICS(2019)
+- Reviewer: TOSEM (2024), Computer & Security, 计算机学报 (2024), 计算机科学(2024), IEEE Access (2020)
+- Subreviewer/External reviewer: IEEE S&P(2025, 2024), NDSS(2022), AsiaCCS(2021), CCS(2019, 2018), ICDCS(2019), ESORICS(2019)
 
 
 # 📖 Educations
