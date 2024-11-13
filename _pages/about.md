@@ -103,6 +103,7 @@ My research interests lie in system security, intrustion detection and cyber thr
 # 📑 Patents
 - 基于标签传递和事件基线学习的实时攻击链检测方法及系统
 - 基于标签和图对齐的流式溯源图实时攻击检测方法及系统
+- 基于多层数据融合的云平台细粒度溯源数据采集方法与系统
 - 一种端到端网络攻击构建方法
 - 基于动态行为的细粒度RAT程序检测方法、系统及相应的APT攻击检测方法
 - 解混淆方法、装置、计算机设备和存储介质
@@ -120,6 +121,7 @@ My research interests lie in system security, intrustion detection and cyber thr
 - “华为”校企合作项目，**抗混淆的鸿蒙应用安全指纹与风险描述生成算法研究**，2024/06-2025/06，在研，课题负责人
 - 浙江省“领雁”研发计划，**某云平台安全技术研究**，2024/01-2024/12，在研，课题负责人
 - CCF-绿盟“鲲鹏”科研基金，**云计算环境下基于流处理的大规模溯源分析**，2024/01-2024/12，在研，项目负责人
+- 国家自然科学基金联合基金项目，**面向APT网络攻击链的智能检测与溯源方法及关键技术研究**，2021/01-2023/12，结题，技术骨干
 
 
 # 📝 Teaching
@@ -150,8 +152,8 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 
 # 🛎️ Academic Service
-- Reviewer: TOSEM (2024), Computer & Security, 计算机学报 (2024), 计算机科学(2024), IEEE Access (2020)
-- Subreviewer/External reviewer: IEEE S&P(2025, 2024), NDSS(2022), AsiaCCS(2021), CCS(2019, 2018), ICDCS(2019), ESORICS(2019)
+- Reviewer: TOSEM (2024), Computer & Security, 计算机学报 (2024), 信息安全学报 (2024), 计算机科学 (2024), IEEE Access (2020)
+- Subreviewer/External reviewer: IEEE S&P (2025, 2024), NDSS (2022), AsiaCCS (2021), CCS (2019, 2018), ICDC (2019), ESORICS (2019)
 
 
 # 📖 Educations
