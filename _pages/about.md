@@ -35,6 +35,8 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 
 # 📝 Publications 
+- ``ArXiv 2024`` [PentestAgent: Incorporating LLM Agents to Automated Penetration Testing](https://arxiv.org/pdf/2411.05185), Xiangmin Shen, Lingzhi Wang, **Zhenyuan Li**, Yan Chen, Wencheng Zhao, Dawei Sun, Jiashui Wang, Wei Ruan
+
 - ``NDSS 2025`` [Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection](https://arxiv.org/pdf/2404.14720), Lingzhi Wang, Xiangmin Shen, Weijian Li, **Zhenyuan Li**✉️, R Sekar, Han Liu, Yan Chen
 
 - ``ArXiv 2024`` [From Sands to Mansions: Enabling Automatic Full-Life-Cycle Cyberattack Construction with LLM](https://arxiv.org/pdf/2407.16928), Lingzhi Wang, Jiahui Wang, Kyle Jung, Kedar Thiagarajan, Emily Wei, Xiangmin Shen, Yan Chen, **Zhenyuan Li**
@@ -101,6 +103,7 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 
 # 📑 Patents
+- 基于特征反向传播的攻击检测策略优化方法及系统
 - 基于标签传递和事件基线学习的实时攻击链检测方法及系统
 - 基于标签和图对齐的流式溯源图实时攻击检测方法及系统
 - 基于多层数据融合的云平台细粒度溯源数据采集方法与系统
@@ -111,6 +114,7 @@ My research interests lie in system security, intrustion detection and cyber thr
 - 基于不变式验证的智能合约功能性漏洞检测方法和系统
 - 基于动态 API 的安卓高隐蔽型恶意软件检测方法与系统
 - 基于符号执行的 DDoS 攻击漏洞挖掘方法、系统、设备、介质
+- 基于函数秘密分享的抗半诚实敌手的双服务器关键词私有信息检索方法、电子设备、介质  
 
 
 # 💫 Fundings
