@@ -35,9 +35,10 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 
 # 📝 Publications 
-- ``ArXiv 2024`` [PentestAgent: Incorporating LLM Agents to Automated Penetration Testing](https://arxiv.org/pdf/2411.05185), Xiangmin Shen, Lingzhi Wang, **Zhenyuan Li**, Yan Chen, Wencheng Zhao, Dawei Sun, Jiashui Wang, Wei Ruan
 
 - ``NDSS 2025`` [Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection](https://arxiv.org/pdf/2404.14720), Lingzhi Wang, Xiangmin Shen, Weijian Li, **Zhenyuan Li**✉️, R Sekar, Han Liu, Yan Chen
+
+- ``ArXiv 2024`` [PentestAgent: Incorporating LLM Agents to Automated Penetration Testing](https://arxiv.org/pdf/2411.05185), Xiangmin Shen, Lingzhi Wang, **Zhenyuan Li**, Yan Chen, Wencheng Zhao, Dawei Sun, Jiashui Wang, Wei Ruan
 
 - ``ArXiv 2024`` [From Sands to Mansions: Enabling Automatic Full-Life-Cycle Cyberattack Construction with LLM](https://arxiv.org/pdf/2407.16928), Lingzhi Wang, Jiahui Wang, Kyle Jung, Kedar Thiagarajan, Emily Wei, Xiangmin Shen, Yan Chen, **Zhenyuan Li**
   
@@ -103,10 +104,10 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 
 # 📑 Patents
-- 基于特征反向传播的攻击检测策略优化方法及系统
 - 基于标签传递和事件基线学习的实时攻击链检测方法及系统
 - 基于标签和图对齐的流式溯源图实时攻击检测方法及系统
 - 基于多层数据融合的云平台细粒度溯源数据采集方法与系统
+- 基于特征反向传播的攻击检测策略优化方法及系统
 - 一种端到端网络攻击构建方法
 - 基于动态行为的细粒度RAT程序检测方法、系统及相应的APT攻击检测方法
 - 解混淆方法、装置、计算机设备和存储介质
@@ -157,7 +158,7 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 
 # 🛎️ Academic Service
-- Reviewer: TOSEM (2024), Computer & Security, 计算机学报 (2024), 信息安全学报 (2024), 计算机科学 (2024), IEEE Access (2020)
+- Reviewer: TDSC(2024), TOSEM (2024), Computer & Security(2024), 计算机学报 (2024), 信息安全学报 (2024), 计算机科学 (2024), IEEE Access (2020)
 - Subreviewer/External reviewer: IEEE S&P (2025, 2024), NDSS (2022), AsiaCCS (2021), CCS (2019, 2018), ICDC (2019), ESORICS (2019)
 
 
