@@ -25,6 +25,7 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 
 # 🔥 News
+- *2024.12*: 🎉🎉 Our paper "Understanding the Business of Online Affiliate Marketing: An Empirical Study" is accepted by INFOCOM'25.
 - *2024.09*: 🎉🎉 Our paper "Exploring the Depths of WebAudio: Advancing Greybox Fuzzing for Enhanced Vulnerability Detection in Safari" is accepted by APSEC'24.
 - *2024.09*: 🎉🎉 Awarded Ningbo "YongJiang" Talent Programme (Youth Program).
 - *2024.08*: 🎉🎉 Granted National Natural Science Foundation of China (Youth Program).
@@ -39,6 +40,8 @@ My research interests lie in system security, intrustion detection and cyber thr
 **Full List: [Google Scholar](https://scholar.google.com/citations?user=3YGMOdwAAAAJ)**
 
 - ``NDSS 2025`` [Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection](https://arxiv.org/pdf/2404.14720), Lingzhi Wang, Xiangmin Shen, Weijian Li, **Zhenyuan Li**✉️, R Sekar, Han Liu, Yan Chen
+
+- ``INFOCOM 2025`` Understanding the Business of Online Affiliate Marketing: An Empirical Study, Haitao Xu, Yiwen Sun, Kaleem Ullah Qasim, Shuai Hao, Wenrui Ma, **Zhenyuan Li**, Fan Zhang,Meng Han, Zhao Li
 
 - ``ArXiv 2024`` [PentestAgent: Incorporating LLM Agents to Automated Penetration Testing](https://arxiv.org/pdf/2411.05185), Xiangmin Shen, Lingzhi Wang, **Zhenyuan Li**, Yan Chen, Wencheng Zhao, Dawei Sun, Jiashui Wang, Wei Ruan
 
