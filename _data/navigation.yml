@@ -9,11 +9,5 @@ main:
   - title: "Publications"
     url: "/#-selected publications"
 
-  - title: "Fundings"
-    url: "/#-fundings"
-
-  - title: "Teaching"
-    url: "/#-teaching"
-
   - title: "Students"
     url: "/#-students"
