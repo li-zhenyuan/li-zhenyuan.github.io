@@ -37,11 +37,12 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 # 📝 Selected Publications 
 
-**Full List: [Google Scholar](https://scholar.google.com/citations?user=3YGMOdwAAAAJ)**
+**Full List: [Google Scholar](https://scholar.google.com/citations?user=3YGMOdwAAAAJ)** 
+(* Equally Contribution, # Corresponding Author, ¶)
 
-- ``NDSS 2025`` [Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection](https://arxiv.org/pdf/2404.14720), Lingzhi Wang, Xiangmin Shen, Weijian Li, **Zhenyuan Li**✉️, R Sekar, Han Liu, Yan Chen
+- ``NDSS 2025`` [Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection](https://arxiv.org/pdf/2404.14720), Lingzhi Wang, Xiangmin Shen, Weijian Li, **Zhenyuan Li#**, R Sekar, Han Liu, Yan Chen
 
-- ``INFOCOM 2025`` Understanding the Business of Online Affiliate Marketing: An Empirical Study, Haitao Xu, Yiwen Sun, Kaleem Ullah Qasim, Shuai Hao, Wenrui Ma, **Zhenyuan Li**, Fan Zhang,Meng Han, Zhao Li
+- ``INFOCOM 2025`` Understanding the Business of Online Affiliate Marketing: An Empirical Study, Haitao Xu, Yiwen Sun, Kaleem Ullah Qasim, Shuai Hao, Wenrui Ma, **Zhenyuan Li**, Fan Zhang, Meng Han, Zhao Li
 
 - ``ArXiv 2024`` [PentestAgent: Incorporating LLM Agents to Automated Penetration Testing](https://arxiv.org/pdf/2411.05185), Xiangmin Shen, Lingzhi Wang, **Zhenyuan Li**, Yan Chen, Wencheng Zhao, Dawei Sun, Jiashui Wang, Wei Ruan
 
@@ -112,9 +113,7 @@ My research interests lie in system security, intrustion detection and cyber thr
 - 国家自然基金青年科学基金项目，**云原生下大规模实时溯源分析与攻击检测方法和关键技术研究**，2025/01-2027/12，在研，项目负责人
 - 宁波市“甬江人才工程”青年创新人才项目，**关键基础设施云安全关键技术研究**，2025/01-2029/12，获批，项目负责人
 - 国家重点研发计划“网络空间安全治理”专项，**面向终端的高隐蔽传播网络公害识别，取证和归因研究**，2024/01-2026/12，在研，子课题负责人
-- “蚂蚁”校企合作项目，**基于大语言模型的自动化漏洞利用方案生成与推荐**，2024/06-2025/06，在研，项目负责人
 - “华为”校企合作项目，**抗混淆的鸿蒙应用安全指纹与风险描述生成算法研究**，2024/06-2025/06，在研，课题负责人
-- 浙江省“领雁”研发计划，**某云平台安全技术研究**，2024/01-2024/12，在研，课题负责人
 - CCF-绿盟“鲲鹏”科研基金，**云计算环境下基于流处理的大规模溯源分析**，2024/01-2024/12，在研，项目负责人
 - 国家自然科学基金联合基金项目，**面向APT网络攻击链的智能检测与溯源方法及关键技术研究**，2021/01-2023/12，结题，技术骨干
 
