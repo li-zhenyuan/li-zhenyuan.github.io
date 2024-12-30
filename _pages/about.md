@@ -25,6 +25,7 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 
 # 🔥 News
+- *2024.12*: 🎉🎉 Granted ``Leading Goose'' R&D Program of Zhejiang as PI.
 - *2024.12*: 🎉🎉 Our paper "Understanding the Business of Online Affiliate Marketing: An Empirical Study" is accepted by INFOCOM'25.
 - *2024.09*: 🎉🎉 Our paper "Exploring the Depths of WebAudio: Advancing Greybox Fuzzing for Enhanced Vulnerability Detection in Safari" is accepted by APSEC'24.
 - *2024.09*: 🎉🎉 Awarded Ningbo "YongJiang" Talent Programme (Youth Program).
@@ -38,7 +39,7 @@ My research interests lie in system security, intrustion detection and cyber thr
 # 📝 Selected Publications 
 
 **Full List: [Google Scholar](https://scholar.google.com/citations?user=3YGMOdwAAAAJ)** 
-(* Equally Contribution, # Corresponding Author, ¶)
+(* Equally Contribution, # Corresponding Author)
 
 - ``NDSS 2025`` [Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection](https://arxiv.org/pdf/2404.14720), Lingzhi Wang, Xiangmin Shen, Weijian Li, **Zhenyuan Li#**, R Sekar, Han Liu, Yan Chen
 
