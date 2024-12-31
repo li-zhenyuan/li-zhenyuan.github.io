@@ -27,13 +27,10 @@ My research interests lie in system security, intrustion detection and cyber thr
 # 🔥 News
 - *2024.12*: 🎉🎉 Granted "Leading Goose" R&D Program of Zhejiang as PI.
 - *2024.12*: 🎉🎉 Our paper "Understanding the Business of Online Affiliate Marketing: An Empirical Study" is accepted by INFOCOM'25.
-- *2024.09*: 🎉🎉 Our paper "Exploring the Depths of WebAudio: Advancing Greybox Fuzzing for Enhanced Vulnerability Detection in Safari" is accepted by APSEC'24.
 - *2024.09*: 🎉🎉 Awarded Ningbo "YongJiang" Talent Programme (Youth Program).
 - *2024.08*: 🎉🎉 Granted National Natural Science Foundation of China (Youth Program).
 - *2024.08*: 🎉🎉 Our paper "Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection" is accepted by NDSS'25.
 - *2024.01*: 🎉🎉 Our paper "Decoding the MITRE Engenuity ATT&CK Enterprise Evaluation: An Analysis of EDR Performance in Real-World Environments" is accepted by AsiaCCS'24.
-- *2023.12*: 🎉🎉 Granted CCF-NSFOCUS “Kunpeng” Research Fund.
-- *2023.07*: 🎉🎉 I join [Zhejiang University, Schoolof Software Technology](http://www.cst.zju.edu.cn/) <img src='./images/ZJU-Logo.png' style='width: 6em;'> as Researcher. 
 
 
 # 📝 Selected Publications 
