@@ -25,6 +25,7 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 
 # 🔥 News
+- *2025.02*：🎉🎉 Our poster “[LLM-Driven Automated Exploit Assessment for Penetration Testing](https://ndss25-posters.hotcrp.com/u/0/doc/ndss25-posters-final71.pdf)” will appear in NDSS'25 poster session.
 - *2025.01*：🎉🎉 Our work “Lightweight Online Hunting System for Highly Concealed Threats in Massive Log Streams” has been selected as a finalist in the offline round of the East China Region of the "Software System Security Competition-软件系统安全赛" of the "Software Innovation Competition-软件创新大赛", congratulations to **Shiyu**, **Yangyang**, **Yi** and **Zhengkai**. [Notification Link](http://www.ccsssc.com/notice?id=1881891643064012800)
 - *2024.12*: 🎉🎉 Granted "Leading Goose" R&D Program of Zhejiang as PI.
 - *2024.12*: 🎉🎉 Our paper "Understanding the Business of Online Affiliate Marketing: An Empirical Study" is accepted by INFOCOM'25.
