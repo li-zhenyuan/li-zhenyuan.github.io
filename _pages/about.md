@@ -101,11 +101,9 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 
 # 📑 Selected Patents
-**高效威胁狩猎**：基于标签传递和事件基线学习的实时攻击链检测方法及系统、基于标签和图对齐的流式溯源图实时攻击检测方法及系统、基于迭代预测校正的流式溯源图的异常检测方法及系统、基于特征反向传播的攻击检测策略优化方法及系统、基于多层数据融合的云平台细粒度溯源数据采集方法与系统
-
-**恶意程序分析**：RAT程序检测方法、系统及相应的APT攻击检测方法、解混淆方法、装置、计算机设备和存储介质
-
-**大语言模型应用**：一种端到端网络攻击构建方法、基于大语言模型的只能合约功能性漏洞检测方法和系统
+- **高效威胁狩猎**：基于标签传递和事件基线学习的实时攻击链检测方法及系统、基于标签和图对齐的流式溯源图实时攻击检测方法及系统、基于迭代预测校正的流式溯源图的异常检测方法及系统、基于特征反向传播的攻击检测策略优化方法及系统、基于多层数据融合的云平台细粒度溯源数据采集方法与系统
+- **恶意程序分析**：RAT程序检测方法、系统及相应的APT攻击检测方法、解混淆方法、装置、计算机设备和存储介质
+- **大语言模型应用**：一种端到端网络攻击构建方法、基于大语言模型的只能合约功能性漏洞检测方法和系统
 
 
 
@@ -121,15 +119,12 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 
 # 🎓 Students
-**2023**: Yangyang Wei (3 * Patents, TIFS Major Revision 2nd Author), Jiahui Wang (APSEC'24 2nd Author), Mingxiang Shi, Yu Yang, Yao Zhu
-
-**2024**: Yuqiao Gu (1 * Patents), Zhenkai Wang, Ai Jiang
-
-**2025**: Shiyu Tan, Yaokun Li, Qizhi Cai
+- **2023**: Yangyang Wei (3 * Patents, TIFS Major Revision 2nd Author), Jiahui Wang (APSEC'24 2nd Author), Mingxiang Shi, Yu Yang, Yao Zhu
+- **2024**: Yuqiao Gu (1 * Patents), Zhenkai Wang, Ai Jiang
+- **2025**: Shiyu Tan, Yaokun Li, Qizhi Cai
 
 ---
-
-**Alumni**:
+- **Alumni**:
 
 
 # 🎖 Honors and Awards
@@ -145,9 +140,9 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 
 # 🛎️ Academic Service
-- Reviewer: TIFS(2025), TDSC(2025, 2024), EMSE(2025), TOSEM (2024), Computer & Security(2024), 计算机学报 (2024), 信息安全学报 (2024), 计算机科学 (2024), IEEE Access (2020)
-- TPC Member: IEEE Globecom 2025 CISS
-- Subreviewer/External reviewer: IEEE S&P (2025, 2024), NDSS (2022), AsiaCCS (2021), CCS (2019, 2018), ICDC (2019), ESORICS (2019)
+- **Reviewer**: TIFS(2025), TDSC(2025, 2024), EMSE(2025), TOSEM (2024), Computer & Security(2024), 计算机学报 (2024), 信息安全学报 (2024), 计算机科学 (2024), IEEE Access (2020)
+- **TPC Member**: IEEE Globecom 2025 CISS
+- **Subreviewer/External reviewer**: IEEE S&P (2025, 2024), NDSS (2022), AsiaCCS (2021), CCS (2019, 2018), ICDC (2019), ESORICS (2019)
 
 
 # 📖 Educations
