@@ -119,9 +119,9 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 
 # 🎓 Students
-- **2023**: Yangyang Wei (3 * Patents, TIFS Major Revision 2nd Author), Jiahui Wang (APSEC'24 2nd Author), Mingxiang Shi, Yu Yang, Yao Zhu
-- **2024**: Yuqiao Gu (1 * Patents), Zhenkai Wang, Ai Jiang
-- **2025**: Shiyu Tan, Yaokun Li, Qizhi Cai
+- **2023**: Jiahui Wang (APSEC'24 2nd Author, 1 * Patents), Mingxiang Shi, Yangyang Wei (3 * Patents, TIFS Major Revision 2nd Author, 1 * Competition Award), Yu Yang, Yao Zhu
+- **2024**: Yuqiao Gu (1 * Patents), Zhenkai Wang (1 * Competition Award), Yi Jiang (1 * Competition Award)
+- **2025**: Shiyu Tan (1 * Competition Award), Yaokun Li, Qizhi Cai
 
 ---
 - **Alumni**:
