@@ -25,9 +25,9 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 
 # 🔥 News
-- *2025.03*：🎉🎉 Our work “Lightweight Online Hunting System for Highly Concealed Threats in Massive Log Streams” has been selected as a finalist in the offline round of China（全国总决赛） of the "Software System Security Competition-软件系统安全赛" of the "Software Innovation Competition-软件创新大赛", congratulations to **Shiyu**, **Yangyang**, **Yi** and **Zhengkai**. [Notification Link](http://www.ccsssc.com/notice)
+- *2025.03*：作品“海量日志流中高隐蔽威胁在线检测系统” 入围软件创新大赛-软件系统安全赛-**全国赛**，恭喜几位同学。 \[[Notification Link](http://www.ccsssc.com/notice)\]
 - *2025.02*：🎉🎉 Our poster “[LLM-Driven Automated Exploit Assessment for Penetration Testing](https://ndss25-posters.hotcrp.com/u/0/doc/ndss25-posters-final71.pdf)” will appear in NDSS'25 poster session.
-- *2025.01*：🎉🎉 Our work “Lightweight Online Hunting System for Highly Concealed Threats in Massive Log Streams” has been selected as a finalist in the offline round of the East China Region（区域赛） of the "Software System Security Competition-软件系统安全赛" of the "Software Innovation Competition-软件创新大赛", congratulations to **Shiyu**, **Yangyang**, **Yi** and **Zhengkai**. [Notification Link](http://www.ccsssc.com/notice)
+- *2025.01*：🎉🎉 作品“海量日志流中高隐蔽威胁在线检测系统” 入围软件创新大赛-软件系统安全赛-华东赛区**区域线下赛**，恭喜几位同学。 \[[Notification Link](http://www.ccsssc.com/notice)\]
 - *2024.12*: 🎉🎉 Granted "Leading Goose" R&D Program of Zhejiang as PI.
 - *2024.12*: 🎉🎉 Our paper "Understanding the Business of Online Affiliate Marketing: An Empirical Study" is accepted by INFOCOM'25.
 - *2024.09*: 🎉🎉 Awarded Ningbo "YongJiang" Talent Programme (Youth Program).
@@ -101,9 +101,9 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 
 # 📑 Selected Patents
-- **高效威胁狩猎**：基于标签传递和事件基线学习的实时攻击链检测方法及系统、基于标签和图对齐的流式溯源图实时攻击检测方法及系统、基于迭代预测校正的流式溯源图的异常检测方法及系统、基于特征反向传播的攻击检测策略优化方法及系统、基于多层数据融合的云平台细粒度溯源数据采集方法与系统
-- **恶意程序分析**：RAT程序检测方法、系统及相应的APT攻击检测方法、解混淆方法、装置、计算机设备和存储介质
-- **大语言模型应用**：一种端到端网络攻击构建方法、基于大语言模型的只能合约功能性漏洞检测方法和系统
+- **高效威胁狩猎**：“基于标签传递和事件基线学习的实时攻击链检测方法及系统”、“基于标签和图对齐的流式溯源图实时攻击检测方法及系统”、“基于迭代预测校正的流式溯源图的异常检测方法及系统”、“基于特征反向传播的攻击检测策略优化方法及系统”、“基于多层数据融合的云平台细粒度溯源数据采集方法与系统”
+- **恶意程序分析**：“RAT程序检测方法、系统及相应的APT攻击检测方法”、“解混淆方法、装置、计算机设备和存储介质”
+- **大语言模型应用**：“一种端到端网络攻击构建方法”、“基于大语言模型的只能合约功能性漏洞检测方法和系统”
 
 
 
@@ -121,7 +121,7 @@ My research interests lie in system security, intrustion detection and cyber thr
 # 🎓 Students
 - **2025**: Shiyu Tan (1 * Competition Award), Yaokun Li, Qizhi Cai
 - **2024**: Yuqiao Gu (1 * Patents), Zhenkai Wang (1 * Competition Award), Yi Jiang (1 * Competition Award)
-- **2023**: Jiahui Wang (APSEC'24 2nd Author, 1 * Patents), Mingxiang Shi(1 * Patents), Yangyang Wei (3 * Patents, TIFS Major Revision 2nd Author, 1 * Competition Award), Yu Yang(RAID'25 in submission 1st Author), Yao Zhu (ICML'25 in submission 1st Author)
+- **2023**: Jiahui Wang (APSEC'24 2nd Author, 1 * Patents), Mingxiang Shi (1 * Patents), Yangyang Wei (3 * Patents, TIFS Major Revision 2nd Author, 1 * Competition Award), Yu Yang (RAID'25 in submission 1st Author), Yao Zhu (ICML'25 in submission 1st Author)
 
 ---
 - **Alumni**:
