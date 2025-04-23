@@ -27,7 +27,7 @@ My research interests lie in system security, intrustion detection and cyber thr
 # 🔥 News
 - *2025.04*: Our paper "PentestAgent: Incorporating LLM Agents to Automated Penetration Testing" is accepted by AsiaCCS'25.
 - *2025.03*：指导作品“海量日志流中高隐蔽威胁在线检测系统”获软件创新大赛-软件系统安全赛-华东区域一等奖，并入围全国赛，恭喜参与同学。 \[[Notification Link](http://www.ccsssc.com/notice)\]
-- *2025.02*：Our poster “[LLM-Driven Automated Exploit Assessment for Penetration Testing](https://ndss25-posters.hotcrp.com/u/0/doc/ndss25-posters-final71.pdf)” will appear in NDSS'25 poster session.
+- *2025.02*: Our poster “[LLM-Driven Automated Exploit Assessment for Penetration Testing](https://ndss25-posters.hotcrp.com/u/0/doc/ndss25-posters-final71.pdf)” will appear in NDSS'25 poster session.
 - *2024.12*: Granted "Leading Goose" R&D Program of Zhejiang as PI.
 - *2024.12*: Our paper "Understanding the Business of Online Affiliate Marketing: An Empirical Study" is accepted by INFOCOM'25.
 - *2024.09*: Awarded Ningbo "YongJiang" Talent Programme (Youth Program).
@@ -42,7 +42,7 @@ My research interests lie in system security, intrustion detection and cyber thr
 (* Equally Contribution, # Corresponding Author)
 
 - ``AsiaCCS 2025`` "PentestAgent: Incorporating LLM Agents to Automated Penetration
-Testing", Xiangmin Shen, Lingzhi Wang, **Zhenyuan Li**, Yan Chen， Wencheng Zhao, Dawei Sun, Jiashui Wang, Wei Ruan
+Testing", Xiangmin Shen, Lingzhi Wang, **Zhenyuan Li**, Yan Chen, Wencheng Zhao, Dawei Sun, Jiashui Wang, Wei Ruan
 
 - ``NDSS 2025`` "[Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection](https://arxiv.org/pdf/2404.14720)", Lingzhi Wang, Xiangmin Shen, Weijian Li, **Zhenyuan Li#**, R Sekar, Han Liu, Yan Chen
 
