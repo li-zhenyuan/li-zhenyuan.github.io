@@ -44,13 +44,13 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 - ``ICML 2025`` "The Case for Learned Provenance-based System Behavior Baseline", Yao Zhu\*, **Zhenyuan LI\*#**, Yangyang Wei, Shouling Ji 
 
-- ``AsiaCCS 2025`` "PentestAgent: Incorporating LLM Agents to Automated Penetration Testing", Xiangmin Shen, Lingzhi Wang, **Zhenyuan Li**, Yan Chen, Wencheng Zhao, Dawei Sun, Jiashui Wang, Wei Ruan
+- ``ArXiv 2025`` "[From Sands to Mansions: Towards Automated Cyberattack Emulation with Classical Planning and Large Language Models](https://arxiv.org/pdf/2407.16928)", Lingzhi Wang, **Zhenyuan Li**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wang, Yangyang Wei, Xiangmin Shen, Ruan Wei, Yan Chen
 
-- ``NDSS 2025`` "[Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection](https://arxiv.org/pdf/2404.14720)", Lingzhi Wang, Xiangmin Shen, Weijian Li, **Zhenyuan Li#**, R Sekar, Han Liu, Yan Chen
+- ``AsiaCCS 2025`` "PentestAgent: Incorporating LLM Agents to Automated Penetration Testing", Xiangmin Shen, Lingzhi Wang, **Zhenyuan Li**, Yan Chen, Wencheng Zhao, Dawei Sun, Jiashui Wang, Wei Ruan
 
 - ``INFOCOM 2025`` "Understanding the Business of Online Affiliate Marketing: An Empirical Study", Haitao Xu, Yiwen Sun, Kaleem Ullah Qasim, Shuai Hao, Wenrui Ma, **Zhenyuan Li**, Fan Zhang, Meng Han, Zhao Li
 
-- ``ArXiv 2024`` "[From Sands to Mansions: Enabling Automatic Full-Life-Cycle Cyberattack Construction with LLM](https://arxiv.org/pdf/2407.16928)", Lingzhi Wang, Jiahui Wang, Kyle Jung, Kedar Thiagarajan, Emily Wei, Xiangmin Shen, Yan Chen, **Zhenyuan Li**
+- ``NDSS 2025`` "[Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection](https://arxiv.org/pdf/2404.14720)", Lingzhi Wang, Xiangmin Shen, Weijian Li, **Zhenyuan Li#**, R Sekar, Han Liu, Yan Chen
   
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2024</div><img src='images/Marlin.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
