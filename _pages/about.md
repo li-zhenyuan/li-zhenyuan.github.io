@@ -44,7 +44,7 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 - ``ICML 2025`` "The Case for Learned Provenance-based System Behavior Baseline", Yao Zhu\*, **Zhenyuan LI\*#**, Yangyang Wei, Shouling Ji 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2024</div><img src='images/aurora.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/aurora.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 "[From Sands to Mansions: Towards Automated Cyberattack Emulation with Classical Planning and Large Language Models](https://arxiv.org/pdf/2407.16928)"
@@ -54,7 +54,7 @@ Lingzhi Wang, **Zhenyuan Li**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wang
 [**Project**](https://github.com/LexusWang/Aurora-demos?tab=readme-ov-file) <strong><span class='show_paper_citations' data='3YGMOdwAAAAJ:UeHWp8X0CEIC'></span></strong> 
 ![](https://img.shields.io/github/stars/LexusWang/Aurora-demos?style=social)
 
-- This paper introduces AURORA, a system that leverages a modular attack model and AI to automatically generate and execute complex cyberattacks, aiming to create a large-scale, realistic dataset for enhancing cyber defense. By automating attack planning, environment setup, and semi-automatic execution, AURORA successfully constructed a dataset of over 1,000 attack chains, outperforming existing methods, and the authors plan to release the dataset and code to foster future research.
+- AURORA leverages a modular attack model and LLM to automatically generate and execute complex cyberattacks, aiming to create a large-scale, realistic dataset for enhancing cyber defense. By automating attack planning, environment setup, and semi-automatic execution, AURORA successfully constructed a dataset of over 1,000 attack chains.
     
 </div>
 </div>
