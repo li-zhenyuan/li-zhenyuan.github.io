@@ -137,17 +137,20 @@ Lingzhi Wang, **Zhenyuan Li**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wang
 
 
 # 🎓 Students
-- **2025**: Shiyu Tan (1 * Competition Award), Yaokun Li, Qizhi Cai
-- **2024**: Yuqiao Gu (1 * Patents), Zhenkai Wang (1 * Competition Award), Yi Jiang (1 * Competition Award)
-- **2023**: Jiahui Wang (APSEC'24 2nd Author, 1 * Patents), Mingxiang Shi (1 * Patents), Yangyang Wei (3 * Patents, TIFS Major Revision 2nd Author, 1 * Competition Award), Yu Yang (RAID'25 in submission 1st Author), Yao Zhu (ICML'25 1st Author)
+- **2025**: Shiyu Tan (1 * Patent, 1 * Competition Award), Yaokun Li, Qizhi Cai
+- **2024**: Yuqiao Gu (1 * Patent, 1 * Competition Award), Zhenkai Wang (1 * Competition Award), Yi Jiang (1 * Competition Award)
+- **2023**: Jiahui Wang (APSEC'24 2nd Author, 1 * Patent), Mingxiang Shi (1 * Patent), Yangyang Wei (3 * Patents, 1 * Competition Award), Yu Yang (RAID'25 in submission 1st Author), Yao Zhu (ICML'25 1st Author)
 
 ---
 - **Alumni**:
 
 
 # 🎖 Honors and Awards
-- *2021.02* Zhejiang Lab's International Talent Fund for Young Professionals
+- *2025-05* 软件系统安全赛“全国二等奖”及“优秀指导教师奖”
+- *2024.09* Ningbo "YongJiang" Talent Programme (Youth Program).
+- *2021-02* Zhejiang Lab's International Talent Fund for Young Professionals
 - *2020-12* Zhejiang University's Academic Rising Star 
+- *2020-10* CSC Joint Ph.D. Program
 - *2017-05* Outstanding Graduate of Xidian University (Top 1%)
 - *2015-11* National Scholarship (Undergraduate) (Top 1%)
 
