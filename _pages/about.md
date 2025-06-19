@@ -142,7 +142,7 @@ Lingzhi Wang, **Zhenyuan Li**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wang
 
 
 # 🎓 Students
-- **2025**: Shiyu Tan (1 * Patent, 1 * Competition Award), Yaokun Li, Qizhi Cai
+- **2025**: Shiyu Tan (1 * Patent, 1 * Competition Award), Yaokun Li, Qizhi Cai, Haocheng Li
 - **2024**: Yuqiao Gu (1 * Patent, 1 * Competition Award), Zhenkai Wang (1 * Competition Award), Yi Jiang (1 * Competition Award)
 - **2023**: Jiahui Wang (APSEC'24 2nd Author, 1 * Patent), Mingxiang Shi (1 * Patent), Yangyang Wei (3 * Patents, 1 * Competition Award), Yu Yang (RAID'25 in submission 1st Author), Yao Zhu (ICML'25 1st Author)
 
