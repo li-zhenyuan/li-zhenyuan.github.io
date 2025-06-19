@@ -21,7 +21,12 @@ I am a Researcher in the [Zhejiang University, Schoolof Software Technology](htt
 
 My research interests lie in system security, intrustion detection and cyber threat analysis techniques. I am now working towards to design practical intrusion detection and attack investigation systems. I work closely with my PhD advisor Prof. [Yan Chen](https://users.cs.northwestern.edu/~ychen/) from Northwestern University and Prof. [Shouling Ji](https://nesa.zju.edu.cn) from Zhejiang University.
 
-**"Contact [me](mailto:li_zhenyuan@qq.com) for intrusion detection systems research that are in line with the industry!!!"（持续招收对安全研究有兴趣的硕士研究生和本科生！）**
+**Recent research interests:**
+- Intelligent yet Effcient Cyber Attack Hunting.
+- Action Security for LLM Agents.
+- LLM-powered Security Analysis.
+
+"Contact [me](mailto:li_zhenyuan@qq.com) for security research that are in line with the industry!!!"（持续招收对安全研究有兴趣的硕士研究生和本科生！）**
 
 
 # 🔥 News
