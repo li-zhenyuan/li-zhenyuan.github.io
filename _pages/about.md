@@ -30,6 +30,7 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 
 # 🔥 News
+- 📑 *2025.07*: Our paper "AutoSeg: Automatic Micro-segmentation Policy Generation via Configuration Analysis" is accepted by Computer & Security.
 - 🎉 *2025.05*：指导作品“重明鸟：海量日志流中高隐蔽威胁在线检测系统”获软件创新大赛-软件系统安全赛“全国二等奖”及“优秀指导教师奖”，恭喜参与同学。 \[[Notification Link](http://www.ccsssc.com/notice)\]
 - 📑 *2025.05*: Our paper "The Case for Learned Provenance-based System Behavior Baseline" is accepted by ICML'25.
 - 📑 *2025.04*: Our paper "PentestAgent: Incorporating LLM Agents to Automated Penetration Testing" is accepted by AsiaCCS'25.
@@ -46,6 +47,8 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 **Full List: [Google Scholar](https://scholar.google.com/citations?user=3YGMOdwAAAAJ)** 
 (* Equally Contribution, # Corresponding Author)
+
+- ``COSE 2025`` "AutoSeg: Automatic Micro-segmentation Policy Generation via Configuration Analysis", Andong Chen, Zhaoxuan Jin, **Zhenyuan Li#**, Yan Chen, Yu Ning, Ying Wang 
 
 - ``ICML 2025`` "The Case for Learned Provenance-based System Behavior Baseline", Yao Zhu\*, **Zhenyuan LI\*#**, Yangyang Wei, Shouling Ji 
 
@@ -122,11 +125,10 @@ Lingzhi Wang, **Zhenyuan Li**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wang
 
 
 # 📑 Selected Patents
-- **全量数据采集**：“基于 eBPF 的 Android 系统细粒度溯源数据采集方法及装置”、“基于多层数据融合的云平台细粒度溯源数据采集方法与系统”
-- **高效威胁狩猎**：“基于标签传递和事件基线学习的实时攻击链检测方法及系统”、“基于标签和图对齐的流式溯源图实时攻击检测方法及系统”
-- **智能规则优化**：“基于迭代预测校正的流式溯源图的异常检测方法及系统”、“基于特征反向传播的攻击检测策略优化方法及系统”
-- **自动攻击规划**：“一种端到端网络攻击构建方法”、“大模型驱动的自动化多阶段交互式渗透测试方法及系统”、“基于大模型的可疑点前后向追踪与攻击路径还原方法及系统”、“基于大语言模型的智能合约功能性漏洞检测方法和系统”
-- **恶意程序分析**：“RAT程序检测方法、系统及相应的APT攻击检测方法”、“解混淆方法、装置、计算机设备和存储介质”
+- **全量数据采集**：“（受理）基于 eBPF 的 Android 系统细粒度溯源数据采集方法及装置”、“（授权）基于多层数据融合的云平台细粒度溯源数据采集方法与系统”
+- **高效威胁狩猎**：“（授权）基于标签传递和事件基线学习的实时攻击链检测方法及系统”、“（授权）基于标签和图对齐的流式溯源图实时攻击检测方法及系统”、“（受理）基于大模型的可疑点前后向追踪与攻击路径还原方法及系统”
+- **智能规则优化**：“（授权）基于迭代预测校正的流式溯源图的异常检测方法及系统”、“（授权）基于特征反向传播的攻击检测策略优化方法及系统”
+- **自动攻击规划**：“（受理）一种端到端网络攻击构建方法”、“（受理）基于大语言模型和攻击树模型的多阶段自动化渗透测试方案生成方法及系统”
 
 
 
@@ -152,7 +154,7 @@ Lingzhi Wang, **Zhenyuan Li**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wang
 
 # 🎖 Honors and Awards
 - *2025-05* 软件系统安全赛“全国二等奖”及“优秀指导教师奖”
-- *2024.09* Ningbo "YongJiang" Talent Programme (Youth Program).
+- *2024-09* Ningbo "YongJiang" Talent Programme (Youth Program).
 - *2021-02* Zhejiang Lab's International Talent Fund for Young Professionals
 - *2020-12* Zhejiang University's Academic Rising Star 
 - *2020-10* CSC Joint Ph.D. Program
