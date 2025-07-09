@@ -143,13 +143,13 @@ Lingzhi Wang, **Zhenyuan Li**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wang
 
 
 # 📝 Teaching
-- 智能软件质量保障（2024年秋冬）
+- 智能软件质量保障（2024年秋，2025年秋）
 
 
 # 🎓 Students
 - **2025**: Shiyu Tan (1 * Patent, 1 * Competition Award), Yaokun Li, Qizhi Cai, Haocheng Li
-- **2024**: Yuqiao Gu (1 * Patent, 1 * Competition Award), Zhenkai Wang (1 * Competition Award), Yi Jiang (1 * Competition Award)
-- **2023**: Jiahui Wang (APSEC'24 2nd Author, 1 * Patent), Mingxiang Shi (1 * Patent), Yangyang Wei (3 * Patents, 1 * Competition Award), Yu Yang (RAID'25 in submission 1st Author), Yao Zhu (ICML'25 1st Author)
+- **2024**: Yuqiao Gu (1 * Patent, 1 * Competition Award), Zhenkai Wang (1 * 计算机学报, 1 * Competition Award), Yi Jiang (1 * Competition Award)
+- **2023**: Jiahui Wang (APSEC'24 2nd Author, 1 * Patent), Mingxiang Shi (1 * Patent), Yangyang Wei (1 * 计算机学报, 3 * Patents, 1 * Competition Award), Yu Yang (RAID'25 in submission 1st Author), Yao Zhu (ICML'25 1st Author)
 
 ---
 - **Alumni**:
@@ -157,6 +157,7 @@ Lingzhi Wang, **Zhenyuan Li**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wang
 
 # 🎖 Honors and Awards
 - *2025-05* 软件系统安全赛“全国二等奖”及“优秀指导教师奖”
+- *2025-03* 浙江大学软件学院“科研贡献奖”
 - *2024-09* Ningbo "YongJiang" Talent Programme (Youth Program).
 - *2021-02* Zhejiang Lab's International Talent Fund for Young Professionals
 - *2020-12* Zhejiang University's Academic Rising Star 
