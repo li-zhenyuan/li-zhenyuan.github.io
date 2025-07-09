@@ -26,7 +26,7 @@ My research interests lie in system security, intrustion detection and cyber thr
 - Action Security for LLM Agents.
 - LLM-powered Security Analysis.
 
-"Contact [me](mailto:li_zhenyuan@qq.com) for security research that are in line with the industry!!!"（持续招收对安全研究有兴趣的硕士研究生和本科生！）
+"Contact [me](mailto:li_zhenyuan@qq.com) for security research that are in line with the industry!!!"（**2026年计划招硕士生4-5人！**）
 
 
 # 🔥 News
