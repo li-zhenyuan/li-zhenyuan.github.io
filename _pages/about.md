@@ -30,7 +30,7 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 
 # 🔥 News
-- 📑 *2025.07*: 我们的论文“智能溯源分析与入侵检测：洞察、挑战与展望”被计算机学报接收。
+- 📑 *2025.07*: 我们的论文“智能溯源分析与入侵检测：洞察、挑战与展望”被《计算机学报》接收。
 - 📑 *2025.07*: Our paper "AutoSeg: Automatic Micro-segmentation Policy Generation via Configuration Analysis" is accepted by Computer & Security.
 - 🎉 *2025.05*：指导作品“重明鸟：海量日志流中高隐蔽威胁在线检测系统”获软件创新大赛-软件系统安全赛“全国二等奖”及“优秀指导教师奖”，恭喜参与同学。 \[[Notification Link](http://www.ccsssc.com/notice)\]
 - 📑 *2025.05*: Our paper "The Case for Learned Provenance-based System Behavior Baseline" is accepted by ICML'25.
