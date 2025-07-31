@@ -30,19 +30,24 @@ My research interests lie in system security, intrustion detection and cyber thr
 
 
 # 🔥 News
-- 🔬 *2025.07*: Granted CCF-Tencent "Bucerotidae" Open Fund.
+- 🏗️ *2025.07*: Granted CCF-Tencent "Bucerotidae" Open Fund.
 - 📑 *2025.07*: 我们的论文“智能溯源分析与入侵检测：洞察、挑战与展望”被《计算机学报》接收。
 - 📑 *2025.07*: Our paper "AutoSeg: Automatic Micro-segmentation Policy Generation via Configuration Analysis" is accepted by Computer & Security.
 - 🎉 *2025.05*：指导作品“重明鸟：海量日志流中高隐蔽威胁在线检测系统”获软件创新大赛-软件系统安全赛“全国二等奖”及“优秀指导教师奖”，恭喜参与同学。 \[[Notification Link](http://www.ccsssc.com/notice)\]
 - 📑 *2025.05*: Our paper "The Case for Learned Provenance-based System Behavior Baseline" is accepted by ICML'25.
 - 📑 *2025.04*: One paper "PentestAgent: Incorporating LLM Agents to Automated Penetration Testing" is accepted by AsiaCCS'25.
 - 📃 *2025.02*: One poster “[LLM-Driven Automated Exploit Assessment for Penetration Testing](https://ndss25-posters.hotcrp.com/u/0/doc/ndss25-posters-final71.pdf)” will appear in NDSS'25 poster session.
-- 🔬 *2024.12*: Granted "Leading Goose" R&D Program of Zhejiang as PI.
+- 🏗️ *2024.12*: Granted "Leading Goose" R&D Program of Zhejiang as PI.
 - 📑 *2024.12*: One paper "Understanding the Business of Online Affiliate Marketing: An Empirical Study" is accepted by INFOCOM'25.
 - 🎉 *2024.09*: Awarded Ningbo "YongJiang" Talent Programme (Youth Program).
-- 🔬 *2024.08*: Granted National Natural Science Foundation of China (Youth Program).
+- 🏗️ *2024.08*: Granted National Natural Science Foundation of China (Youth Program).
 - 📑 *2024.08*: Our paper "Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection" is accepted by NDSS'25.
 - 📑 *2024.01*: One paper "Decoding the MITRE Engenuity ATT&CK Enterprise Evaluation: An Analysis of EDR Performance in Real-World Environments" is accepted by AsiaCCS'24.
+
+
+# 🛠️ Projects
+- [Aurora: Automated Cyberattack Emulation](https://github.com/LexusWang/Aurora-demos?tab=readme-ov-file)
+- [Marlin: Streaming Provenance Graph Analysis](https://github.com/MarineYY/MARLIN)
 
 
 # 📝 Selected Publications 
@@ -148,12 +153,12 @@ Lingzhi Wang, **Zhenyuan Li**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wang
 
 
 # 🎓 Students
-- **2025**: Shiyu Tan (1 * Patent, 1 * Competition Award), Yaokun Li, Qizhi Cai, Haocheng Li
-- **2024**: Yuqiao Gu (1 * Patent, 1 * Competition Award), Zhenkai Wang (1 * 计算机学报, 1 * Competition Award), Yi Jiang (1 * Competition Award)
-- **2023**: Jiahui Wang (APSEC'24 2nd Author, 1 * Patent), Mingxiang Shi (1 * Patent), Yangyang Wei (1 * 计算机学报, 3 * Patents, 1 * Competition Award), Yu Yang (RAID'25 in submission 1st Author), Yao Zhu (ICML'25 1st Author)
+- **2025**: Shiyu Tan (1 * Patent, 1 * Competition Award), Yaokun Li, Qizhi Cai, Haocheng Li, Zhipeng Chen
+- **2024**: Yuqiao Gu (Ph.D Student, 1 * Patent, 1 * Competition Award), Zhenkai Wang (计算机学报三作, 1 * Competition Award), Yi Jiang (1 * Competition Award)
+- **2023**: Jiahui Wang (APSEC'24 2nd Author, 1 * Patent), Mingxiang Shi (1 * Patent), Yangyang Wei (计算机学报二作, 3 * Patents, 1 * Competition Award), Yu Yang (ICSE'26 in submission 1st Author), Yao Zhu (ICML'25 1st Author)
 
 ---
-- **Alumni**:
+- **Alumni**: None.
 
 
 # 🎖 Honors and Awards
