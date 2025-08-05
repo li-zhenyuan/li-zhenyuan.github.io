@@ -21,9 +21,9 @@ I am a Researcher in the [Zhejiang University, Schoolof Software Technology](htt
 
 My research interests lie in system security, intrustion detection and cyber threat analysis techniques. I am now working towards to design practical intrusion detection and attack investigation systems. I work closely with my PhD advisor Prof. [Yan Chen](https://users.cs.northwestern.edu/~ychen/) from Northwestern University and Prof. [Shouling Ji](https://nesa.zju.edu.cn) from Zhejiang University.
 
-**Research Map:**
+<!-- **Research Map:**
 
-<img src='images/李振源-2025年ACES暑期工作会议_05.png' alt="sym" width="86%">
+<img src='images/李振源-2025年ACES暑期工作会议_05.png' alt="sym" width="86%"> -->
 
 **Recent research interests:**
 - Intelligent yet Effcient Cyber Attack Hunting.
