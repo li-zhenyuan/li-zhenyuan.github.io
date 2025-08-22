@@ -17,20 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Researcher in the [Zhejiang University, Schoolof Software Technology](http://www.cst.zju.edu.cn/) <img src='./images/ZJU-Logo.png' style='width: 6em;'>. Before joining ZJU, I worked at [Huawei, 2012 Lab](https://www.huawei.com/en/) <img src='./images/Huawei-Logo.wine.png' style='width: 5em;'> as a Senior Engineer. I graduated from Department of Computer Science and Technology, Zhejiang University with a Ph.D. degreed. 
+I am a Researcher at the [School of Software Technology, Zhejiang University](http://www.cst.zju.edu.cn/) <img src='./images/ZJU-Logo.png' style='width: 6em; vertical-align: middle;'>. Before joining ZJU, I worked at [Huawei 2012 Lab](https://www.huawei.com/en/) <img src='./images/Huawei-Logo.wine.png' style='width: 5em; vertical-align: middle;'> as a Senior Engineer. I received my Ph.D. degree from the Department of Computer Science and Technology at Zhejiang University.
 
-My research interests lie in system security, intrustion detection and cyber threat analysis techniques. I am now working towards to design practical intrusion detection and attack investigation systems. I work closely with my PhD advisor Prof. [Yan Chen](https://users.cs.northwestern.edu/~ychen/) from Northwestern University and Prof. [Shouling Ji](https://nesa.zju.edu.cn) from Zhejiang University.
+My research interests lie in **system security**, **intrusion detection**, and **cyber threat analysis**. My current work focuses on designing practical intrusion detection and attack investigation systems. I work closely with my PhD advisors, Prof. [Yan Chen](https://users.cs.northwestern.edu/~ychen/) from Northwestern University and Prof. [Shouling Ji](https://nesa.zju.edu.cn) from Zhejiang University.
 
 <!-- **Research Map:**
 
 <img src='images/李振源-2025年ACES暑期工作会议_05.png' alt="sym" width="86%"> -->
 
-**Recent research interests:**
+**Recent research interests include:**
 - Intelligent yet Effcient Cyber Attack Hunting.
 - Action Security for LLM Agents.
 - LLM-powered Security Analysis.
 
-"Contact [me](mailto:li_zhenyuan@qq.com) for security research that are in line with the industry!!!"（**2026年计划招硕士生4-5人！**）
+Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in industry-oriented security research.（**招收2026级硕士生4-5名，欢迎联系！**）
 
 
 # 🔥 News
@@ -76,7 +76,7 @@ Lingzhi Wang, **Zhenyuan Li**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wang
 ![](https://img.shields.io/github/stars/LexusWang/Aurora-demos?style=social)
 
 - AURORA leverages a modular attack model and LLM to automatically generate and execute complex cyberattacks, aiming to create a large-scale, realistic dataset for enhancing cyber defense. By automating attack planning, environment setup, and semi-automatic execution, AURORA successfully constructed a dataset of over 1,000 attack chains.
-    
+
 </div>
 </div>
 
@@ -139,7 +139,7 @@ Lingzhi Wang, **Zhenyuan Li**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wang
 
 # 📑 Selected Patents
 - **全量数据采集**：“（受理）基于 eBPF 的 Android 系统细粒度溯源数据采集方法及装置”、“（授权）基于多层数据融合的云平台细粒度溯源数据采集方法与系统”
-- **高效威胁狩猎**：“（授权）基于标签传递和事件基线学习的实时攻击链检测方法及系统”、“（授权）基于标签和图对齐的流式溯源图实时攻击检测方法及系统”、“（受理）基于大模型的可疑点前后向追踪与攻击路径还原方法及系统”
+- **高效威胁狩猎**：“（授权）基于标签传递和事件基线学习的实时攻击链检测方法及系统”、“（授权）基于标签和图对齐的流式溯源图实时攻击检测方法及系统”、“（受理）基于大模型的可疑点前后向追踪与攻击路径还原方法及系统”、“（受理）基于大模型多智能体决策树的应用风险判定方法及装置”
 - **智能规则优化**：“（授权）基于迭代预测校正的流式溯源图的异常检测方法及系统”、“（授权）基于特征反向传播的攻击检测策略优化方法及系统”
 - **自动攻击规划**：“（受理）一种端到端网络攻击构建方法”、“（受理）基于大语言模型和攻击树模型的多阶段自动化渗透测试方案生成方法及系统”
 
@@ -160,11 +160,19 @@ Lingzhi Wang, **Zhenyuan Li**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wang
 
 
 # 🎓 Students
-- **2025**: Shiyu Tan (1 * Patent, 1 * Competition Award), Yaokun Li, Qizhi Cai, Haocheng Li, Zhipeng Chen
-- **2024**: Yuqiao Gu (Ph.D Student, 1 * Patent, 1 * Competition Award), Zhenkai Wang (计算机学报三作, 1 * Competition Award), Yi Jiang (1 * Competition Award)
-- **2023**: Jiahui Wang (APSEC'24 2nd Author, 1 * Patent), Mingxiang Shi (1 * Patent), Yangyang Wei (计算机学报二作, 3 * Patents, 1 * Competition Award), Yu Yang (ICSE'26 in submission 1st Author), Yao Zhu (ICML'25 1st Author)
-
----
+- **2025**: 
+  - Shiyu Tan (1 * Patent, 1 * Competition Award)
+  - Yaokun Li, Qizhi Cai, Haocheng Li, Zhipeng Chen
+- **2024**: 
+  - Yuqiao Gu (Ph.D Student, 1 * Patent, 1 * Competition Award)
+  - Zhenkai Wang (计算机学报三作, 1 * Competition Award)
+  - Yi Jiang (1 * Competition Award)
+- **2023**: 
+  - Jiahui Wang (APSEC'24 2nd Author, 1 * Patent)
+  - Mingxiang Shi (1 * Patent)
+  - Yangyang Wei (计算机学报二作, ICML'25 3rd Author, 3 * Patents, 1 * Competition Award)
+  - Yu Yang (ICSE'26 in submission 1st Author)
+  - Yao Zhu (ICML'25 1st Author)
 - **Alumni**: None.
 
 
