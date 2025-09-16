@@ -34,13 +34,14 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 
 
 # 🔥 News
+- 📑 *2025.09*: Our paper "Incorporating Gradients to Rules: Towards Online, Adaptive Provenance-based Intrusion Detection" is accepted by TDSC.
 - 🏗️ *2025.07*: Granted CCF-Tencent "Bucerotidae" Open Fund as PI.
 - 📑 *2025.07*: 我们的论文“智能溯源分析与入侵检测：洞察、挑战与展望”被《计算机学报》接收。
 - 📑 *2025.07*: Our paper "AutoSeg: Automatic Micro-segmentation Policy Generation via Configuration Analysis" is accepted by Computer & Security.
 - 🎉 *2025.05*：指导作品“重明鸟：海量日志流中高隐蔽威胁在线检测系统”获软件创新大赛-软件系统安全赛“全国二等奖”及“优秀指导教师奖”，恭喜参与同学。 \[[Link](http://www.ccsssc.com/notice)\]
 - 📑 *2025.05*: Our paper "The Case for Learned Provenance-based System Behavior Baseline" is accepted by ICML'25.
 - 📑 *2025.04*: One paper "PentestAgent: Incorporating LLM Agents to Automated Penetration Testing" is accepted by AsiaCCS'25.
-- 📃 *2025.02*: One poster “[LLM-Driven Automated Exploit Assessment for Penetration Testing](https://ndss25-posters.hotcrp.com/u/0/doc/ndss25-posters-final71.pdf)” will appear in NDSS'25 poster session.
+- 📃 *2025.02*: One poster "[LLM-Driven Automated Exploit Assessment for Penetration Testing](https://ndss25-posters.hotcrp.com/u/0/doc/ndss25-posters-final71.pdf)" will appear in NDSS'25 poster session.
 - 🏗️ *2024.12*: Granted "Leading Goose" R&D Program of Zhejiang as PI.
 - 📑 *2024.12*: One paper "Understanding the Business of Online Affiliate Marketing: An Empirical Study" is accepted by INFOCOM'25.
 - 🎉 *2024.09*: Awarded Ningbo "YongJiang" Talent Programme (Youth Program).
@@ -58,6 +59,8 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 
 **Full List: [Google Scholar](https://scholar.google.com/citations?user=3YGMOdwAAAAJ)** 
 (* Equally Contribution, # Corresponding Author)
+
+- ``TDSC 2025`` "Incorporating Gradients to Rules: Towards Online, Adaptive Provenance-based Intrusion Detection",  **Zhenyuan Li#**, Lingzhi Wang, Zhengkai Wang, Xiangmin Shen, Haitao Xu, Yan Chen, Shouling Ji 
 
 - ``计算机学报`` “智能溯源分析与入侵检测：洞察、挑战与展望” **李振源**，韦洋洋，王征凯，纪守领 
 
@@ -166,7 +169,7 @@ Lingzhi Wang, **Zhenyuan Li**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wang
   - Yaokun Li, Qizhi Cai, Haocheng Li, Zhipeng Chen
 - **2024**: 
   - Yuqiao Gu (Ph.D Student, 1 * Patent, 1 * Competition Award)
-  - Zhenkai Wang (计算机学报三作, 1 * Competition Award)
+  - Zhenkai Wang (计算机学报三作, TDSC Co-1st Author, 1 * Competition Award)
   - Yi Jiang (1 * Competition Award)
 - **2023**: 
   - Jiahui Wang (APSEC'24 2nd Author, 1 * Patent)
