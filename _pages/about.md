@@ -65,7 +65,21 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 
 - ``ICML 2025`` "The Case for Learned Provenance-based System Behavior Baseline", Yao Zhu\*, **Zhenyuan LI\*#**, Yangyang Wei, Shouling Ji 
 
-- ``计算机学报`` “智能溯源分析与入侵检测：洞察、挑战与展望” **李振源**，韦洋洋，王征凯，纪守领 
+- ``计算机学报`` “”  
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/溯源分析框架.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+"智能溯源分析与入侵检测：洞察、挑战与展望"
+
+**李振源**，韦洋洋，王征凯，纪守领
+
+- 本文对近年来基于溯源的入侵检测中机器学习技术应用的相关研究进行了广泛调研和内容梳理，对方法准确率、效率、鲁棒性、结果可解释性等影响系统效果的属性进行了系统性比较，总结了研究现状和未解决的挑战,旨在为该领域未来的研究与应用提供理论支持和灵感。
+
+</div>
+</div>
+
+- ``信息安全学报`` “移动平台间谍软件防范：洞察、挑战与展望” 姜艾, **李振源**, 张帆, 蒋屹新, 徐文倩, 梁志宏 
 
 - ``NDSS 2025`` "[Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection](https://arxiv.org/pdf/2404.14720)", Lingzhi Wang, Xiangmin Shen, Weijian Li, **Zhenyuan Li#**, R Sekar, Han Liu, Yan Chen
 
@@ -83,8 +97,6 @@ Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wan
 
 </div>
 </div>
-
-- ``信息安全学报`` “移动平台间谍软件防范：洞察、挑战与展望” 姜艾, **李振源**, 张帆, 蒋屹新, 徐文倩, 梁志宏 
 
 - ``COSE 2025`` "AutoSeg: Automatic Micro-segmentation Policy Generation via Configuration Analysis", Andong Chen, Zhaoxuan Jin, **Zhenyuan Li#**, Yan Chen, Yu Ning, Ying Wang 
 
