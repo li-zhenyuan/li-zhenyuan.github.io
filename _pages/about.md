@@ -183,15 +183,20 @@ Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wan
 # 🎓 Students
 - **2025**: 
   - Shiyu Tan (1 * Patent, 1 * Competition Award)
-  - Yaokun Li, Qizhi Cai, Haocheng Li, Zhipeng Chen
+  - Yaokun Li
+  - Qizhi Cai 
+  - Haocheng Li
+  - Zhipeng Chen
+  - ji Zhou
+
 - **2024**: 
   - Yuqiao Gu (Ph.D Student, 1 * Patent, 1 * Competition Award)
-  - Zhenkai Wang (计算机学报三作, TDSC Co-1st Author, 1 * Competition Award)
-  - Yi Jiang (1 * Competition Award)
+  - Zhenkai Wang (TDSC Co-1st Author, 计算机学报三作, 1 * Competition Award)
+  - Yi Jiang (信息安全学报一作, 1 * Competition Award)
 - **2023**: 
   - Jiahui Wang (APSEC'24 2nd Author, 1 * Patent)
   - Mingxiang Shi (1 * Patent)
-  - Yangyang Wei (计算机学报二作, ICML'25 3rd Author, 3 * Patents, 1 * Competition Award)
+  - Yangyang Wei (ICML'25 3rd Author, 计算机学报二作, 3 * Patents, 1 * Competition Award)
   - Yu Yang (ICSE'26 in submission 1st Author)
   - Yao Zhu (ICML'25 1st Author)
 - **Alumni**: None.
