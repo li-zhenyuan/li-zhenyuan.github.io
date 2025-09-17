@@ -63,18 +63,20 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 
 - ``TDSC 2025`` "Incorporating Gradients to Rules: Towards Online, Adaptive Provenance-based Intrusion Detection",  **Zhenyuan Li#**, Lingzhi Wang, Zhengkai Wang, Xiangmin Shen, Haitao Xu, Yan Chen, Shouling Ji 
 
-- ``ICML 2025`` "The Case for Learned Provenance-based System Behavior Baseline", Yao Zhu\*, **Zhenyuan LI\*#**, Yangyang Wei, Shouling Ji 
+- ``ICML 2025`` "The Case for Learned Provenance-based System Behavior Baseline", Yao Zhu\*, **Zhenyuan LI\*#**, Yangyang Wei, Shouling Ji  
 
-- ``计算机学报`` “”  
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/溯源分析框架.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">计算机学报</div><img src='images/溯源分析框架.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 "智能溯源分析与入侵检测：洞察、挑战与展望"
 
 **李振源**，韦洋洋，王征凯，纪守领
 
-- 本文对近年来基于溯源的入侵检测中机器学习技术应用的相关研究进行了广泛调研和内容梳理，对方法准确率、效率、鲁棒性、结果可解释性等影响系统效果的属性进行了系统性比较，总结了研究现状和未解决的挑战,旨在为该领域未来的研究与应用提供理论支持和灵感。
+- 机器学习模型寻找和表达特征的能力，为准确、高效的表征攻击模式提取，提升溯源检测的准确率；以及高效的数据压缩和搜索实现，有效提高分析效率及降低分析开销，提供了新的思路和解决方案
+
+- 溯源图中存在大量冗余、无关信息，通过合理利用机器学习算法可以实现对关键信息的高效的筛选、总结与压缩，有效提升溯源数据存储、查询和处理效率。
+
+- 入侵检测是一个系统性问题。当前基于智能溯源分析的入侵检测各模块在部分属性上实现了比较理想的效果，但这些模块之间往往不能简单的组合到一起。如何合理组合使用这些模块，达到整体效果最优是一个开放性问题。
 
 </div>
 </div>
