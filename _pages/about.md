@@ -81,7 +81,7 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 </div>
 </div>
 
-- ``信息安全学报`` “移动平台间谍软件防范：洞察、挑战与展望” 姜艾, **李振源**, 张帆, 蒋屹新, 徐文倩, 梁志宏 
+- ``信息安全学报`` “移动平台间谍软件防范：洞察、挑战与展望” 姜艾, **李振源#**, 张帆, 蒋屹新, 徐文倩, 梁志宏 
 
 - ``NDSS 2025`` "[Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection](https://arxiv.org/pdf/2404.14720)", Lingzhi Wang, Xiangmin Shen, Weijian Li, **Zhenyuan Li#**, R Sekar, Han Liu, Yan Chen
 
