@@ -26,9 +26,9 @@ My research interests lie in **system security**, **intrusion detection**, and *
 <img src='images/李振源-2025年ACES暑期工作会议_05.png' alt="sym" width="86%"> -->
 
 **Recent research interests include:**
-- Intelligent yet Effcient Cyber Attack Hunting.
-- Action Security for LLM Agents.
-- LLM-powered Security Analysis.
+- Intelligent yet Effcient Cyber Attack Hunting
+- Automatic Penetration and Attack Planning
+- Action Security for LLM Agents
 
 Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in industry-oriented security research.（**招收2026级硕士生4-5名，欢迎联系！**）
 
