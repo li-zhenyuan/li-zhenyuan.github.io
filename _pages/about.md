@@ -234,7 +234,7 @@ Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wan
 
 
 # 💻 Working Experience
-- *2023.07 - now*, [Zhejiang University](https://www.zju.edu.cn), Hangzhou, China.
+- *2023.07 - now*, [School of Software Technology, Zhejiang University](https://www.zju.edu.cn), Ningbo/Hangzhou, China.
 - *2022.07 - 2023.07*, [Huawei, 2012 Lab](https://www.huawei.com/en/), Hangzhou, China.
 
 <a href="https://info.flagcounter.com/GT4T"><img src="https://s01.flagcounter.com/map/GT4T/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
