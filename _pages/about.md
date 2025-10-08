@@ -182,6 +182,9 @@ Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wan
 
 
 # 🎓 Students
+- **2026**:
+  - Junjie Cheng
+  - Yijie Xu
 - **2025**: 
   - Shiyu Tan (1 * Patent, 1 * Competition Award)
   - Yaokun Li
