@@ -63,7 +63,7 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 **Full List: [Google Scholar](https://scholar.google.com/citations?user=3YGMOdwAAAAJ)** 
 (* Equally Contribution, # Corresponding Author)
 
-- ``ICSE 2025`` "Towards Scalable and Interpretable Mobile App Risk Analysis via Large Language Models", Yu Yang\*, **Zhenyuan Li\*#**, Xiandong Ran, Jiahao Liu, Jiahui Wang, Bo Yu, Shouling Ji 
+- ``ICSE 2026`` "Towards Scalable and Interpretable Mobile App Risk Analysis via Large Language Models", Yu Yang\*, **Zhenyuan Li\*#**, Xiandong Ran, Jiahao Liu, Jiahui Wang, Bo Yu, Shouling Ji 
 
 - ``TDSC 2025`` "Incorporating Gradients to Rules: Towards Online, Adaptive Provenance-based Intrusion Detection", **Zhenyuan Li#**, Lingzhi Wang, Zhengkai Wang, Xiangmin Shen, Haitao Xu, Yan Chen, Shouling Ji 
 
