@@ -34,9 +34,10 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 
 
 # 🔥 News
+- 📑 *2025.10*: Our paper "Towards Scalable and Interpretable Mobile App Risk Analysis via Large Language Models" is accepted by ICSE'26.
+- 🎉 *2025-09*: 获北京市科学技术奖“科学技术进步二等奖（初审）”（序7/10）
 - 📑 *2025.09*: 我们的论文“移动平台间谍软件防范：洞察、挑战与展望”被《信息安全学报》接收。
 - 📑 *2025.09*: Our paper "Incorporating Gradients to Rules: Towards Online, Adaptive Provenance-based Intrusion Detection" is accepted by TDSC.
-- 🎉 *2025-09*: 获北京市科学技术奖“科学技术进步二等奖（初审）”（序7/10）
 - 🏗️ *2025.07*: Granted CCF-Tencent "Rhino-Bird" Open Research Fund as PI.
 - 📑 *2025.07*: 我们的论文“智能溯源分析与入侵检测：洞察、挑战与展望”被《计算机学报》接收。
 - 📑 *2025.07*: Our paper "AutoSeg: Automatic Micro-segmentation Policy Generation via Configuration Analysis" is accepted by Computer & Security.
@@ -62,7 +63,9 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 **Full List: [Google Scholar](https://scholar.google.com/citations?user=3YGMOdwAAAAJ)** 
 (* Equally Contribution, # Corresponding Author)
 
-- ``TDSC 2025`` "Incorporating Gradients to Rules: Towards Online, Adaptive Provenance-based Intrusion Detection",  **Zhenyuan Li#**, Lingzhi Wang, Zhengkai Wang, Xiangmin Shen, Haitao Xu, Yan Chen, Shouling Ji 
+- ``ICSE 2025`` "Towards Scalable and Interpretable Mobile App Risk Analysis via Large Language Models", Yu Yang\*, **Zhenyuan Li\*#**, Xiandong Ran, Jiahao Liu, Jiahui Wang, Bo Yu, Shouling Ji 
+
+- ``TDSC 2025`` "Incorporating Gradients to Rules: Towards Online, Adaptive Provenance-based Intrusion Detection", **Zhenyuan Li#**, Lingzhi Wang, Zhengkai Wang, Xiangmin Shen, Haitao Xu, Yan Chen, Shouling Ji 
 
 - ``ICML 2025`` "The Case for Learned Provenance-based System Behavior Baseline", Yao Zhu\*, **Zhenyuan LI\*#**, Yangyang Wei, Shouling Ji  
 
@@ -185,6 +188,7 @@ Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wan
 - **2026**:
   - Junjie Cheng
   - Yijie Xu
+
 - **2025**: 
   - Shiyu Tan (1 * Patent, 1 * Competition Award)
   - Yaokun Li
@@ -198,10 +202,10 @@ Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wan
   - Zhenkai Wang (TDSC Co-1st Author, 计算机学报三作, 1 * Competition Award)
   - Yi Jiang (信息安全学报一作, 1 * Competition Award)
 - **2023**: 
-  - Jiahui Wang (APSEC'24 2nd Author, 1 * Patent)
+  - Jiahui Wang (APSEC'24 2nd Author, ICSE'26 5th Author, 1 * Patent)
   - Mingxiang Shi (1 * Patent)
   - Yangyang Wei (ICML'25 3rd Author, 计算机学报二作, 3 * Patents, 1 * Competition Award)
-  - Yu Yang (ICSE'26 in submission 1st Author)
+  - Yu Yang (ICSE'26 1st Author)
   - Yao Zhu (ICML'25 1st Author)
 - **Alumni**: None.
 
