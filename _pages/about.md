@@ -34,16 +34,16 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 
 
 # 🔥 News
-- 📑 *2025.10*: Our paper "Towards Scalable and Interpretable Mobile App Risk Analysis via Large Language Models" is accepted by ICSE'26.
-- 🎉 *2025-09*: 获北京市科学技术奖“科学技术进步二等奖（初审）”（序7/10）
+- 📑 *2025.10*: Our paper "[Towards Scalable and Interpretable Mobile App Risk Analysis via Large Language Models](https://arxiv.org/pdf/2508.15606)" is accepted by ICSE'26.
+- 🎉 *2025.09*: 获北京市科学技术奖“科学技术进步二等奖（初审）”（序7/10）.
 - 📑 *2025.09*: 我们的论文“移动平台间谍软件防范：洞察、挑战与展望”被《信息安全学报》接收。
-- 📑 *2025.09*: Our paper "Incorporating Gradients to Rules: Towards Online, Adaptive Provenance-based Intrusion Detection" is accepted by TDSC.
+- 📑 *2025.09*: Our paper "[Incorporating Gradients to Rules: Towards Online, Adaptive Provenance-based Intrusion Detection](https://ieeexplore.ieee.org/abstract/document/11169421/)" is accepted by TDSC.
 - 🏗️ *2025.07*: Granted CCF-Tencent "Rhino-Bird" Open Research Fund as PI.
 - 📑 *2025.07*: 我们的论文“智能溯源分析与入侵检测：洞察、挑战与展望”被《计算机学报》接收。
 - 📑 *2025.07*: Our paper "AutoSeg: Automatic Micro-segmentation Policy Generation via Configuration Analysis" is accepted by Computer & Security.
 - 🎉 *2025.05*：指导作品“重明鸟：海量日志流中高隐蔽威胁在线检测系统”获软件创新大赛-软件系统安全赛“全国二等奖”及“优秀指导教师奖”，恭喜参与同学。 \[[Link](http://www.ccsssc.com/notice)\]
-- 📑 *2025.05*: Our paper "The Case for Learned Provenance-based System Behavior Baseline" is accepted by ICML'25.
-- 📑 *2025.04*: One paper "PentestAgent: Incorporating LLM Agents to Automated Penetration Testing" is accepted by AsiaCCS'25.
+- 📑 *2025.05*: Our paper "[Incorporating Gradients to Rules: Towards Online, Adaptive Provenance-based Intrusion Detection](https://ieeexplore.ieee.org/abstract/document/11169421/)" is accepted by ICML'25.
+- 📑 *2025.04*: One paper "[PentestAgent: Incorporating LLM Agents to Automated Penetration Testing](https://dl.acm.org/doi/pdf/10.1145/3708821.3733882)" is accepted by AsiaCCS'25.
 - 📃 *2025.02*: One poster "[LLM-Driven Automated Exploit Assessment for Penetration Testing](https://ndss25-posters.hotcrp.com/u/0/doc/ndss25-posters-final71.pdf)" will appear in NDSS'25 poster session.
 - 🏗️ *2024.12*: Granted "Leading Goose" R&D Program of Zhejiang as PI.
 - 📑 *2024.12*: One paper "Understanding the Business of Online Affiliate Marketing: An Empirical Study" is accepted by INFOCOM'25.
@@ -63,11 +63,11 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 **Full List: [Google Scholar](https://scholar.google.com/citations?user=3YGMOdwAAAAJ)** 
 (* Equally Contribution, # Corresponding Author)
 
-- ``ICSE 2026`` "Towards Scalable and Interpretable Mobile App Risk Analysis via Large Language Models", Yu Yang\*, **Zhenyuan Li\*#**, Xiandong Ran, Jiahao Liu, Jiahui Wang, Bo Yu, Shouling Ji 
+- ``ICSE 2026`` "[Towards Scalable and Interpretable Mobile App Risk Analysis via Large Language Models](https://arxiv.org/pdf/2508.15606)", Yu Yang\*, **Zhenyuan Li\*#**, Xiandong Ran, Jiahao Liu, Jiahui Wang, Bo Yu, Shouling Ji 
 
-- ``TDSC 2025`` "Incorporating Gradients to Rules: Towards Online, Adaptive Provenance-based Intrusion Detection", **Zhenyuan Li#**, Lingzhi Wang, Zhengkai Wang, Xiangmin Shen, Haitao Xu, Yan Chen, Shouling Ji 
+- ``TDSC 2025`` "[Incorporating Gradients to Rules: Towards Online, Adaptive Provenance-based Intrusion Detection](https://ieeexplore.ieee.org/abstract/document/11169421/)", **Zhenyuan Li#**, Lingzhi Wang, Zhengkai Wang, Xiangmin Shen, Haitao Xu, Yan Chen, Shouling Ji 
 
-- ``ICML 2025`` "The Case for Learned Provenance-based System Behavior Baseline", Yao Zhu\*, **Zhenyuan LI\*#**, Yangyang Wei, Shouling Ji  
+- ``ICML 2025`` "[The Case for Learned Provenance-based System Behavior Baseline](https://openreview.net/pdf?id=SY4owu5BK6)", Yao Zhu\*, **Zhenyuan LI\*#**, Yangyang Wei, Shouling Ji  
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">计算机学报</div><img src='images/溯源分析框架.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -104,9 +104,9 @@ Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wan
 </div>
 </div>
 
-- ``COSE 2025`` "AutoSeg: Automatic Micro-segmentation Policy Generation via Configuration Analysis", Andong Chen, Zhaoxuan Jin, **Zhenyuan Li#**, Yan Chen, Yu Ning, Ying Wang 
+- ``COSE 2025`` "[AutoSeg: Automatic Micro-segmentation Policy Generation via Configuration Analysis](https://www.sciencedirect.com/science/article/abs/pii/S0167404825002809)", Andong Chen, Zhaoxuan Jin, **Zhenyuan Li#**, Yan Chen, Yu Ning, Ying Wang 
 
-- ``AsiaCCS 2025`` "PentestAgent: Incorporating LLM Agents to Automated Penetration Testing", Xiangmin Shen, Lingzhi Wang, **Zhenyuan Li**, Yan Chen, Wencheng Zhao, Dawei Sun, Jiashui Wang, Wei Ruan
+- ``AsiaCCS 2025`` "[PentestAgent: Incorporating LLM Agents to Automated Penetration Testing](https://dl.acm.org/doi/pdf/10.1145/3708821.3733882)", Xiangmin Shen, Lingzhi Wang, **Zhenyuan Li**, Yan Chen, Wencheng Zhao, Dawei Sun, Jiashui Wang, Wei Ruan
 
 - ``INFOCOM 2025`` "Understanding the Business of Online Affiliate Marketing: An Empirical Study", Haitao Xu, Yiwen Sun, Kaleem Ullah Qasim, Shuai Hao, Wenrui Ma, **Zhenyuan Li**, Fan Zhang, Meng Han, Zhao Li
   
