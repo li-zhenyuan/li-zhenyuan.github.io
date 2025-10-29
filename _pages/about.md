@@ -35,7 +35,7 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 
 # 🔥 News
 - 📑 *2025.10*: Our paper "[Towards Scalable and Interpretable Mobile App Risk Analysis via Large Language Models](https://arxiv.org/pdf/2508.15606)" is accepted by ICSE'26.
-- 🎉 *2025.09*: 获北京市科学技术奖“科学技术进步二等奖（初审）”（序7/10）.
+- 🎉 *2025.09*: 获北京市科学技术奖“科学技术进步二等奖（初审）”（序7/10）“基于隐匿机制对抗的高隐蔽网络威胁检测溯源关键技术及应用”.
 - 📑 *2025.09*: 我们的论文“移动平台间谍软件防范：洞察、挑战与展望”被《信息安全学报》接收。
 - 📑 *2025.09*: Our paper "[Incorporating Gradients to Rules: Towards Online, Adaptive Provenance-based Intrusion Detection](https://ieeexplore.ieee.org/abstract/document/11169421/)" is accepted by TDSC.
 - 🏗️ *2025.07*: Granted CCF-Tencent "Rhino-Bird" Open Research Fund as PI.
@@ -211,10 +211,10 @@ Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wan
 
 
 # 🎖 Honors and Awards
-- *2025-09* 北京市科学技术奖“科学技术进步二等奖（初审）”（序7/10）
-- *2025-05* 软件系统安全赛“全国二等奖”及“优秀指导教师奖”
+- *2025-09* 北京市科学技术奖“科学技术进步二等奖（初审）”（序7/10）“基于隐匿机制对抗的高隐蔽网络威胁检测溯源关键技术及应用”
+- *2025-05* 软件系统安全赛“全国二等奖”及“优秀指导教师奖” “重明鸟：海量日志流中高隐蔽威胁在线检测系统”
 - *2025-03* 浙江大学软件学院“科研贡献奖”
-- *2024-09* Ningbo "YongJiang" Talent Programme (Youth Program).
+- *2024-09* Ningbo "YongJiang" Talent Programme (Youth Program)
 - *2021-02* Zhejiang Lab's International Talent Fund for Young Professionals
 - *2020-12* Zhejiang University's Academic Rising Star 
 - *2020-10* CSC Joint Ph.D. Program
