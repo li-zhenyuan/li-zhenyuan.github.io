@@ -34,6 +34,7 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 
 
 # 🔥 News
+- 📑 *2025.11*: Our paper "Breaking the Bulkhead: Demystifying Cross-Namespace Reference Vulnerabilities in Kubernetes Operators" is accepted by NDSS'26.
 - 📑 *2025.10*: Our paper "[Towards Scalable and Interpretable Mobile App Risk Analysis via Large Language Models](https://arxiv.org/pdf/2508.15606)" is accepted by ICSE'26.
 - 🎉 *2025.09*: 获北京市科学技术奖“科学技术进步二等奖（初审）”（序7/10）“基于隐匿机制对抗的高隐蔽网络威胁检测溯源关键技术及应用”.
 - 📑 *2025.09*: 我们的论文“移动平台间谍软件防范：洞察、挑战与展望”被《信息安全学报》接收。
@@ -64,6 +65,8 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 (* Equally Contribution, # Corresponding Author)
 
 - ``ICSE 2026`` "[Towards Scalable and Interpretable Mobile App Risk Analysis via Large Language Models](https://arxiv.org/pdf/2508.15606)", Yu Yang\*, **Zhenyuan Li\*#**, Xiandong Ran, Jiahao Liu, Jiahui Wang, Bo Yu, Shouling Ji 
+
+- ``NDSS 2026`` "Breaking the Bulkhead: Demystifying Cross-Namespace Reference Vulnerabilities in Kubernetes Operators", Andong Chen, Ziyi Guo, Zhaoxuan Jin, **Zhenyuan Li#**, Yan Chen 
 
 - ``TDSC 2025`` "[Incorporating Gradients to Rules: Towards Online, Adaptive Provenance-based Intrusion Detection](https://ieeexplore.ieee.org/abstract/document/11169421/)", **Zhenyuan Li#**, Lingzhi Wang, Zhengkai Wang, Xiangmin Shen, Haitao Xu, Yan Chen, Shouling Ji 
 
