@@ -73,7 +73,9 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 
 - ``ICML 2025`` "[The Case for Learned Provenance-based System Behavior Baseline](https://openreview.net/pdf?id=SY4owu5BK6)", Yao Zhu\*, **Zhenyuan LI\*#**, Yangyang Wei, Shouling Ji  
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">计算机学报</div><img src='images/溯源分析框架.png' alt="sym" width="100%"></div></div>
+- ``计算机学报`` “智能溯源分析与入侵检测：洞察、挑战与展望”, **李振源**，韦洋洋，王征凯，纪守领
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">计算机学报</div><img src='images/溯源分析框架.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 "智能溯源分析与入侵检测：洞察、挑战与展望"
@@ -87,13 +89,15 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 - 入侵检测是一个系统性问题。当前基于智能溯源分析的入侵检测各模块在部分属性上实现了比较理想的效果，但这些模块之间往往不能简单的组合到一起。如何合理组合使用这些模块，达到整体效果最优是一个开放性问题。
 
 </div>
-</div>
+</div> -->
 
 - ``信息安全学报`` “移动平台间谍软件防范：洞察、挑战与展望” 姜艾, **李振源#**, 张帆, 蒋屹新, 徐文倩, 梁志宏 
 
 - ``NDSS 2025`` "[Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection](https://arxiv.org/pdf/2404.14720)", Lingzhi Wang, Xiangmin Shen, Weijian Li, **Zhenyuan Li#**, R Sekar, Han Liu, Yan Chen
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/aurora.png' alt="sym" width="100%"></div></div>
+- ``ArXiv`` "[From Sands to Mansions: Towards Automated Cyberattack Emulation with Classical Planning and Large Language Models](https://arxiv.org/pdf/2407.16928)", Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wang, Yangyang Wei, Xiangmin Shen, Ruan Wei, Yan Chen
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/aurora.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 "[From Sands to Mansions: Towards Automated Cyberattack Emulation with Classical Planning and Large Language Models](https://arxiv.org/pdf/2407.16928)"
@@ -106,15 +110,17 @@ Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wan
 - AURORA leverages a modular attack model and LLM to automatically generate and execute complex cyberattacks, aiming to create a large-scale, realistic dataset for enhancing cyber defense. By automating attack planning, environment setup, and semi-automatic execution, AURORA successfully constructed a dataset of over 1,000 attack chains.
 
 </div>
-</div>
+</div> -->
 
 - ``COSE 2025`` "[AutoSeg: Automatic Micro-segmentation Policy Generation via Configuration Analysis](https://www.sciencedirect.com/science/article/abs/pii/S0167404825002809)", Andong Chen, Zhaoxuan Jin, **Zhenyuan Li#**, Yan Chen, Yu Ning, Ying Wang 
 
 - ``AsiaCCS 2025`` "[PentestAgent: Incorporating LLM Agents to Automated Penetration Testing](https://dl.acm.org/doi/pdf/10.1145/3708821.3733882)", Xiangmin Shen, Lingzhi Wang, **Zhenyuan Li**, Yan Chen, Wencheng Zhao, Dawei Sun, Jiashui Wang, Wei Ruan
 
 - ``INFOCOM 2025`` "Understanding the Business of Online Affiliate Marketing: An Empirical Study", Haitao Xu, Yiwen Sun, Kaleem Ullah Qasim, Shuai Hao, Wenrui Ma, **Zhenyuan Li**, Fan Zhang, Meng Han, Zhao Li
+
+- ``ArXiv`` "[Marlin: Knowledge-Driven Analysis of Provenance Graphs forEfficient and Robust Detection of Cyber Attacks](https://arxiv.org/pdf/2403.12541)"， **Zhenyuan Li**, Yangyang Wei, Xiangmin Shen, Lingzhi Wang, Yan Chen, Haitao Xu, Shouling Ji, Fan Zhang, Liang Hou, Wenmao Liu, Xuhong Zhang, Jianwei Ying
   
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2024</div><img src='images/Marlin.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2024</div><img src='images/Marlin.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 "[Marlin: Knowledge-Driven Analysis of Provenance Graphs forEfficient and Robust Detection of Cyber Attacks](https://arxiv.org/pdf/2403.12541)"
@@ -127,11 +133,14 @@ Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wan
 - Marlin conceptualize real-time attack detection in streaming logs as a streaming graph alignment problem, leveraging query graphs to pinpoint critical elements in the provenance graph. Integrated into a tag propagation framework, it processes each event once, reducing redundancy and enhancing efficiency and defense against evasion.
     
 </div>
-</div>
+</div> -->
 
 - ``AsiaCCS 2024`` "[Decoding the MITRE Engenuity ATT&CK Enterprise Evaluation: An Analysis of EDR Performance in Real-World Environments](https://dl.acm.org/doi/pdf/10.1145/3634737.3645012)", Xiangmin Shen, **Zhenyuan Li**, Graham Burleigh, Lingzhi Wang, Yan Chen
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESORICS 2022</div><img src='images/AttacKG.png' alt="sym" width="100%"></div></div>
+
+- ``ESORICS 2022`` "[AttacKG: Constructing Technique Knowledge Graph from Cyber Threat Intelligence Reports](https://link.springer.com/chapter/10.1007/978-3-031-17140-6_29)", **Zhenyuan Li**, Jun Zeng, Yan Chen, Zhenkai Liang
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESORICS 2022</div><img src='images/AttacKG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 "[AttacKG: Constructing Technique Knowledge Graph from Cyber Threat Intelligence Reports](https://link.springer.com/chapter/10.1007/978-3-031-17140-6_29)"
@@ -144,13 +153,15 @@ Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wan
 - AttacKG can automatically extract structured attack behavior graphs from CTI reports and identify the associated attack techniques, and aggregate threat intelligence across reports to collect different aspects of techniques and enhance attack behavior graphs into technique knowledge graphs (TKGs).
 - AttacKG can empower many downstream security applications such as **threat identification**, **automatic threat reasoning and disposition**.
 </div>
-</div>
+</div> -->
 
 - ``TDSC 2022`` "[RATScope: Recording and Reconstructing Missing RAT Semantic Behaviors for Forensic Analysis on Windows](https://ieeexplore.ieee.org/document/9234076)", Runqing Yang, Xutong Chen, Haitao Xu, Yueqiang Chen, Chunlin Xiong, Linqi Ruan, Mohammad Kavousl, **Zhenyuan Li**, Liheng Xu, Yan Chen 
 
 - ``COSE 2021`` "[Threat Detection and Investigation with System-level Provenance Graphs: A Survey](https://www.sciencedirect.com/science/article/pii/S0167404821001061)", **Zhenyuan Li**, Qi Alfred Chen, Yang Runqing, Yan Chen
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2019</div><img src='images/CCS19.png' alt="sym" width="100%"></div></div>
+- ``CCS 2019`` "[Effective and Light-Weight Deobfuscation and Semantic-Aware Attack Detection for PowerShell Scripts](https://dl.acm.org/doi/10.1145/3319535.3363187)", **Zhenyuan Li**, Qi Alfred Chen, Chunlin Xiong, Yan Chen, Tiantian Zhu, Hai Yang
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2019</div><img src='images/CCS19.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 "[Effective and Light-Weight Deobfuscation and Semantic-Aware Attack Detection for PowerShell Scripts](https://dl.acm.org/doi/10.1145/3319535.3363187)"
@@ -162,7 +173,7 @@ Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wan
 
 - The first effective and light-weight deobfuscation approach for PowerShell scripts. Adopted in the product of an [startup security company](https://www.fyreshld.com/) <img src='./images/MingYan.jpg' style='width: 4em;'>.
 </div>
-</div>
+</div> -->
 
 
 # 📑 Selected Patents
