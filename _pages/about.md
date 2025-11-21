@@ -66,7 +66,7 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 **Full List: [Google Scholar](https://scholar.google.com/citations?user=3YGMOdwAAAAJ)** 
 (* Equally Contribution, # Corresponding Author)
 
-- ``ACNS 2026`` "Actionable, Customizable, and Causality-Preserving Cyberattack Emulation with LLM-powered Symbolic Planning", Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Xiangmin Shen, Wei Ruan, Yan Chen 
+- ``ACNS 2026`` "Actionable, Customizable, and Causality-Preserving Cyberattack Emulation with LLM-powered Symbolic Planning", Lingzhi Wang, **Zhenyuan Li**, Yi Jiang, Zhengkai Wang, Xiangmin Shen, Wei Ruan, Yan Chen 
 
 - ``ICSE 2026`` "[Towards Scalable and Interpretable Mobile App Risk Analysis via Large Language Models](https://arxiv.org/pdf/2508.15606)", Yu Yang\*, **Zhenyuan Li\*#**, Xiandong Ran, Jiahao Liu, Jiahui Wang, Bo Yu, Shouling Ji 
 
