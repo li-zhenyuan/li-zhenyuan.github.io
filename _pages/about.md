@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Researcher at the [School of Software Technology, Zhejiang University](http://www.cst.zju.edu.cn/) <img src='./images/ZJU-Logo.png' style='width: 6em; vertical-align: middle;'>. Before joining ZJU, I worked at [Huawei 2012 Lab](https://www.huawei.com/en/) <img src='./images/Huawei-Logo.wine.png' style='width: 5em; vertical-align: middle;'> as a Senior Engineer. I received my Ph.D. degree from the Department of Computer Science and Technology at Zhejiang University.
 
-My research interests lie in **system security**, **intrusion detection**, and **cyber threat analysis**. My current work focuses on designing practical intrusion detection and attack investigation systems. I work closely with my PhD advisors, Prof. [Yan Chen](https://users.cs.northwestern.edu/~ychen/) from Northwestern University and Prof. [Shouling Ji](https://nesa.zju.edu.cn) from Zhejiang University.
+My research interests lie in **system security**, **intrusion detection**, and **cyber threat analysis**. My current work focuses on designing practical intrusion detection and attack investigation systems. I work closely with my PhD advisors, Prof. [Yan Chen](https://users.cs.northwestern.edu/~ychen/) from Northwestern University, Prof. [Shouling Ji](https://nesa.zju.edu.cn) and Prof. Fan Zhang from Zhejiang University.
 
 <!-- **Research Map:**
 
@@ -34,6 +34,7 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 
 
 # 🔥 News
+- 📑 *2025.11*: Our paper "Actionable, Customizable, and Causality-Preserving Cyberattack Emulation with LLM-powered Symbolic Planning" is accepted by ACNS'26.
 - 🏗️ *2025.11*: Granted National Natural Science Foundation of Ningbo (Youth Ph.D Program) as PI.
 - 📑 *2025.11*: Our paper "Breaking the Bulkhead: Demystifying Cross-Namespace Reference Vulnerabilities in Kubernetes Operators" is accepted by NDSS'26.
 - 📑 *2025.10*: Our paper "[Towards Scalable and Interpretable Mobile App Risk Analysis via Large Language Models](https://arxiv.org/pdf/2508.15606)" is accepted by ICSE'26.
@@ -65,6 +66,8 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 **Full List: [Google Scholar](https://scholar.google.com/citations?user=3YGMOdwAAAAJ)** 
 (* Equally Contribution, # Corresponding Author)
 
+- ``ACNS 2026`` "Actionable, Customizable, and Causality-Preserving Cyberattack Emulation with LLM-powered Symbolic Planning", Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Xiangmin Shen, Wei Ruan, Yan Chen 
+
 - ``ICSE 2026`` "[Towards Scalable and Interpretable Mobile App Risk Analysis via Large Language Models](https://arxiv.org/pdf/2508.15606)", Yu Yang\*, **Zhenyuan Li\*#**, Xiandong Ran, Jiahao Liu, Jiahui Wang, Bo Yu, Shouling Ji 
 
 - ``NDSS 2026`` "Breaking the Bulkhead: Demystifying Cross-Namespace Reference Vulnerabilities in Kubernetes Operators", Andong Chen, Ziyi Guo, Zhaoxuan Jin, **Zhenyuan Li#**, Yan Chen 
@@ -94,8 +97,6 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 - ``信息安全学报`` “移动平台间谍软件防范：洞察、挑战与展望” 姜艾, **李振源#**, 张帆, 蒋屹新, 徐文倩, 梁志宏 
 
 - ``NDSS 2025`` "[Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection](https://arxiv.org/pdf/2404.14720)", Lingzhi Wang, Xiangmin Shen, Weijian Li, **Zhenyuan Li#**, R Sekar, Han Liu, Yan Chen
-
-- ``ArXiv`` "[From Sands to Mansions: Towards Automated Cyberattack Emulation with Classical Planning and Large Language Models](https://arxiv.org/pdf/2407.16928)", Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wang, Yangyang Wei, Xiangmin Shen, Ruan Wei, Yan Chen
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/aurora.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
