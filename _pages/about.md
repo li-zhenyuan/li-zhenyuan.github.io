@@ -216,8 +216,8 @@ Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wan
 
 - **2024**: 
   - Yuqiao Gu (Ph.D Student, 1 * Patent, 1 * Competition Award)
-  - Zhenkai Wang (TDSC Co-1st Author, 计算机学报三作, 1 * Competition Award)
-  - Yi Jiang (信息安全学报一作, 1 * Competition Award)
+  - Zhenkai Wang (TDSC Co-1st Author, ACNS 4th Author, 计算机学报三作, 1 * Competition Award)
+  - Yi Jiang (信息安全学报一作, ACNS 3nd Author, 1 * Competition Award)
 - **2023**: 
   - Jiahui Wang (APSEC'24 2nd Author, ICSE'26 5th Author, 1 * Patent)
   - Mingxiang Shi (1 * Patent)
