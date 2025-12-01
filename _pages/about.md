@@ -34,6 +34,7 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 
 
 # 🔥 News
+- 🧑‍💻 *2025.12*: Invited to serve as an Early Career Editorial Board member for the journal "Digital Twins and Applications". Welcome innovative submissions on digital twin technologies across all domains!
 - 📑 *2025.11*: Our paper "Actionable, Customizable, and Causality-Preserving Cyberattack Emulation with LLM-powered Symbolic Planning" is accepted by ACNS'26.
 - 🏗️ *2025.11*: Granted National Natural Science Foundation of Ningbo (Youth Ph.D Program) as PI.
 - 📑 *2025.11*: Our paper "Breaking the Bulkhead: Demystifying Cross-Namespace Reference Vulnerabilities in Kubernetes Operators" is accepted by NDSS'26.
@@ -47,6 +48,7 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 - 🎉 *2025.05*：指导作品“重明鸟：海量日志流中高隐蔽威胁在线检测系统”获软件创新大赛-软件系统安全赛“全国二等奖”及“优秀指导教师奖”，恭喜参与同学。 \[[Link](http://www.ccsssc.com/notice)\]
 - 📑 *2025.05*: Our paper "[The Case for Learned Provenance-based System Behavior Baseline](https://openreview.net/pdf?id=SY4owu5BK6)" is accepted by ICML'25.
 - 📑 *2025.04*: One paper "[PentestAgent: Incorporating LLM Agents to Automated Penetration Testing](https://dl.acm.org/doi/pdf/10.1145/3708821.3733882)" is accepted by AsiaCCS'25.
+- 🧑‍💻 *2025.12*: Invited to serve as an TPC member for "GlobalCom 2025 CISS". 
 - 📃 *2025.02*: One poster "[LLM-Driven Automated Exploit Assessment for Penetration Testing](https://ndss25-posters.hotcrp.com/u/0/doc/ndss25-posters-final71.pdf)" will appear in NDSS'25 poster session.
 - 🏗️ *2024.12*: Granted "Leading Goose" R&D Program of Zhejiang as PI.
 - 📑 *2024.12*: One paper "Understanding the Business of Online Affiliate Marketing: An Empirical Study" is accepted by INFOCOM'25.
@@ -245,8 +247,9 @@ Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wan
 
 
 # 🛎️ Academic Service
+- **Editorial Board Member**: Digital Twins and Applications(2025-2027)
+- **TPC Member**: IEEE GlobeCom 2025 CISS
 - **Reviewer**: TIFS(2025), TDSC(2025, 2024), TBD(2025) EMSE(2025), TOSEM (2024), Computer & Security(2024), CAAI-TIT(2025), TII(2025), 计算机学报 (2025, 2024), 信息安全学报 (2024), 计算机科学 (2024)
-- **TPC Member**: IEEE Globecom 2025 CISS
 - **Subreviewer/External reviewer**: IEEE S&P (2025, 2024), NDSS (2026, 2022), AsiaCCS (2021), CCS (2019, 2018), ICDC (2019), ESORICS (2019)
 
 
