@@ -34,28 +34,28 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 
 
 # 🔥 News
-- 🧑‍💻 *2025.12*: Invited to serve as an Early Career Editorial Board member for the journal "Digital Twins and Applications". Welcome innovative submissions on digital twin technologies across all domains!
-- 📑 *2025.11*: Our paper "Actionable, Customizable, and Causality-Preserving Cyberattack Emulation with LLM-powered Symbolic Planning" is accepted by ACNS'26.
-- 🏗️ *2025.11*: Granted National Natural Science Foundation of Ningbo (Youth Ph.D Program) as PI.
-- 📑 *2025.11*: Our paper "Breaking the Bulkhead: Demystifying Cross-Namespace Reference Vulnerabilities in Kubernetes Operators" is accepted by NDSS'26.
-- 📑 *2025.10*: Our paper "[Towards Scalable and Interpretable Mobile App Risk Analysis via Large Language Models](https://arxiv.org/pdf/2508.15606)" is accepted by ICSE'26.
-- 🎉 *2025.09*: 获北京市科学技术奖“科学技术进步二等奖（初审）”（序7/10）“基于隐匿机制对抗的高隐蔽网络威胁检测溯源关键技术及应用”.
-- 📑 *2025.09*: 我们的论文“移动平台间谍软件防范：洞察、挑战与展望”被《信息安全学报》接收。
-- 📑 *2025.09*: Our paper "[Incorporating Gradients to Rules: Towards Online, Adaptive Provenance-based Intrusion Detection](https://ieeexplore.ieee.org/abstract/document/11169421/)" is accepted by TDSC.
-- 🏗️ *2025.07*: Granted CCF-Tencent "Rhino-Bird" Open Research Fund as PI.
-- 📑 *2025.07*: 我们的论文“智能溯源分析与入侵检测：洞察、挑战与展望”被《计算机学报》接收。
-- 📑 *2025.07*: Our paper "AutoSeg: Automatic Micro-segmentation Policy Generation via Configuration Analysis" is accepted by Computer & Security.
-- 🎉 *2025.05*：指导作品“重明鸟：海量日志流中高隐蔽威胁在线检测系统”获软件创新大赛-软件系统安全赛“全国二等奖”及“优秀指导教师奖”，恭喜参与同学。 \[[Link](http://www.ccsssc.com/notice)\]
-- 📑 *2025.05*: Our paper "[The Case for Learned Provenance-based System Behavior Baseline](https://openreview.net/pdf?id=SY4owu5BK6)" is accepted by ICML'25.
-- 📑 *2025.04*: One paper "[PentestAgent: Incorporating LLM Agents to Automated Penetration Testing](https://dl.acm.org/doi/pdf/10.1145/3708821.3733882)" is accepted by AsiaCCS'25.
-- 🧑‍💻 *2025.03*: Invited to serve as an TPC member for "GlobalCom 2025 CISS". 
-- 📃 *2025.02*: One poster "[LLM-Driven Automated Exploit Assessment for Penetration Testing](https://ndss25-posters.hotcrp.com/u/0/doc/ndss25-posters-final71.pdf)" will appear in NDSS'25 poster session.
-- 🏗️ *2024.12*: Granted "Leading Goose" R&D Program of Zhejiang as PI.
-- 📑 *2024.12*: One paper "Understanding the Business of Online Affiliate Marketing: An Empirical Study" is accepted by INFOCOM'25.
-- 🎉 *2024.09*: Awarded Ningbo "YongJiang" Talent Programme (Youth Program).
-- 🏗️ *2024.08*: Granted National Natural Science Foundation of China (Youth Program) as PI.
-- 📑 *2024.08*: Our paper "Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection" is accepted by NDSS'25.
-- 📑 *2024.01*: One paper "Decoding the MITRE Engenuity ATT&CK Enterprise Evaluation: An Analysis of EDR Performance in Real-World Environments" is accepted by AsiaCCS'24.
+- 🧑‍💻 *2025.12*, Invited to serve as an Early Career Editorial Board member for the journal "Digital Twins and Applications". Welcome innovative submissions on digital twin technologies across all domains!
+- 📑 *2025.11*, Our paper "Actionable, Customizable, and Causality-Preserving Cyberattack Emulation with LLM-powered Symbolic Planning" is accepted by ACNS'26.
+- 🏗️ *2025.11*, Granted National Natural Science Foundation of Ningbo (Youth Ph.D Program) as PI.
+- 📑 *2025.11*, Our paper "Breaking the Bulkhead: Demystifying Cross-Namespace Reference Vulnerabilities in Kubernetes Operators" is accepted by NDSS'26.
+- 📑 *2025.10*, Our paper "[Towards Scalable and Interpretable Mobile App Risk Analysis via Large Language Models](https://arxiv.org/pdf/2508.15606)" is accepted by ICSE'26.
+- 🎉 *2025.09*, 获北京市科学技术奖“科学技术进步二等奖（初审）”（序7/10）“基于隐匿机制对抗的高隐蔽网络威胁检测溯源关键技术及应用”.
+- 📑 *2025.09*, 我们的论文“移动平台间谍软件防范：洞察、挑战与展望”被《信息安全学报》接收。
+- 📑 *2025.09*, Our paper "[Incorporating Gradients to Rules: Towards Online, Adaptive Provenance-based Intrusion Detection](https://ieeexplore.ieee.org/abstract/document/11169421/)" is accepted by TDSC.
+- 🏗️ *2025.07*, Granted CCF-Tencent "Rhino-Bird" Open Research Fund as PI.
+- 📑 *2025.07*, 我们的论文“智能溯源分析与入侵检测：洞察、挑战与展望”被《计算机学报》接收。
+- 📑 *2025.07*, Our paper "AutoSeg: Automatic Micro-segmentation Policy Generation via Configuration Analysis" is accepted by Computer & Security.
+- 🎉 *2025.05*, 指导作品“重明鸟：海量日志流中高隐蔽威胁在线检测系统”获软件创新大赛-软件系统安全赛“全国二等奖”及“优秀指导教师奖”，恭喜参与同学。 \[[Link](http://www.ccsssc.com/notice)\]
+- 📑 *2025.05*, Our paper "[The Case for Learned Provenance-based System Behavior Baseline](https://openreview.net/pdf?id=SY4owu5BK6)" is accepted by ICML'25.
+- 📑 *2025.04*, One paper "[PentestAgent: Incorporating LLM Agents to Automated Penetration Testing](https://dl.acm.org/doi/pdf/10.1145/3708821.3733882)" is accepted by AsiaCCS'25.
+- 🧑‍💻 *2025.03*, Invited to serve as an TPC member for "GlobalCom 2025 CISS". 
+- 📃 *2025.02*, One poster "[LLM-Driven Automated Exploit Assessment for Penetration Testing](https://ndss25-posters.hotcrp.com/u/0/doc/ndss25-posters-final71.pdf)" will appear in NDSS'25 poster session.
+- 🏗️ *2024.12*, Granted "Leading Goose" R&D Program of Zhejiang as PI.
+- 📑 *2024.12*, One paper "Understanding the Business of Online Affiliate Marketing: An Empirical Study" is accepted by INFOCOM'25.
+- 🎉 *2024.09*, Awarded Ningbo "YongJiang" Talent Programme (Youth Program).
+- 🏗️ *2024.08*, Granted National Natural Science Foundation of China (Youth Program) as PI.
+- 📑 *2024.08*, Our paper "Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection" is accepted by NDSS'25.
+- 📑 *2024.01*, One paper "Decoding the MITRE Engenuity ATT&CK Enterprise Evaluation: An Analysis of EDR Performance in Real-World Environments" is accepted by AsiaCCS'24.
 
 
 # 🛠️ Projects
@@ -238,15 +238,15 @@ Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wan
 
 
 # 🎖 Honors and Awards
-- *2025-09* 北京市科学技术奖“科学技术进步二等奖（初审）”（序7/10）“基于隐匿机制对抗的高隐蔽网络威胁检测溯源关键技术及应用”
-- *2025-05* 软件系统安全赛“全国二等奖”及“优秀指导教师奖” “重明鸟：海量日志流中高隐蔽威胁在线检测系统”
-- *2025-03* 浙江大学软件学院“科研贡献奖”
-- *2024-09* Ningbo "YongJiang" Talent Programme (Youth Program)
-- *2021-02* Zhejiang Lab's International Talent Fund for Young Professionals
-- *2020-12* Zhejiang University's Academic Rising Star 
-- *2020-10* CSC Joint Ph.D. Program
-- *2017-05* Outstanding Graduate of Xidian University (Top 1%)
-- *2015-11* National Scholarship (Undergraduate) (Top 1%)
+- *2025.09*, 北京市科学技术奖“科学技术进步二等奖（初审）”（序7/10）“基于隐匿机制对抗的高隐蔽网络威胁检测溯源关键技术及应用”
+- *2025.05*, 软件系统安全赛“全国二等奖”及“优秀指导教师奖” “重明鸟：海量日志流中高隐蔽威胁在线检测系统”
+- *2025.03*, 浙江大学软件学院“科研贡献奖”
+- *2024.09*, Ningbo "YongJiang" Talent Programme (Youth Program)
+- *2021.02*, Zhejiang Lab's International Talent Fund for Young Professionals
+- *2020.12*, Zhejiang University's Academic Rising Star 
+- *2020.10*, CSC Joint Ph.D. Program
+- *2017.05*, Outstanding Graduate of Xidian University (Top 1%)
+- *2015.11*, National Scholarship (Undergraduate) (Top 1%)
 
 
 # 💬 Invited Talks
