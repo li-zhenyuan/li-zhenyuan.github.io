@@ -231,14 +231,15 @@ Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wan
 
 
 # 🎖 Honors and Awards
-- *2025.12*, First Prize in the Science and Technology Progress Award by "China General Chamber of Commerce" \(ranked 5/15\) 
-- *2025.09*, Second Prize of Science and Technology Progress Award Award by "Beijing Municipal"  \(ranked 7/10\) 
+- *2025.12*, First Prize of Science and Technology Progress Award by "China General Chamber of Commerce" \(ranked 5/15\) 
+- *2025.09*, Second Prize of Science and Technology Progress Award by "Beijing Municipal"  \(ranked 7/10\) 
 - *2025.05*, National Second Prize in the Software Innovation Competition – Software System Security Track
 - *2025.03*, Research Contribution Award, School of Software Technology, Zhejiang University
 - *2024.09*, Ningbo "YongJiang" Talent Programme (Youth Program)
+- *2023.03*, Huawei "Star of Tomorrow"
 - *2021.02*, Zhejiang Lab's International Talent Fund for Young Professionals
 - *2020.12*, Zhejiang University's Academic Rising Star 
-- *2020.10*, CSC Joint Ph.D. Program
+- *2020.10*, China Scholarship Council (CSC) Joint Ph.D. Program
 - *2017.05*, Outstanding Graduate of Xidian University (Top 1%)
 - *2015.11*, National Scholarship (Undergraduate) (Top 1%)
 
