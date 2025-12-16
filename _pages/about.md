@@ -30,22 +30,23 @@ My research interests lie in **system security**, **intrusion detection**, and *
 - Automatic Penetration and Attack Planning
 - Action Security for LLM Agents
 
-Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in industry-oriented security research.（**招收2026级硕士生4-5名，欢迎联系！**）
+Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in industry-oriented security research.（**招收2026级硕士生4-5名, 欢迎联系！**）
 
 
 # 🔥 News
+- 🎉 *2025.12*, Awarded **First Prize** in the Science and Technology Progress Award by "China General Chamber of Commerce" \(ranked 5/15\) "Key Technologies and Industrial Applications of AI-Driven Cybersecurity Detection."
 - 🧑‍💻 *2025.12*, Invited to serve as an Early Career Editorial Board member for the journal "Digital Twins and Applications". Welcome innovative submissions on digital twin technologies across all domains!
 - 📑 *2025.11*, Our paper "Actionable, Customizable, and Causality-Preserving Cyberattack Emulation with LLM-powered Symbolic Planning" is accepted by ACNS'26.
 - 🏗️ *2025.11*, Granted National Natural Science Foundation of Ningbo (Youth Ph.D Program) as PI.
 - 📑 *2025.11*, Our paper "Breaking the Bulkhead: Demystifying Cross-Namespace Reference Vulnerabilities in Kubernetes Operators" is accepted by NDSS'26.
 - 📑 *2025.10*, Our paper "[Towards Scalable and Interpretable Mobile App Risk Analysis via Large Language Models](https://arxiv.org/pdf/2508.15606)" is accepted by ICSE'26.
-- 🎉 *2025.09*, 获北京市科学技术奖“科学技术进步二等奖（初审）”（序7/10）“基于隐匿机制对抗的高隐蔽网络威胁检测溯源关键技术及应用”.
-- 📑 *2025.09*, 我们的论文“移动平台间谍软件防范：洞察、挑战与展望”被《信息安全学报》接收。
+- 🎉 *2025.09*, Nominated (passed preliminary review) for the **Second Prize** of the Beijing Municipal Science and Technology Progress Award \(ranked 7/10\) "Key Technologies and Applications for Detection and Attribution of Highly Stealthy Cyber Threats Based on Anti-Stealth Mechanisms".
+- 📑 *2025.09*, Our paper "Mobile Platform Spyware Prevention: Insights, Challenges, and Outlook" accepted by the Journal of Cybersecurity (Chinese)
 - 📑 *2025.09*, Our paper "[Incorporating Gradients to Rules: Towards Online, Adaptive Provenance-based Intrusion Detection](https://ieeexplore.ieee.org/abstract/document/11169421/)" is accepted by TDSC.
 - 🏗️ *2025.07*, Granted CCF-Tencent "Rhino-Bird" Open Research Fund as PI.
-- 📑 *2025.07*, 我们的论文“智能溯源分析与入侵检测：洞察、挑战与展望”被《计算机学报》接收。
+- 📑 *2025.07*, Our paper "Learning in Provenance-Based Intrusion Detection: A Survey" accepted by Chinese Journal of Computers.
 - 📑 *2025.07*, Our paper "AutoSeg: Automatic Micro-segmentation Policy Generation via Configuration Analysis" is accepted by Computer & Security.
-- 🎉 *2025.05*, 指导作品“重明鸟：海量日志流中高隐蔽威胁在线检测系统”获软件创新大赛-软件系统安全赛“全国二等奖”及“优秀指导教师奖”，恭喜参与同学。 \[[Link](http://www.ccsssc.com/notice)\]
+- 🎉 *2025.05*, The student project "Chongming Niao: An Online Detection System for Highly Stealthy Threats in Massive Log Streams" won the **National Second Prize** in the Software Innovation Competition – Software System Security Track, along with the "Outstanding Faculty Advisor Award.” Congratulations to the participating students! \[[Link](http://www.ccsssc.com/notice)\]
 - 📑 *2025.05*, Our paper "[The Case for Learned Provenance-based System Behavior Baseline](https://openreview.net/pdf?id=SY4owu5BK6)" is accepted by ICML'25.
 - 📑 *2025.04*, One paper "[PentestAgent: Incorporating LLM Agents to Automated Penetration Testing](https://dl.acm.org/doi/pdf/10.1145/3708821.3733882)" is accepted by AsiaCCS'25.
 - 🧑‍💻 *2025.03*, Invited to serve as an TPC member for "GlobalCom 2025 CISS". 
@@ -125,25 +126,25 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 
 [J6] ``TDSC 2025`` "[Incorporating Gradients to Rules: Towards Online, Adaptive Provenance-based Intrusion Detection](https://ieeexplore.ieee.org/abstract/document/11169421/)", **Zhenyuan Li#**, Lingzhi Wang, Zhengkai Wang, Xiangmin Shen, Haitao Xu, Yan Chen, Shouling Ji 
 
-<!-- - ``计算机学报`` “智能溯源分析与入侵检测：洞察、挑战与展望”, **李振源**，韦洋洋，王征凯，纪守领 -->
+<!-- - ``计算机学报`` "智能溯源分析与入侵检测：洞察、挑战与展望”, **李振源**, 韦洋洋, 王征凯, 纪守领 -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">计算机学报</div><img src='images/溯源分析框架.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chinese Journal of Computers</div><img src='images/溯源分析框架.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-"智能溯源分析与入侵检测：洞察、挑战与展望"
+"Learning in Provenance-Based Intrusion Detection: A Survey"
 
-**李振源**，韦洋洋，王征凯，纪守领
+**Zhenyuan Li**, Yangyang Wei, Zhengkai Wang, Shouling Ji
 
-- 机器学习模型寻找和表达特征的能力，为准确、高效的表征攻击模式提取，提升溯源检测的准确率；以及高效的数据压缩和搜索实现，有效提高分析效率及降低分析开销，提供了新的思路和解决方案
+- The ability of machine learning models to discover and represent features offers new insights and solutions for accurately and efficiently extracting attack patterns, thereby improving the precision of provenance-based detection. Moreover, advances in efficient data compression and indexing enable faster analysis and significantly reduce computational overhead.
 
-- 溯源图中存在大量冗余、无关信息，通过合理利用机器学习算法可以实现对关键信息的高效的筛选、总结与压缩，有效提升溯源数据存储、查询和处理效率。
+- Provenance graphs often contain substantial redundant or irrelevant information. By appropriately leveraging machine learning algorithms, it is possible to effectively filter, summarize, and compress critical evidence, thereby substantially enhancing the efficiency of provenance data storage, querying, and processing.
 
-- 入侵检测是一个系统性问题。当前基于智能溯源分析的入侵检测各模块在部分属性上实现了比较理想的效果，但这些模块之间往往不能简单的组合到一起。如何合理组合使用这些模块，达到整体效果最优是一个开放性问题。
+- Intrusion detection is inherently a systemic challenge. While current intelligent provenance-based detection approaches have achieved promising results in individual modules (e.g., data collection, feature extraction, or anomaly scoring), these components often cannot be trivially integrated into a unified pipeline. How to optimally orchestrate and combine these modules to achieve globally optimal detection performance remains an open research problem.
 
 </div>
 </div>
 
-[J4] ``信息安全学报`` “移动平台间谍软件防范：洞察、挑战与展望” 姜艾, **李振源#**, 张帆, 蒋屹新, 徐文倩, 梁志宏 
+[J4] ``Journal of Cyber Security`` "Mobile Spyware and Its Detection: A Survey", Yi Jiang, Zhenyuan Li#, Fan Zhang, Yixin Jiang, Wenqian Xu, and Zhihong Liang.
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/aurora.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -169,7 +170,7 @@ Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wan
 
 #### [Workshop/ArXiv/Other Papers]
 
-<!-- - ``ArXiv`` "[Marlin: Knowledge-Driven Analysis of Provenance Graphs forEfficient and Robust Detection of Cyber Attacks](https://arxiv.org/pdf/2403.12541)"， **Zhenyuan Li**, Yangyang Wei, Xiangmin Shen, Lingzhi Wang, Yan Chen, Haitao Xu, Shouling Ji, Fan Zhang, Liang Hou, Wenmao Liu, Xuhong Zhang, Jianwei Ying -->
+<!-- - ``ArXiv`` "[Marlin: Knowledge-Driven Analysis of Provenance Graphs forEfficient and Robust Detection of Cyber Attacks](https://arxiv.org/pdf/2403.12541)",  **Zhenyuan Li**, Yangyang Wei, Xiangmin Shen, Lingzhi Wang, Yan Chen, Haitao Xu, Shouling Ji, Fan Zhang, Liang Hou, Wenmao Liu, Xuhong Zhang, Jianwei Ying -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2024</div><img src='images/Marlin.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -188,27 +189,40 @@ Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wan
 
 
 # 📑 Selected Patents
-- **全量数据采集**：“（受理）基于 eBPF 的 Android 系统细粒度溯源数据采集方法及装置”、“（授权）基于多层数据融合的云平台细粒度溯源数据采集方法与系统”
-- **高效威胁狩猎**：“（授权）基于标签传递和事件基线学习的实时攻击链检测方法及系统”、“（授权）基于标签和图对齐的流式溯源图实时攻击检测方法及系统”、“（受理）基于大模型的可疑点前后向追踪与攻击路径还原方法及系统”、“（受理）基于大模型多智能体决策树的应用风险判定方法及装置”
-- **智能规则优化**：“（授权）基于迭代预测校正的流式溯源图的异常检测方法及系统”、“（授权）基于特征反向传播的攻击检测策略优化方法及系统”
-- **自动攻击规划**：“（受理）一种端到端网络攻击构建方法”、“（受理）基于大语言模型和攻击树模型的多阶段自动化渗透测试方案生成方法及系统”
+- **Comprehensive Data Collection:**
+(Patent Application Filed) Fine-Grained Provenance Data Collection Method and Apparatus for Android Systems Based on eBPF
+(Patent Granted) Fine-Grained Provenance Data Collection Method and System for Cloud Platforms Based on Multi-Layer Data Fusion
+
+- **Efficient Threat Hunting:**
+(Patent Granted) Real-Time Attack Chain Detection Method and System Based on Label Propagation and Event Baseline Learning
+(Patent Granted) Real-Time Attack Detection Method and System for Streaming Provenance Graphs Based on Labeling and Graph Alignment
+(Patent Application Filed) Suspicious Event Forward-Backward Tracing and Attack Path Reconstruction Method and System Based on Large Models
+(Patent Application Filed) Application Risk Assessment Method and Apparatus Based on Large Model Multi-Agent Decision Trees
+
+- **Intelligent Rule Optimization:**
+(Patent Granted) Anomaly Detection Method and System for Streaming Provenance Graphs Based on Iterative Prediction-Correction
+(Patent Granted) Attack Detection Policy Optimization Method and System Based on Feature Backpropagation
+
+- **Automated Attack Planning:**
+(Patent Application Filed) An End-to-End Network Attack Construction Method
+(Patent Application Filed) Multi-Stage Automated Penetration Testing Plan Generation Method and System Based on Large Language Models and Attack Tree Models
 
 
 
 # 💫 Selected Fundings
-- 国家自然基金青年科学基金项目，**大规模实时溯源分析与攻击检测方法和关键技术研究**，2025/01-2027/12，在研，项目负责人
-- 国家重点研发计划“网络空间安全治理”专项，**面向终端的高隐蔽传播网络公害识别，取证和归因研究**，2024/01-2026/12，在研，子课题负责人
-- 浙江省重点研发计划（“领雁”），**\*\*\*\*\*\***，2025/01-2025/12，在研，项目负责人
-- 浙江省重点研发计划（“领雁”），**\*\*\*\*\*\***，2024/01-2024/12，结题，课题负责人
-- 宁波市“甬江”青年创新人才项目，**\*\*\*\*\*\***，2025/01-2027/12，在研，项目负责人
-- 宁波自然基金青年博士创新研究项目，**关键基础设施中新兴异构系统行为管控与安全防护方法及关键技术研究**，2026/01-2027/12，在研，项目负责人
-- CCF-腾讯“犀牛鸟”科研基金，**高效、智能、对抗导向的溯源分析与威胁狩猎方法与关键技术研究**，2026/01-2026/12，获批，项目负责人
-- CCF-绿盟“鲲鹏”科研基金，**云计算环境下基于流处理的大规模溯源分析**，2024/01-2024/12，结题，项目负责人
-- 国家自然科学基金联合基金项目，**面向APT网络攻击链的智能检测与溯源方法及关键技术研究**，2021/01-2023/12，结题，技术骨干
+- National Natural Science Foundation of China (Youth Program), **Research on Methods and Key Technologies for Large-Scale Real-Time Attack Detection and Attribution**, 2024/01-2026/12, Ongoing, PI
+- National Key R&D Program of China – “Cyberspace Security Governance” Special Project, **Terminal-Oriented Identification, Forensics, and Attribution of Highly Stealthy Propagation-Based Cyber Nuisances**, , Ongoing, Sub-Task Leader
+- Zhejiang Provincial Key R&D Program \("Leading Goose"\), **\*\*\*\*\*\***, 2025/01-2025/12, Ongoing, PI
+- Zhejiang Provincial Key R&D Program \("Leading Goose"\), **\*\*\*\*\*\***, 2024/01-2024/12, Ongoing, Task Leader
+- Ningbo "Yongjiang" Young Innovative Talents Project, **\*\*\*\*\*\***, 2025/01-2027/12, Ongoing, PI
+- Ningbo Natural Science Foundation – Young Doctoral Innovation Research Project, **Behavior Governance and Security Protection Methods and Key Technologies for Emerging Heterogeneous Systems in Critical Infrastructure**, 2026/01-2027/12, Ongoing, PI
+- CCF-Tencent “Rhino Bird” Research Fund, **Efficient, Intelligent, and Adversary-Aware Attribution Analysis and Threat Hunting: Methods and Key Technologies**, 2026/01-2026/12, Ongoing, PI
+- CF-NSFOCUS “Kunpeng” Research Fund, **Large-Scale Attribution Analysis Based on Stream Processing in Cloud Computing Environments**, 2024/01-2024/12, Completed, PI
+- Joint Fund of the National Natural Science Foundation of China, **Intelligent Detection and Attribution Methods and Key Technologies for APT Cyber Kill Chains**, 2021/01-2023/12, Completed, Core Technical Member
 
 
 # 📝 Teaching
-- 智能软件质量保障（2024年秋，2025年秋）
+- Intelligent Software Quality Assurance (Autumn 2024, Autumn 2025)
 
 
 # 🎓 Students
@@ -226,21 +240,22 @@ Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wan
 
 - **2024**: 
   - Yuqiao Gu (Ph.D Student, 1 * Patent, 1 * Competition Award)
-  - Zhenkai Wang (TDSC Co-1st Author, ACNS 4th Author, 计算机学报三作, 1 * Competition Award)
-  - Yi Jiang (信息安全学报一作, ACNS 3nd Author, 1 * Competition Award)
+  - Zhenkai Wang (TDSC Co-1st Author, ACNS 4th Author, Chinese Journal of Computers 3rd Author, 1 * Competition Award)
+  - Yi Jiang (Journal of Cybersecurity (Chinese) 1st Author, ACNS 3nd Author, 1 * Competition Award)
 - **2023**: 
   - Jiahui Wang (APSEC'24 2nd Author, ICSE'26 5th Author, 1 * Patent)
   - Mingxiang Shi (1 * Patent)
-  - Yangyang Wei (ICML'25 3rd Author, 计算机学报二作, 3 * Patents, 1 * Competition Award)
+  - Yangyang Wei (ICML'25 3rd Author, Chinese Journal of Computers 2nd Author, 3 * Patents, 1 * Competition Award)
   - Yu Yang (ICSE'26 1st Author)
   - Yao Zhu (ICML'25 1st Author)
 - **Alumni**: None.
 
 
 # 🎖 Honors and Awards
-- *2025.09*, 北京市科学技术奖“科学技术进步二等奖（初审）”（序7/10）“基于隐匿机制对抗的高隐蔽网络威胁检测溯源关键技术及应用”
-- *2025.05*, 软件系统安全赛“全国二等奖”及“优秀指导教师奖” “重明鸟：海量日志流中高隐蔽威胁在线检测系统”
-- *2025.03*, 浙江大学软件学院“科研贡献奖”
+- *2025.12*, **First Prize** in the Science and Technology Progress Award by "China General Chamber of Commerce" \(ranked 5/15\) "Key Technologies and Industrial Applications of AI-Driven Cybersecurity Detection."
+- *2025.09*, **Second Prize** of the Beijing Municipal Science and Technology Progress Award \(ranked 7/10\) "Key Technologies and Applications for Detection and Attribution of Highly Stealthy Cyber Threats Based on Anti-Stealth Mechanisms"
+- *2025.05*, **National Second Prize** in the Software Innovation Competition – Software System Security Track "Chongming Niao: An Online Detection System for Highly Stealthy Threats in Massive Log Streams”"
+- *2025.03*, Research Contribution Award, School of Software Technology, Zhejiang University
 - *2024.09*, Ningbo "YongJiang" Talent Programme (Youth Program)
 - *2021.02*, Zhejiang Lab's International Talent Fund for Young Professionals
 - *2020.12*, Zhejiang University's Academic Rising Star 
@@ -257,7 +272,7 @@ Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wan
 # 🛎️ Academic Service
 - **Editorial Board Member**: Digital Twins and Applications(2025-2027)
 - **TPC Member**: IEEE GlobeCom 2025 CISS
-- **Reviewer**: TIFS(2025), TDSC(2025, 2024), TBD(2025) EMSE(2025), TOSEM (2024), Computer & Security(2024), CAAI-TIT(2025), TII(2025), 计算机学报 (2025, 2024), 信息安全学报 (2024), 计算机科学 (2024)
+- **Reviewer**: TIFS(2025), TDSC(2025, 2024), TBD(2025) EMSE(2025), TOSEM (2024), Computer & Security(2024), CAAI-TIT(2025), TII(2025), Chinese Journal of Computers (2025, 2024), Journal of Cybersecurity (Chinese) (2024), Computer Science (2024)
 - **Subreviewer/External reviewer**: IEEE S&P (2025, 2024), NDSS (2026, 2022), AsiaCCS (2021), CCS (2019, 2018), ICDC (2019), ESORICS (2019)
 
 
