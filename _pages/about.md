@@ -125,6 +125,7 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 
 
 #### [Journal Papers]
+[J7] ``Microelectronics & Computer (in Chinese)`` "Analysis, Description, and Reproduction Methods for Attack Processes Driven by Large Language Models", Jin Qian, Shiyu Tan, Libin Xu, Jun Luo, **Zhenyuan Li#**
 
 [J6] ``TDSC 2025`` "[Incorporating Gradients to Rules: Towards Online, Adaptive Provenance-based Intrusion Detection](https://ieeexplore.ieee.org/abstract/document/11169421/)", **Zhenyuan Li#**, Lingzhi Wang, Zhengkai Wang, Xiangmin Shen, Haitao Xu, Yan Chen, Shouling Ji 
 
@@ -142,7 +143,7 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 </div>
 </div>
 
-[J4] ``Journal of Cyber Security`` "Mobile Spyware and Its Detection: A Survey", Yi Jiang, Zhenyuan Li#, Fan Zhang, Yixin Jiang, Wenqian Xu, and Zhihong Liang.
+[J4] ``Journal of Cyber Security (in Chinese)`` "Mobile Spyware and Its Detection: A Survey", Yi Jiang, Zhenyuan Li#, Fan Zhang, Yixin Jiang, Wenqian Xu, and Zhihong Liang.
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/aurora.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
