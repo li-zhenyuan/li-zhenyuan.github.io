@@ -253,9 +253,9 @@ Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wan
 
 
 # 🛎️ Academic Service
-- **TPC Member**: IEEE GlobeCom CISS(2026, 2025)
+- **TPC Member**: IEEE GlobeCom CISS (2026, 2025)
 - **Editorial Board Member**: Digital Twins and Applications(2025-2027)
-- **Reviewer**: TIFS(2025), TDSC(2025, 2024), TBD(2025) EMSE(2025), TOSEM (2024), Computer & Security(2024), CAAI-TIT(2025), TII(2025), Chinese Journal of Computers (2025, 2024), Journal of Cybersecurity (Chinese) (2024), Computer Science (2024)
+- **Reviewer**: TIFS (2025), TDSC (2025, 2024), TBD (2025) EMSE (2025), TOSEM (2024), Computer & Security (2024), CAAI-TIT (2025), TII (2025), Chinese Journal of Computers (2025, 2024), Journal of Cybersecurity (Chinese) (2024), Computer Science (2024)
 - **Subreviewer/External reviewer**: IEEE S&P (2025, 2024), NDSS (2026, 2022), AsiaCCS (2021), CCS (2019, 2018), ICDC (2019), ESORICS (2019)
 
 
