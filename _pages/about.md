@@ -19,10 +19,9 @@ redirect_from:
 
 I am a Researcher at the [School of Software Technology, Zhejiang University](http://www.cst.zju.edu.cn/) <img src='./images/ZJU-Logo.png' style='width: 6em; vertical-align: middle;'>. Before joining ZJU, I worked at [Huawei 2012 Lab](https://www.huawei.com/en/) <img src='./images/Huawei-Logo.wine.png' style='width: 5em; vertical-align: middle;'> as a Senior Engineer. I received my Ph.D. degree from the Department of Computer Science and Technology at Zhejiang University.
 
-My research interests lie in **system security**, **intrusion detection**, and **cyber threat analysis**. My current work focuses on designing practical intrusion detection and attack investigation systems. I work closely with my PhD advisors, Prof. [Yan Chen](https://users.cs.northwestern.edu/~ychen/) from Northwestern University, Prof. [Shouling Ji](https://nesa.zju.edu.cn) and Prof. Fan Zhang from Zhejiang University.
+My research interests lie in **system security**, **intrusion detection**, and **cyber threat analysis**. My current work focuses on designing practical intrusion detection and attack investigation systems. I work closely with Prof. [Shouling Ji](https://nesa.zju.edu.cn), Prof. Fan Zhang from Zhejiang University and Prof. [Yan Chen](https://users.cs.northwestern.edu/~ychen/) from Northwestern University,.
 
 <!-- **Research Map:**
-
 <img src='images/李振源-2025年ACES暑期工作会议_05.png' alt="sym" width="86%"> -->
 
 **Recent research interests include:**
@@ -34,27 +33,28 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 
 
 # 🔥 News
-- 🎉 *2025.12*, Awarded First Prize in the Science and Technology Progress Award by "China General Chamber of Commerce" \(ranked 5/15\) -- "Key Technologies and Industrial Applications of AI-Driven Cybersecurity Detection."
+- 🧑‍💻 *2025.12*, Invited to serve as an TPC member for "GlobalCom 2026 CISS". 
 - 🧑‍💻 *2025.12*, Invited to serve as an Early Career Editorial Board member for the journal "Digital Twins and Applications". 
 - 📑 *2025.11*, Our paper "Actionable, Customizable, and Causality-Preserving Cyberattack Emulation with LLM-powered Symbolic Planning" is accepted by ACNS'26.
 - 🏗️ *2025.11*, Granted Natural Science Foundation of Ningbo (Youth Ph.D Program) as PI.
 - 📑 *2025.11*, Our paper "Breaking the Bulkhead: Demystifying Cross-Namespace Reference Vulnerabilities in Kubernetes Operators" is accepted by NDSS'26.
 - 📑 *2025.10*, Our paper "[Towards Scalable and Interpretable Mobile App Risk Analysis via Large Language Models](https://arxiv.org/pdf/2508.15606)" is accepted by ICSE'26.
-- 🎉 *2025.09*, Nominated Second Prize of the Beijing Municipal Science and Technology Progress Award \(ranked 7/10\) -- "Key Technologies and Applications for Detection and Attribution of Highly Stealthy Cyber Threats Based on Anti-Stealth Mechanisms".
 - 📑 *2025.09*, Our paper "[Incorporating Gradients to Rules: Towards Online, Adaptive Provenance-based Intrusion Detection](https://ieeexplore.ieee.org/abstract/document/11169421/)" is accepted by TDSC.
 - 🏗️ *2025.07*, Granted CCF-Tencent "Rhino-Bird" Open Research Fund as PI.
 - 📑 *2025.07*, Our paper "Learning in Provenance-Based Intrusion Detection: A Survey" accepted by Chinese Journal of Computers.
-- 📑 *2025.07*, Our paper "AutoSeg: Automatic Micro-segmentation Policy Generation via Configuration Analysis" is accepted by Computer & Security.
 - 📑 *2025.05*, Our paper "[The Case for Learned Provenance-based System Behavior Baseline](https://openreview.net/pdf?id=SY4owu5BK6)" is accepted by ICML'25.
 - 📑 *2025.04*, One paper "[PentestAgent: Incorporating LLM Agents to Automated Penetration Testing](https://dl.acm.org/doi/pdf/10.1145/3708821.3733882)" is accepted by AsiaCCS'25.
 - 🧑‍💻 *2025.03*, Invited to serve as an TPC member for "GlobalCom 2025 CISS". 
-- 🏗️ *2024.12*, Granted "Leading Goose" R&D Program of Zhejiang as PI.
-- 📑 *2024.12*, One paper "Understanding the Business of Online Affiliate Marketing: An Empirical Study" is accepted by INFOCOM'25.
 - 🎉 *2024.09*, Awarded Ningbo "YongJiang" Talent Programme (Youth Program).
 - 🏗️ *2024.08*, Granted National Natural Science Foundation of China (Youth Program) as PI.
 - 📑 *2024.08*, Our paper "Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection" is accepted by NDSS'25.
-- 📑 *2024.01*, One paper "Decoding the MITRE Engenuity ATT&CK Enterprise Evaluation: An Analysis of EDR Performance in Real-World Environments" is accepted by AsiaCCS'24.
 
+<!-- - 🎉 *2025.12*, Awarded First Prize in the Science and Technology Progress Award by "China General Chamber of Commerce" \(ranked 5/15\) -- "Key Technologies and Industrial Applications of AI-Driven Cybersecurity Detection." -->
+<!-- - 🎉 *2025.09*, Awarded Second Prize of the Beijing Municipal Science and Technology Progress Award \(ranked 7/10\) -- "Key Technologies and Applications for Detection and Attribution of Highly Stealthy Cyber Threats Based on Anti-Stealth Mechanisms". -->
+<!-- - 📑 *2025.07*, Our paper "AutoSeg: Automatic Micro-segmentation Policy Generation via Configuration Analysis" is accepted by Computer & Security. -->
+<!-- - 🏗️ *2024.12*, Granted "Leading Goose" R&D Program of Zhejiang as PI. -->
+<!-- - 📑 *2024.12*, One paper "Understanding the Business of Online Affiliate Marketing: An Empirical Study" is accepted by INFOCOM'25. -->
+<!-- - 📑 *2024.01*, One paper "Decoding the MITRE Engenuity ATT&CK Enterprise Evaluation: An Analysis of EDR Performance in Real-World Environments" is accepted by AsiaCCS'24. -->
 
 <!-- - 📑 *2025.09*, Our paper "Mobile Platform Spyware Prevention: Insights, Challenges, and Outlook" accepted by the Journal of Cybersecurity (Chinese) -->
 <!-- - 🎉 *2025.05*, The student project "Chongming Niao: An Online Detection System for Highly Stealthy Threats in Massive Log Streams" won the National Second Prize in the Software Innovation Competition – Software System Security Track, along with the "Outstanding Faculty Advisor Award.” Congratulations to the participating students! \[[Link](http://www.ccsssc.com/notice)\] -->
@@ -62,6 +62,7 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 
 
 # 🛠️ Projects
+- Automated Penetration Testing
 - [Aurora: Automated Cyberattack Emulation](https://github.com/LexusWang/Aurora-demos?tab=readme-ov-file)
 - [Marlin: Streaming Provenance Graph Analysis](https://github.com/MarineYY/MARLIN)
 
