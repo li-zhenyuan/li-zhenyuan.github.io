@@ -34,6 +34,8 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 
 # 🔥 News
 - 🧑‍💻 *2025.12*, Invited to serve as an TPC member for "GlobalCom 2026 CISS". 
+- 🎉 *2025.12*, Awarded First Prize in the Science and Technology Progress Award by "China General Chamber of Commerce" \(ranked 5/15\) -- "Key Technologies and Industrial Applications of AI-Driven Cybersecurity Detection."
+- 🎉 *2025.12*, Awarded Second Prize of the Beijing Municipal Science and Technology Progress Award \(ranked 7/10\) -- "Key Technologies and Applications for Detection and Attribution of Highly Stealthy Cyber Threats Based on Anti-Stealth Mechanisms".
 - 🧑‍💻 *2025.12*, Invited to serve as an Early Career Editorial Board member for the journal "Digital Twins and Applications". 
 - 📑 *2025.11*, Our paper "Actionable, Customizable, and Causality-Preserving Cyberattack Emulation with LLM-powered Symbolic Planning" is accepted by ACNS'26.
 - 🏗️ *2025.11*, Granted Natural Science Foundation of Ningbo (Youth Ph.D Program) as PI.
@@ -49,8 +51,7 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 - 🏗️ *2024.08*, Granted National Natural Science Foundation of China (Youth Program) as PI.
 - 📑 *2024.08*, Our paper "Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection" is accepted by NDSS'25.
 
-<!-- - 🎉 *2025.12*, Awarded First Prize in the Science and Technology Progress Award by "China General Chamber of Commerce" \(ranked 5/15\) -- "Key Technologies and Industrial Applications of AI-Driven Cybersecurity Detection." -->
-<!-- - 🎉 *2025.09*, Awarded Second Prize of the Beijing Municipal Science and Technology Progress Award \(ranked 7/10\) -- "Key Technologies and Applications for Detection and Attribution of Highly Stealthy Cyber Threats Based on Anti-Stealth Mechanisms". -->
+
 <!-- - 📑 *2025.07*, Our paper "AutoSeg: Automatic Micro-segmentation Policy Generation via Configuration Analysis" is accepted by Computer & Security. -->
 <!-- - 🏗️ *2024.12*, Granted "Leading Goose" R&D Program of Zhejiang as PI. -->
 <!-- - 📑 *2024.12*, One paper "Understanding the Business of Online Affiliate Marketing: An Empirical Study" is accepted by INFOCOM'25. -->
