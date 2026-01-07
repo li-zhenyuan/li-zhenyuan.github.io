@@ -76,6 +76,10 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 
 #### [ArXiv]
 
+[A3] ``ArXiv`` "Automated Penetration Testing with LLM Agents and Classical Planning", Lingzhi Wang, Xinyi Shi, Ziyu Li, Yi Jiang, Shiyu Tan, Yuhao Jiang, Junjie Cheng, Wenyuan Chen, Xiangmin Shen, **Zhenyuan Li**, Yan Chen
+
+[A2] ``ArXiv`` "AEAS: Actionable Exploit Assessment System", Xiangmin Shen, Wenyuan Cheng, Yan Chen, **Zhenyuan Li**, Yuqiao Gu, Lingzhi Wang, Wencheng Zhao, Dawei Sun, Jiashui Wang
+
 <!-- - ``ArXiv`` "[Marlin: Knowledge-Driven Analysis of Provenance Graphs forEfficient and Robust Detection of Cyber Attacks](https://arxiv.org/pdf/2403.12541)",  **Zhenyuan Li**, Yangyang Wei, Xiangmin Shen, Lingzhi Wang, Yan Chen, Haitao Xu, Shouling Ji, Fan Zhang, Liang Hou, Wenmao Liu, Xuhong Zhang, Jianwei Ying -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2024</div><img src='images/Marlin.png' alt="sym" width="100%"></div></div>
