@@ -193,6 +193,11 @@ Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wan
 [J1] ``COSE 2021`` "[Threat Detection and Investigation with System-level Provenance Graphs: A Survey](https://www.sciencedirect.com/science/article/pii/S0167404821001061)", **Zhenyuan Li**, Qi Alfred Chen, Yang Runqing, Yan Chen
 
 
+#### [Posters/Workshop Papers]
+
+[P2] ``NDSS 2022`` "Poster: Towards automated and large-scale cyber attack reconstruction with apt reports", **Zhenyuan Li**, Ahmad Soltani, Anis Yusof, Aris Cahyadi Risdianto, Kang Huang, Jun Zeng, Zhenkai Liang, Yan Chen 
+
+[P1] ``ACSAC 2021`` "A First Look at Evasion against Provenance Graph-based Threat Detection", **Zhenyuan Li**, Runqing Yang, Qi Alfred Chen, Yan Chen
 
 
 # 📑 Selected Patents
