@@ -77,16 +77,16 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 
 #### [ArXiv]
 
-[A3] ``ArXiv`` "Automated Penetration Testing with LLM Agents and Classical Planning", Lingzhi Wang, Xinyi Shi, Ziyu Li, Yi Jiang, Shiyu Tan, Yuhao Jiang, Junjie Cheng, Wenyuan Chen, Xiangmin Shen, **Zhenyuan Li**, Yan Chen
+[A3] ``ArXiv 2025`` "Automated Penetration Testing with LLM Agents and Classical Planning", Lingzhi Wang, Xinyi Shi, Ziyu Li, Yi Jiang, Shiyu Tan, Yuhao Jiang, Junjie Cheng, Wenyuan Chen, Xiangmin Shen, **Zhenyuan Li**, Yan Chen
 
-[A2] ``ArXiv`` "AEAS: Actionable Exploit Assessment System", Xiangmin Shen, Wenyuan Cheng, Yan Chen, **Zhenyuan Li**, Yuqiao Gu, Lingzhi Wang, Wencheng Zhao, Dawei Sun, Jiashui Wang
+[A2] ``ArXiv 2025`` "AEAS: Actionable Exploit Assessment System", Xiangmin Shen, Wenyuan Cheng, Yan Chen, **Zhenyuan Li**, Yuqiao Gu, Lingzhi Wang, Wencheng Zhao, Dawei Sun, Jiashui Wang
 
 <!-- - ``ArXiv`` "[Marlin: Knowledge-Driven Analysis of Provenance Graphs forEfficient and Robust Detection of Cyber Attacks](https://arxiv.org/pdf/2403.12541)",  **Zhenyuan Li**, Yangyang Wei, Xiangmin Shen, Lingzhi Wang, Yan Chen, Haitao Xu, Shouling Ji, Fan Zhang, Liang Hou, Wenmao Liu, Xuhong Zhang, Jianwei Ying -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2024</div><img src='images/Marlin.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-"[Marlin: Knowledge-Driven Analysis of Provenance Graphs forEfficient and Robust Detection of Cyber Attacks](https://arxiv.org/pdf/2403.12541)"
+"[Marlin: Knowledge-Driven Analysis of Provenance Graphs for Efficient and Robust Detection of Cyber Attacks](https://arxiv.org/pdf/2403.12541)"
 
 **Zhenyuan Li**, Yangyang Wei, Xiangmin Shen, Lingzhi Wang, Yan Chen, Haitao Xu, Shouling Ji, Fan Zhang, Liang Hou, Wenmao Liu, Xuhong Zhang, Jianwei Ying
 
@@ -273,7 +273,7 @@ Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wan
 # 🛎️ Academic Service
 - **TPC Member**: IEEE GlobeCom CISS (2026, 2025)
 - **Editorial Board Member**: Digital Twins and Applications(2025-2027)
-- **Reviewer**: TIFS (2025), TDSC (2025, 2024), TBD (2025) EMSE (2025), TOSEM (2024), Computer & Security (2024), CAAI-TIT (2025), TII (2025), Chinese Journal of Computers (2025, 2024), Journal of Cybersecurity (Chinese) (2024), Computer Science (2024)
+- **Reviewer**: TIFS (2026, 2025), TDSC (2025, 2024), TBD (2025) EMSE (2025), TOSEM (2024), Computer & Security (2024), CAAI-TIT (2025), TII (2025), Chinese Journal of Computers (2025, 2024), Journal of Cybersecurity (Chinese) (2024), Computer Science (2024)
 - **Subreviewer/External reviewer**: IEEE S&P (2025, 2024), NDSS (2026, 2022), AsiaCCS (2021), CCS (2019, 2018), ICDC (2019), ESORICS (2019)
 
 
