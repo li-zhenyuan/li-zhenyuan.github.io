@@ -196,9 +196,9 @@ Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wan
 
 #### [Posters/Workshop Papers]
 
-[W2] ``PRISM 2026`` "Work In Progress: The Case for LLM-Enhanced Backward Tracking", Jiahui Wang, Xiangmin Shen, Zhengkai Wang, **Zhenyuan Li**
+[W2] ``PRISM 2026`` "Work In Progress: The Case for LLM-Enhanced Backward Tracking", Jiahui Wang, Xiangmin Shen, Zhengkai Wang, **Zhenyuan Li#**
 
-[W1] ``PRISM 2026`` "Work In Progress: Building Next-Generation Datasets for Provenance-Based Intrusion Detection", Qizhi Cai, Lingzhi Wang, Yao Zhu, Zhipeng Chen, Xiangmin Shen, **Zhenyuan Li**
+[W1] ``PRISM 2026`` "Work In Progress: Building Next-Generation Datasets for Provenance-Based Intrusion Detection", Qizhi Cai, Lingzhi Wang, Yao Zhu, Zhipeng Chen, Xiangmin Shen, **Zhenyuan Li#**
 
 [P2] ``NDSS 2022`` "Poster: Towards automated and large-scale cyber attack reconstruction with apt reports", **Zhenyuan Li**, Ahmad Soltani, Anis Yusof, Aris Cahyadi Risdianto, Kang Huang, Jun Zeng, Zhenkai Liang, Yan Chen 
 
