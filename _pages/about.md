@@ -33,6 +33,7 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 
 
 # 🔥 News
+- 📑 *2026.01*, Two Work-In-Progress papers, titled "Work In Progress: Building Next-Generation Datasets for Provenance-Based Intrusion Detection" and "Work In Progress: The Case for LLM-Enhanced Backward Tracking" accepted by PRISM'26 co-located wiht NDSS'26.
 - 🧑‍💻 *2025.12*, Invited to serve as an TPC member for "GlobalCom 2026 CISS". 
 - 🎉 *2025.12*, Awarded First Prize in the Science and Technology Progress Award by "China General Chamber of Commerce" \(ranked 5/15\) -- "Key Technologies and Industrial Applications of AI-Driven Cybersecurity Detection."
 - 🎉 *2025.12*, Awarded Second Prize of the Beijing Municipal Science and Technology Progress Award \(ranked 7/10\) -- "Key Technologies and Applications for Detection and Attribution of Highly Stealthy Cyber Threats Based on Anti-Stealth Mechanisms".
@@ -194,6 +195,10 @@ Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wan
 
 
 #### [Posters/Workshop Papers]
+
+[W2] ``PRISM 2026`` "Work In Progress: The Case for LLM-Enhanced Backward Tracking", Jiahui Wang, Xiangmin Shen, Zhengkai Wang, **Zhenyuan Li**
+
+[W1] ``PRISM 2026`` "Work In Progress: Building Next-Generation Datasets for Provenance-Based Intrusion Detection", Qizhi Cai, Lingzhi Wang, Yao Zhu, Zhipeng Chen, Xiangmin Shen, **Zhenyuan Li**
 
 [P2] ``NDSS 2022`` "Poster: Towards automated and large-scale cyber attack reconstruction with apt reports", **Zhenyuan Li**, Ahmad Soltani, Anis Yusof, Aris Cahyadi Risdianto, Kang Huang, Jun Zeng, Zhenkai Liang, Yan Chen 
 
