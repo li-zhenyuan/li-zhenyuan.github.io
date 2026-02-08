@@ -33,7 +33,8 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 
 
 # 🔥 News
-- 📑 *2026.01*, Two Work-In-Progress papers, titled "Work In Progress: Building Next-Generation Datasets for Provenance-Based Intrusion Detection" and "Work In Progress: The Case for LLM-Enhanced Backward Tracking" accepted by PRISM'26 co-located wiht NDSS'26.
+- 📑 *2026.02*, Two Posters titled "Abstracting and Tracking Semantic Flow among Agents for Threat Detection" and "Reconstructing the Provenance of Android" to appear in NDSS'26/
+- 📑 *2026.01*, Two Work-In-Progress papers, titled "Building Next-Generation Datasets for Provenance-Based Intrusion Detection" and "The Case for LLM-Enhanced Backward Tracking" accepted by PRISM'26 co-located wiht NDSS'26.
 - 🧑‍💻 *2025.12*, Invited to serve as an TPC member for "GlobalCom 2026 CISS". 
 - 🎉 *2025.12*, Awarded First Prize in the Science and Technology Progress Award by "China General Chamber of Commerce" \(ranked 5/15\) -- "Key Technologies and Industrial Applications of AI-Driven Cybersecurity Detection."
 - 🎉 *2025.12*, Awarded Second Prize of the Beijing Municipal Science and Technology Progress Award \(ranked 7/10\) -- "Key Technologies and Applications for Detection and Attribution of Highly Stealthy Cyber Threats Based on Anti-Stealth Mechanisms".
