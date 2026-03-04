@@ -254,8 +254,8 @@ Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wan
 - **Undergraduate**: Chun Xu (UESTC)
 - **2026**: Junjie Cheng, Yijie Xu
 - **2025**: Shiyu Tan (1 * Patent, 1 * Competition Award), Yaokun Li, Qizhi Cai, Haocheng Li, Zhipeng Chen
-- **2024**: Yuqiao Gu (Ph.D Student, 1 * Patent, 1 * Competition Award), Zhenkai Wang (TDSC Co-1st Author, ACNS 4th Author, Chinese Journal of Computers 3rd Author, 1 * Competition Award), Yi Jiang (Journal of Cybersecurity (Chinese) 1st Author, ACNS 3nd Author, 1 * Competition Award)
-- **2023**: Jiahui Wang (APSEC'24 2nd Author, ICSE'26 5th Author, 1 * Patent), Mingxiang Shi (1 * Patent), Yangyang Wei (ICML'25 3rd Author, Chinese Journal of Computers 2nd Author, 3 * Patents, 1 * Competition Award), Yu Yang (ICSE'26 1st Author), Yao Zhu (ICML'25 1st Author)
+- **2024**: Yuqiao Gu (Ph.D Student, 1 * Patent, 1 * Competition Award), Zhenkai Wang (TDSC Co-1st Author, ACNS 4th Author, Chinese Journal of Computers 3rd Author, 1 * Competition Award), Yi Jiang (Journal of Cybersecurity (Chinese) 1st Author, ACNS 3rd Author, 1 * Competition Award)
+- **2023**: Jiahui Wang (APSEC'24 2nd Author, ICSE'26 5th Author, 1 * Patent), Mingxiang Shi (1 * Patent), Yangyang Wei (SCIS 2nd Author, ICML'25 3rd Author, Chinese Journal of Computers 2nd Author, 3 * Patents, 1 * Competition Award), Yu Yang (ICSE'26 1st Author), Yao Zhu (ICML'25 1st Author, SCIS 5th Author)
 - **Alumni**: None.
 
 
@@ -281,7 +281,7 @@ Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wan
 # 🛎️ Academic Service
 - **TPC Member**: IEEE GlobeCom CISS (2026, 2025)
 - **Editorial Board Member**: Digital Twins and Applications(2025-2027)
-- **Reviewer**: TIFS (2026, 2025), TDSC (2025, 2024), TBD (2025) EMSE (2025), TOSEM (2024), Computer & Security (2024), CAAI-TIT (2025), TII (2025), Chinese Journal of Computers (2025, 2024), Journal of Cybersecurity (Chinese) (2024), Computer Science (2024)
+- **Reviewer**: CSUR (2026), TIFS (2026, 2025), TDSC (2026, 2025, 2024), TIST (2026), TBD (2025) EMSE (2025), TOSEM (2024), Computer & Security (2024), CAAI-TIT (2025), TII (2025), Chinese Journal of Computers (2025, 2024), Journal of Cybersecurity (Chinese) (2024), Computer Science (2024)
 - **Subreviewer/External reviewer**: IEEE S&P (2025, 2024), NDSS (2026, 2022), AsiaCCS (2021), CCS (2019, 2018), ICDC (2019), ESORICS (2019)
 
 
