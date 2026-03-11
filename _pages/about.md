@@ -254,11 +254,13 @@ Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wan
 
 # 🎓 Students
 - **Undergraduate**: Chun Xu (UESTC)
-- **2026**: Junjie Cheng, Yijie Xu
-- **2025**: Shiyu Tan (1 * Patent, 1 * Competition Award), Yaokun Li, Qizhi Cai, Haocheng Li, Zhipeng Chen
-- **2024**: Yuqiao Gu (Ph.D Student, 1 * Patent, 1 * Competition Award), Zhenkai Wang (TDSC Co-1st Author, ACNS 4th Author, Chinese Journal of Computers 3rd Author, 1 * Competition Award), Yi Jiang (Journal of Cybersecurity (Chinese) 1st Author, ACNS 3rd Author, 1 * Competition Award)
-- **2023**: Jiahui Wang (APSEC'24 2nd Author, ICSE'26 5th Author, 1 * Patent), Mingxiang Shi (1 * Patent), Yangyang Wei (SCIS 2nd Author, ICML'25 3rd Author, Chinese Journal of Computers 2nd Author, 3 * Patents, 1 * Competition Award), Yu Yang (ICSE'26 1st Author), Yao Zhu (ICML'25 1st Author, SCIS 5th Author)
-- **Alumni**: None.
+- **2026**: Junjie Cheng, Yijie Xu (PRISM'26 1st Author)
+- **2025**: Shiyu Tan (1 * Patent, 1 * Competition Award), Yaokun Li, Qizhi Cai (NDSS'26 Poster 1st Author), Haocheng Li, Zhipeng Chen
+- **2024**: Yuqiao Gu (Ph.D Student, NDSS'26 Poster 1st Author, 1 * Patent, 1 * Competition Award), Zhenkai Wang (TDSC Co-1st Author, ACNS 4th Author, Chinese Journal of Computers 3rd Author, 1 * Competition Award), Yi Jiang (Journal of Cybersecurity (Chinese) 1st Author, ACNS 3rd Author, 1 * Competition Award)
+
+--- **Alumni** ---
+
+- **2023**: Jiahui Wang -> Tencent, Mingxiang Shi -> CICO, Yangyang Wei -> Huawei, Yu Yang -> ***, Yao Zhu -> GF Securitites
 
 
 # 🎖 Honors and Awards
