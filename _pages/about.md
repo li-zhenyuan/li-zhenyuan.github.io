@@ -33,6 +33,7 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 
 
 # 🔥 News
+- 🧑‍💻 *2026.03*, Happy to be invited to serve as an TPC member for "RAID 2026". 
 - 📑 *2026.03*, Our paper "[RAPiDLe: Enabling Real-time Anomaly Path Detection in Streaming Provenance Graph with Learned Behavior Baseline](https://www.sciengine.com/SCIS/doi/10.1007/s11432-025-4822-0)" is accepted by SCIS.
 - 📑 *2026.02*, Two Posters titled "Abstracting and Tracking Semantic Flow among Agents for Threat Detection" and "Reconstructing the Provenance of Android" to appear in NDSS'26.
 - 📑 *2026.01*, Two Work-In-Progress papers, titled "Building Next-Generation Datasets for Provenance-Based Intrusion Detection" and "The Case for LLM-Enhanced Backward Tracking" accepted by PRISM'26 co-located wiht NDSS'26.
