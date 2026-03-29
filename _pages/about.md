@@ -29,7 +29,7 @@ My research interests lie in **system security**, **intrusion detection**, and *
 - Automatic Penetration and Attack Planning
 - Action Security for LLM Agents
 
-Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in industry-oriented security research.（**招收2026级硕士生4-5名, 欢迎联系！**）
+Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in industry-oriented security research.（**还有2026级硕士名额1-2个, 2027级硕士名额1-2个欢迎联系！**）
 
 
 # 🔥 News
@@ -254,7 +254,7 @@ Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wan
 
 
 # 🎓 Students
-- **Undergraduate**: Chun Xu (UESTC)
+- **Undergraduate**: Chun Xu (UESTC)， Xingchen Lin (Sichuan University)
 - **2026**: Junjie Cheng, Yijie Xu (PRISM'26 1st Author)
 - **2025**: Shiyu Tan (1 * Patent, 1 * Competition Award), Yaokun Li, Qizhi Cai (NDSS'26 Poster 1st Author), Haocheng Li, Zhipeng Chen
 - **2024**: Yuqiao Gu (Ph.D Student, NDSS'26 Poster 1st Author, 1 * Patent, 1 * Competition Award), Zhenkai Wang (TDSC Co-1st Author, ACNS 4th Author, Chinese Journal of Computers 3rd Author, 1 * Competition Award), Yi Jiang (Journal of Cybersecurity (Chinese) 1st Author, ACNS 3rd Author, 1 * Competition Award)
