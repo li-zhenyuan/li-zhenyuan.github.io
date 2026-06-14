@@ -33,6 +33,8 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 
 
 # 🔥 News
+- 📑 *2026.06*, Our paper "Large Language Models Driven Polymorphic Attack Scripts Generation and Detection Evasion" is accepted by ESORICS'26.
+- 📑 *2026.06*, Our paper "MINOS A Multi-Agent Collaborative Framework for Backward Tracking" is accepted by Chinese Journal of Computers.
 - 🧑‍💻 *2026.03*, Happy to be invited to serve as an TPC member for "RAID 2026". 
 - 📑 *2026.03*, Our paper "[RAPiDLe: Enabling Real-time Anomaly Path Detection in Streaming Provenance Graph with Learned Behavior Baseline](https://www.sciengine.com/SCIS/doi/10.1007/s11432-025-4822-0)" is accepted by SCIS.
 - 📑 *2026.02*, Two Posters titled "Abstracting and Tracking Semantic Flow among Agents for Threat Detection" and "Reconstructing the Provenance of Android" to appear in NDSS'26.
@@ -105,6 +107,8 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 
 #### [Conference Papers]
 
+[C10] ``ESORICS 2026`` "MINOS A Multi-Agent Collaborative Framework for Backward Tracking", 	Jiahui Wang, **Zhenyuan Li**, Zhengkai Wang, Xiangmin Shen and Fan Zhang 
+
 [C10] ``ACNS 2026`` "Actionable, Customizable, and Causality-Preserving Cyberattack Emulation with LLM-powered Symbolic Planning", Lingzhi Wang, **Zhenyuan Li**, Yi Jiang, Zhengkai Wang, Xiangmin Shen, Wei Ruan, Yan Chen 
 
 [C9] ``ICSE 2026`` "[Towards Scalable and Interpretable Mobile App Risk Analysis via Large Language Models](https://arxiv.org/pdf/2508.15606)", Yu Yang\*, **Zhenyuan Li\*#**, Xiandong Ran, Jiahao Liu, Jiahui Wang, Bo Yu, Shouling Ji 
@@ -157,6 +161,8 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 
 
 #### [Journal Papers]
+[J8] ``Chinese Journal of Computers 2026`` "Large Language Models Driven Polymorphic Attack Scripts Generation and Detection Evasion", Yuqiao Gu, Yu Yang, **Zhenyuan Li**, Fan Zhang, Yaokun Li, Qizhi Cai, Shouling Ji
+
 [J8] ``SCIS 2026`` "[RAPiDLe: Enabling Real-time Anomaly Path Detection in Streaming Provenance Graph with Learned Behavior Baseline](https://www.sciengine.com/SCIS/doi/10.1007/s11432-025-4822-0)", **Zhenyuan Li#**, Yangyang Wei, Lingzhi Wang, Xiangmin Shen, Yao Zhu, Haitao Xu, Wenmao Liu, Yan Chen, Shouling Ji 
 
 [J7] ``TDSC 2026`` "[Incorporating Gradients to Rules: Towards Online, Adaptive Provenance-based Intrusion Detection](https://ieeexplore.ieee.org/abstract/document/11169421/)", **Zhenyuan Li#**, Lingzhi Wang, Zhengkai Wang, Xiangmin Shen, Haitao Xu, Yan Chen, Shouling Ji 
