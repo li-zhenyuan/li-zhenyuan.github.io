@@ -161,7 +161,7 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 
 
 #### [Journal Papers]
-[J9] ``Chinese Journal of Computers 2026`` "Large Language Models Driven Polymorphic Attack Scripts Generation and Detection Evasion", Yuqiao Gu, Yu Yang, **Zhenyuan Li**, Fan Zhang, Yaokun Li, Qizhi Cai, Shouling Ji
+[J9] ``Chinese Journal of Computers (in Chinese)`` "Large Language Models Driven Polymorphic Attack Scripts Generation and Detection Evasion", Yuqiao Gu, Yu Yang, **Zhenyuan Li**, Fan Zhang, Yaokun Li, Qizhi Cai, Shouling Ji
 
 [J8] ``SCIS 2026`` "[RAPiDLe: Enabling Real-time Anomaly Path Detection in Streaming Provenance Graph with Learned Behavior Baseline](https://www.sciengine.com/SCIS/doi/10.1007/s11432-025-4822-0)", **Zhenyuan Li#**, Yangyang Wei, Lingzhi Wang, Xiangmin Shen, Yao Zhu, Haitao Xu, Wenmao Liu, Yan Chen, Shouling Ji 
 
