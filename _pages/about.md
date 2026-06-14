@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Researcher at the [School of Software Technology, Zhejiang University](http://www.cst.zju.edu.cn/) <img src='./images/ZJU-Logo.png' style='width: 6em; vertical-align: middle;'>. Before joining ZJU, I worked at [Huawei 2012 Lab](https://www.huawei.com/en/) <img src='./images/Huawei-Logo.wine.png' style='width: 5em; vertical-align: middle;'> as a Senior Engineer. I received my Ph.D. degree from the Department of Computer Science and Technology at Zhejiang University.
 
-My research interests lie in **system security**, **intrusion detection**, and **cyber threat analysis**. My current work focuses on designing practical intrusion detection and attack investigation systems. I work closely with Prof. [Shouling Ji](https://nesa.zju.edu.cn), Prof. Fan Zhang from Zhejiang University and Prof. [Yan Chen](https://users.cs.northwestern.edu/~ychen/) from Northwestern University,.
+My research interests lie in **system security**, **intrusion detection**, and **cyber threat analysis**. My current work focuses on designing practical intrusion detection and attack investigation systems. I work closely with Prof. [Shouling Ji](https://nesa.zju.edu.cn), Prof. Fan Zhang from Zhejiang University and Prof. [Yan Chen](https://users.cs.northwestern.edu/~ychen/) from Northwestern University.
 
 <!-- **Research Map:**
 <img src='images/李振源-2025年ACES暑期工作会议_05.png' alt="sym" width="86%"> -->
@@ -34,7 +34,7 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 
 # 🔥 News
 - 📑 *2026.06*, Our paper "Large Language Models Driven Polymorphic Attack Scripts Generation and Detection Evasion" is accepted by ESORICS'26.
-- 📑 *2026.06*, Our paper "MINOS A Multi-Agent Collaborative Framework for Backward Tracking" is accepted by Chinese Journal of Computers.
+- 📑 *2026.06*, Our paper "MINOS: A Multi-Agent Collaborative Framework for Backward Tracking" is accepted by Chinese Journal of Computers.
 - 🧑‍💻 *2026.03*, Happy to be invited to serve as an TPC member for "RAID 2026". 
 - 📑 *2026.03*, Our paper "[RAPiDLe: Enabling Real-time Anomaly Path Detection in Streaming Provenance Graph with Learned Behavior Baseline](https://www.sciengine.com/SCIS/doi/10.1007/s11432-025-4822-0)" is accepted by SCIS.
 - 📑 *2026.02*, Two Posters titled "Abstracting and Tracking Semantic Flow among Agents for Threat Detection" and "Reconstructing the Provenance of Android" to appear in NDSS'26.
@@ -107,7 +107,7 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 
 #### [Conference Papers]
 
-[C10] ``ESORICS 2026`` "MINOS A Multi-Agent Collaborative Framework for Backward Tracking", 	Jiahui Wang, **Zhenyuan Li**, Zhengkai Wang, Xiangmin Shen and Fan Zhang 
+[C11] ``ESORICS 2026`` "MINOS: A Multi-Agent Collaborative Framework for Backward Tracking", 	Jiahui Wang, **Zhenyuan Li**, Zhengkai Wang, Xiangmin Shen and Fan Zhang 
 
 [C10] ``ACNS 2026`` "Actionable, Customizable, and Causality-Preserving Cyberattack Emulation with LLM-powered Symbolic Planning", Lingzhi Wang, **Zhenyuan Li**, Yi Jiang, Zhengkai Wang, Xiangmin Shen, Wei Ruan, Yan Chen 
 
@@ -161,7 +161,7 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 
 
 #### [Journal Papers]
-[J8] ``Chinese Journal of Computers 2026`` "Large Language Models Driven Polymorphic Attack Scripts Generation and Detection Evasion", Yuqiao Gu, Yu Yang, **Zhenyuan Li**, Fan Zhang, Yaokun Li, Qizhi Cai, Shouling Ji
+[J9] ``Chinese Journal of Computers 2026`` "Large Language Models Driven Polymorphic Attack Scripts Generation and Detection Evasion", Yuqiao Gu, Yu Yang, **Zhenyuan Li**, Fan Zhang, Yaokun Li, Qizhi Cai, Shouling Ji
 
 [J8] ``SCIS 2026`` "[RAPiDLe: Enabling Real-time Anomaly Path Detection in Streaming Provenance Graph with Learned Behavior Baseline](https://www.sciengine.com/SCIS/doi/10.1007/s11432-025-4822-0)", **Zhenyuan Li#**, Yangyang Wei, Lingzhi Wang, Xiangmin Shen, Yao Zhu, Haitao Xu, Wenmao Liu, Yan Chen, Shouling Ji 
 
