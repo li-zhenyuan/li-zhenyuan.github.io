@@ -33,8 +33,8 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 
 
 # 🔥 News
-- 📑 *2026.06*, Our paper "Large Language Models Driven Polymorphic Attack Scripts Generation and Detection Evasion" is accepted by ESORICS'26.
-- 📑 *2026.06*, Our paper "MINOS: A Multi-Agent Collaborative Framework for Backward Tracking" is accepted by Chinese Journal of Computers.
+- 📑 *2026.06*, Our paper "MINOS: A Multi-Agent Collaborative Framework for Backward Tracking" is accepted by ESORICS'26.
+- 📑 *2026.06*, Our paper "Large Language Models Driven Polymorphic Attack Scripts Generation and Detection Evasion" is accepted by Chinese Journal of Computers.
 - 🧑‍💻 *2026.03*, Happy to be invited to serve as an TPC member for "RAID 2026". 
 - 📑 *2026.03*, Our paper "[RAPiDLe: Enabling Real-time Anomaly Path Detection in Streaming Provenance Graph with Learned Behavior Baseline](https://www.sciengine.com/SCIS/doi/10.1007/s11432-025-4822-0)" is accepted by SCIS.
 - 📑 *2026.02*, Two Posters titled "Abstracting and Tracking Semantic Flow among Agents for Threat Detection" and "Reconstructing the Provenance of Android" to appear in NDSS'26.
@@ -107,7 +107,7 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 
 #### [Conference Papers]
 
-[C11] ``ESORICS 2026`` "MINOS: A Multi-Agent Collaborative Framework for Backward Tracking", 	Jiahui Wang, **Zhenyuan Li**, Zhengkai Wang, Xiangmin Shen and Fan Zhang 
+[C11] ``ESORICS 2026`` "MINOS: A Multi-Agent Collaborative Framework for Backward Tracking", 	Jiahui Wang\*, **Zhenyuan Li\*#**, Zhengkai Wang, Xiangmin Shen and Fan Zhang 
 
 [C10] ``ACNS 2026`` "Actionable, Customizable, and Causality-Preserving Cyberattack Emulation with LLM-powered Symbolic Planning", Lingzhi Wang, **Zhenyuan Li**, Yi Jiang, Zhengkai Wang, Xiangmin Shen, Wei Ruan, Yan Chen 
 
@@ -161,7 +161,7 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 
 
 #### [Journal Papers]
-[J9] ``Chinese Journal of Computers (in Chinese)`` "Large Language Models Driven Polymorphic Attack Scripts Generation and Detection Evasion", Yuqiao Gu, Yu Yang, **Zhenyuan Li**, Fan Zhang, Yaokun Li, Qizhi Cai, Shouling Ji
+[J9] ``Chinese Journal of Computers`` "Large Language Models Driven Polymorphic Attack Scripts Generation and Detection Evasion", Yuqiao Gu, Yu Yang, **Zhenyuan Li**, Fan Zhang, Yaokun Li, Qizhi Cai, Shouling Ji
 
 [J8] ``SCIS 2026`` "[RAPiDLe: Enabling Real-time Anomaly Path Detection in Streaming Provenance Graph with Learned Behavior Baseline](https://www.sciengine.com/SCIS/doi/10.1007/s11432-025-4822-0)", **Zhenyuan Li#**, Yangyang Wei, Lingzhi Wang, Xiangmin Shen, Yao Zhu, Haitao Xu, Wenmao Liu, Yan Chen, Shouling Ji 
 
@@ -183,7 +183,7 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 </div>
 </div>
 
-[J4] ``Journal of Cyber Security (in Chinese)`` "Mobile Spyware and Its Detection: A Survey", Yi Jiang, Zhenyuan Li#, Fan Zhang, Yixin Jiang, Wenqian Xu, and Zhihong Liang.
+[J4] ``Journal of Cyber Security (in Chinese)`` "Mobile Spyware and Its Detection: A Survey", Yi Jiang, **Zhenyuan Li#**, Fan Zhang, Yixin Jiang, Wenqian Xu, and Zhihong Liang.
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/aurora.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
