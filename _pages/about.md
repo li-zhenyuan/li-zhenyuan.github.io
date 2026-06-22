@@ -38,22 +38,22 @@ Feel free to [contact me](mailto:li_zhenyuan@qq.com) if you are interested in in
 - 📑 *2026.06*, Our paper "Large Language Models Driven Polymorphic Attack Scripts Generation and Detection Evasion" is accepted by Chinese Journal of Computers.
 - 🧑‍💻 *2026.03*, Happy to be invited to serve as an TPC member for "RAID 2026". 
 - 📑 *2026.03*, Our paper "[RAPiDLe: Enabling Real-time Anomaly Path Detection in Streaming Provenance Graph with Learned Behavior Baseline](https://www.sciengine.com/SCIS/doi/10.1007/s11432-025-4822-0)" is accepted by SCIS.
-- 📑 *2026.02*, Two Posters titled "Abstracting and Tracking Semantic Flow among Agents for Threat Detection" and "Reconstructing the Provenance of Android" to appear in NDSS'26.
-- 📑 *2026.01*, Two Work-In-Progress papers, titled "Building Next-Generation Datasets for Provenance-Based Intrusion Detection" and "The Case for LLM-Enhanced Backward Tracking" accepted by PRISM'26 co-located wiht NDSS'26.
-- 🧑‍💻 *2025.12*, Invited to serve as an TPC member for "GlobalCom 2026 CISS". 
+<!-- - 📑 *2026.02*, Two Posters titled "Abstracting and Tracking Semantic Flow among Agents for Threat Detection" and "Reconstructing the Provenance of Android" to appear in NDSS'26. -->
+<!-- - 📑 *2026.01*, Two Work-In-Progress papers, titled "Building Next-Generation Datasets for Provenance-Based Intrusion Detection" and "The Case for LLM-Enhanced Backward Tracking" accepted by PRISM'26 co-located wiht NDSS'26. -->
+<!-- - 🧑‍💻 *2025.12*, Invited to serve as an TPC member for "GlobalCom 2026 CISS".  -->
 - 🎉 *2025.12*, Awarded First Prize in the Science and Technology Progress Award by "China General Chamber of Commerce" \(ranked 5/15\) -- "Key Technologies and Industrial Applications of AI-Driven Cybersecurity Detection."
 - 🎉 *2025.12*, Awarded Second Prize of the Beijing Municipal Science and Technology Progress Award \(ranked 7/10\) -- "Key Technologies and Applications for Detection and Attribution of Highly Stealthy Cyber Threats Based on Anti-Stealth Mechanisms".
-- 🧑‍💻 *2025.12*, Invited to serve as an Early Career Editorial Board member for the journal "Digital Twins and Applications". 
-- 📑 *2025.11*, Our paper "Actionable, Customizable, and Causality-Preserving Cyberattack Emulation with LLM-powered Symbolic Planning" is accepted by ACNS'26.
+<!-- - 🧑‍💻 *2025.12*, Invited to serve as an Early Career Editorial Board member for the journal "Digital Twins and Applications".  -->
+<!-- - 📑 *2025.11*, Our paper "Actionable, Customizable, and Causality-Preserving Cyberattack Emulation with LLM-powered Symbolic Planning" is accepted by ACNS'26. -->
 - 🏗️ *2025.11*, Granted Natural Science Foundation of Ningbo (Youth Ph.D Program) as PI.
 - 📑 *2025.11*, Our paper "[Breaking the Bulkhead: Demystifying Cross-Namespace Reference Vulnerabilities in Kubernetes Operators](https://arxiv.org/pdf/2507.03387)" is accepted by NDSS'26.
 - 📑 *2025.10*, Our paper "[Towards Scalable and Interpretable Mobile App Risk Analysis via Large Language Models](https://arxiv.org/pdf/2508.15606)" is accepted by ICSE'26.
-- 📑 *2025.09*, Our paper "[Incorporating Gradients to Rules: Towards Online, Adaptive Provenance-based Intrusion Detection](https://ieeexplore.ieee.org/abstract/document/11169421/)" is accepted by TDSC.
+<!-- - 📑 *2025.09*, Our paper "[Incorporating Gradients to Rules: Towards Online, Adaptive Provenance-based Intrusion Detection](https://ieeexplore.ieee.org/abstract/document/11169421/)" is accepted by TDSC. -->
 - 🏗️ *2025.07*, Granted CCF-Tencent "Rhino-Bird" Open Research Fund as PI.
-- 📑 *2025.07*, Our paper "Learning in Provenance-Based Intrusion Detection: A Survey" accepted by Chinese Journal of Computers.
-- 📑 *2025.05*, Our paper "[The Case for Learned Provenance-based System Behavior Baseline](https://openreview.net/pdf?id=SY4owu5BK6)" is accepted by ICML'25.
+<!-- - 📑 *2025.07*, Our paper "Learning in Provenance-Based Intrusion Detection: A Survey" accepted by Chinese Journal of Computers. -->
+<!-- - 📑 *2025.05*, Our paper "[The Case for Learned Provenance-based System Behavior Baseline](https://openreview.net/pdf?id=SY4owu5BK6)" is accepted by ICML'25. -->
 - 📑 *2025.04*, One paper "[PentestAgent: Incorporating LLM Agents to Automated Penetration Testing](https://dl.acm.org/doi/pdf/10.1145/3708821.3733882)" is accepted by AsiaCCS'25.
-- 🧑‍💻 *2025.03*, Invited to serve as an TPC member for "GlobalCom 2025 CISS". 
+<!-- - 🧑‍💻 *2025.03*, Invited to serve as an TPC member for "GlobalCom 2025 CISS".  -->
 - 🎉 *2024.09*, Awarded Ningbo "YongJiang" Talent Programme (Youth Program).
 - 🏗️ *2024.08*, Granted National Natural Science Foundation of China (Youth Program) as PI.
 - 📑 *2024.08*, Our paper "Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection" is accepted by NDSS'25.
