@@ -38,6 +38,7 @@ I welcome collaborations on industry-oriented security research and real-world s
 # 🔥 News
 - 🧑‍💻 *2026.06*, Invited to serve as a TPC member for **USENIX Security 2027**.
 - 📑 *2026.06*, Our paper "MINOS: A Multi-Agent Collaborative Framework for Backward Tracking" has been accepted to **ESORICS'26**.
+- 👨🏻‍🏫 *2026.06*, 受邀在“[电子学会-2026网络空间安全学术大会-网络空间威胁密态对抗与智能化防御论坛](https://csc.cie.org.cn/subforum/11464.html)”做报告.
 - 📑 *2026.06*, 论文《大语言模型驱动的多态攻击脚本生成与检测规避》（"Large Language Models Driven Polymorphic Attack Scripts Generation and Detection Evasion"）被**《计算机学报》**（Chinese Journal of Computers）录用。
 - 🧑‍💻 *2026.03*, Invited to serve as a TPC member for **RAID 2026**.
 - 📑 *2026.03*, Our paper "[RAPiDLe: Enabling Real-time Anomaly Path Detection in Streaming Provenance Graph with Learned Behavior Baseline](https://www.sciengine.com/SCIS/doi/10.1007/s11432-025-4822-0)" has been accepted by **SCIS**.
@@ -226,7 +227,7 @@ Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wan
 [P1] ``ACSAC 2021`` "A First Look at Evasion against Provenance Graph-based Threat Detection", **Zhenyuan Li**, Runqing Yang, Qi Alfred Chen, Yan Chen
 
 
-# 📑 代表性专利（Selected Patents）
+# 📑 Selected Patents
 
 - **综合数据采集（Comprehensive Data Collection）**
   - （专利申请；Patent Application Filed）基于 eBPF 的 Android 系统细粒度溯源数据采集方法与装置（Fine-Grained Provenance Data Collection Method and Apparatus for Android Systems Based on eBPF）
@@ -247,7 +248,7 @@ Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wan
   - （专利申请；Patent Application Filed）基于大语言模型与攻击树模型的多阶段自动化渗透测试计划生成方法与系统（Multi-Stage Automated Penetration Testing Plan Generation Method and System Based on Large Language Models and Attack Tree Models）
 
 
-# 💫 代表性科研项目（Selected Fundings）
+# 💫 Selected Fundings
 - **国家自然科学基金青年科学基金项目**（National Natural Science Foundation of China, Youth Program），**大规模实时攻击检测与溯源方法及关键技术研究**（Research on Methods and Key Technologies for Large-Scale Real-Time Attack Detection and Attribution），2024/01-2026/12，在研，项目负责人（PI）
 - **国家重点研发计划“网络空间安全治理”重点专项**（National Key R&D Program of China – “Cyberspace Security Governance” Special Project），**面向终端的高隐蔽传播型网络滋扰行为识别、取证与溯源**（Terminal-Oriented Identification, Forensics, and Attribution of Highly Stealthy Propagation-Based Cyber Nuisances），在研，子课题负责人（Sub-Task Leader）
 - **浙江省“领雁”研发攻关计划**（Zhejiang Provincial Key R&D Program, "Leading Goose"），**\*\*\*\*\*\***，2025/01-2025/12，在研，项目负责人（PI）
@@ -274,7 +275,7 @@ Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wan
 - **2023**: Jiahui Wang -> Tencent, Mingxiang Shi -> CICO, Yangyang Wei -> Huawei, Yu Yang -> ***, Yao Zhu -> GF Securities
 
 
-# 🎖 荣誉与奖励（Honors and Awards）
+# 🎖 Honors and Awards
 - *2025.12*, 中国商业联合会科学技术进步奖一等奖（排名 5/15；First Prize of Science and Technology Progress Award, China General Chamber of Commerce）
 - *2025.09*, 北京市科学技术进步奖二等奖（排名 7/10；Second Prize of Beijing Municipal Science and Technology Progress Award）
 - *2025.05*, 软件创新大赛软件系统安全赛道全国二等奖及优秀指导教师奖（National Second Prize and Outstanding Faculty Advisor Award in the Software Innovation Competition, Software System Security Track）
