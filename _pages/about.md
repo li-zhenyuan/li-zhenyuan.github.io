@@ -85,21 +85,27 @@ I welcome collaborations on industry-oriented security research and real-world s
 (* Equal contribution, # Corresponding author)
 
 
-#### [arXiv]
+#### [预印本（arXiv / Preprints）]
 
-[A4] ``arXiv 2026`` "Beyond Input Guardrails: Reconstructing Cross-Agent Semantic Flows for Execution-Aware Attack Detection", Yangyang Wei, Yijie Xu, Zhenyuan Li, Xiangmin Shen, Shouling Ji
+**[A4]** "Beyond Input Guardrails: Reconstructing Cross-Agent Semantic Flows for Execution-Aware Attack Detection"  
+*arXiv, 2026* · **预印本（Preprint）**  
+Yangyang Wei, Yijie Xu, Zhenyuan Li, Xiangmin Shen, Shouling Ji
 
-[A3] ``arXiv 2025`` "Automated Penetration Testing with LLM Agents and Classical Planning", Lingzhi Wang, Xinyi Shi, Ziyu Li, Yi Jiang, Shiyu Tan, Yuhao Jiang, Junjie Cheng, Wenyuan Chen, Xiangmin Shen, **Zhenyuan Li**, Yan Chen
+**[A3]** "Automated Penetration Testing with LLM Agents and Classical Planning"  
+*arXiv, 2025* · **预印本（Preprint）**  
+Lingzhi Wang, Xinyi Shi, Ziyu Li, Yi Jiang, Shiyu Tan, Yuhao Jiang, Junjie Cheng, Wenyuan Chen, Xiangmin Shen, **Zhenyuan Li**, Yan Chen
 
-[A2] ``arXiv 2025`` "AEAS: Actionable Exploit Assessment System", Xiangmin Shen, Wenyuan Cheng, Yan Chen, **Zhenyuan Li**, Yuqiao Gu, Lingzhi Wang, Wencheng Zhao, Dawei Sun, Jiashui Wang
+**[A2]** "AEAS: Actionable Exploit Assessment System"  
+*arXiv, 2025* · **预印本（Preprint）**  
+Xiangmin Shen, Wenyuan Cheng, Yan Chen, **Zhenyuan Li**, Yuqiao Gu, Lingzhi Wang, Wencheng Zhao, Dawei Sun, Jiashui Wang
 
 <!-- - ``arXiv`` "[Marlin: Knowledge-Driven Analysis of Provenance Graphs for Efficient and Robust Detection of Cyber Attacks](https://arxiv.org/pdf/2403.12541)",  **Zhenyuan Li**, Yangyang Wei, Xiangmin Shen, Lingzhi Wang, Yan Chen, Haitao Xu, Shouling Ji, Fan Zhang, Liang Hou, Wenmao Liu, Xuhong Zhang, Jianwei Ying -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/Marlin.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-"[Marlin: Knowledge-Driven Analysis of Provenance Graphs for Efficient and Robust Detection of Cyber Attacks](https://arxiv.org/pdf/2403.12541)"
-
+**[A1]** "[Marlin: Knowledge-Driven Analysis of Provenance Graphs for Efficient and Robust Detection of Cyber Attacks](https://arxiv.org/pdf/2403.12541)"  
+*arXiv, 2024* · **预印本（Preprint）**  
 **Zhenyuan Li**, Yangyang Wei, Xiangmin Shen, Lingzhi Wang, Yan Chen, Haitao Xu, Shouling Ji, Fan Zhang, Liang Hou, Wenmao Liu, Xuhong Zhang, Jianwei Ying
 
 [**Project**](https://github.com/MarineYY/MARLIN) <strong><span class='show_paper_citations' data='3YGMOdwAAAAJ:UeHWp8X0CEIC'></span></strong> 
@@ -110,28 +116,47 @@ I welcome collaborations on industry-oriented security research and real-world s
 </div>
 </div>
 
-#### [Conference Papers]
+#### [会议论文（Conference Papers）]
 
-[C11] ``ESORICS 2026`` "MINOS: A Multi-Agent Collaborative Framework for Backward Tracking", 	Jiahui Wang\*, **Zhenyuan Li\*#**, Zhengkai Wang, Xiangmin Shen and Fan Zhang 
+**[C11]** "MINOS: A Multi-Agent Collaborative Framework for Backward Tracking"  
+*European Symposium on Research in Computer Security (ESORICS), 2026* · **CCF-B 会议（网络与信息安全）**  
+Jiahui Wang\*, **Zhenyuan Li\*#**, Zhengkai Wang, Xiangmin Shen, Fan Zhang
 
-[C10] ``ACNS 2026`` "Actionable, Customizable, and Causality-Preserving Cyberattack Emulation with LLM-powered Symbolic Planning", Lingzhi Wang, **Zhenyuan Li**, Yi Jiang, Zhengkai Wang, Xiangmin Shen, Wei Ruan, Yan Chen 
+**[C10]** "Actionable, Customizable, and Causality-Preserving Cyberattack Emulation with LLM-powered Symbolic Planning"  
+*International Conference on Applied Cryptography and Network Security (ACNS), 2026* · **CCF-C 会议（网络与信息安全）**  
+Lingzhi Wang, **Zhenyuan Li**, Yi Jiang, Zhengkai Wang, Xiangmin Shen, Wei Ruan, Yan Chen
 
-[C9] ``ICSE 2026`` "[Towards Scalable and Interpretable Mobile App Risk Analysis via Large Language Models](https://arxiv.org/pdf/2508.15606)", Yu Yang\*, **Zhenyuan Li\*#**, Xiandong Ran, Jiahao Liu, Jiahui Wang, Bo Yu, Shouling Ji 
+**[C9]** "[Towards Scalable and Interpretable Mobile App Risk Analysis via Large Language Models](https://arxiv.org/pdf/2508.15606)"  
+*IEEE/ACM International Conference on Software Engineering (ICSE), 2026* · **CCF-A 会议（软件工程/系统软件/程序设计语言）**  
+Yu Yang\*, **Zhenyuan Li\*#**, Xiandong Ran, Jiahao Liu, Jiahui Wang, Bo Yu, Shouling Ji
 
-[C8] ``NDSS 2026`` "[Breaking the Bulkhead: Demystifying Cross-Namespace Reference Vulnerabilities in Kubernetes Operators](https://arxiv.org/pdf/2507.03387)", Andong Chen, Ziyi Guo, Zhaoxuan Jin, **Zhenyuan Li#**, Yan Chen 
+**[C8]** "[Breaking the Bulkhead: Demystifying Cross-Namespace Reference Vulnerabilities in Kubernetes Operators](https://arxiv.org/pdf/2507.03387)"  
+*Network and Distributed System Security Symposium (NDSS), 2026* · **CCF-A 会议（网络与信息安全）**  
+Andong Chen, Ziyi Guo, Zhaoxuan Jin, **Zhenyuan Li#**, Yan Chen
 
-[C7] ``ICML 2025`` "[The Case for Learned Provenance-based System Behavior Baseline](https://openreview.net/pdf?id=SY4owu5BK6)", Yao Zhu\*, **Zhenyuan LI\*#**, Yangyang Wei, Shouling Ji  
+**[C7]** "[The Case for Learned Provenance-based System Behavior Baseline](https://openreview.net/pdf?id=SY4owu5BK6)"  
+*International Conference on Machine Learning (ICML), 2025* · **CCF-A 会议（人工智能）**  
+Yao Zhu\*, **Zhenyuan Li\*#**, Yangyang Wei, Shouling Ji
 
-[C6] ``AsiaCCS 2025`` "[PentestAgent: Incorporating LLM Agents to Automated Penetration Testing](https://dl.acm.org/doi/pdf/10.1145/3708821.3733882)", Xiangmin Shen, Lingzhi Wang, **Zhenyuan Li**, Yan Chen, Wencheng Zhao, Dawei Sun, Jiashui Wang, Wei Ruan
+**[C6]** "[PentestAgent: Incorporating LLM Agents to Automated Penetration Testing](https://dl.acm.org/doi/pdf/10.1145/3708821.3733882)"  
+*ACM Asia Conference on Computer and Communications Security (AsiaCCS), 2025* · **CCF-C 会议（网络与信息安全）**  
+Xiangmin Shen, Lingzhi Wang, **Zhenyuan Li**, Yan Chen, Wencheng Zhao, Dawei Sun, Jiashui Wang, Wei Ruan
 
-[C5] ``NDSS 2025`` "[Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection](https://arxiv.org/pdf/2404.14720)", Lingzhi Wang, Xiangmin Shen, Weijian Li, **Zhenyuan Li#**, R Sekar, Han Liu, Yan Chen
+**[C5]** "[Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection](https://arxiv.org/pdf/2404.14720)"  
+*Network and Distributed System Security Symposium (NDSS), 2025* · **CCF-A 会议（网络与信息安全）**  
+Lingzhi Wang, Xiangmin Shen, Weijian Li, **Zhenyuan Li#**, R Sekar, Han Liu, Yan Chen
 
-[C4] ``INFOCOM 2025`` "Understanding the Business of Online Affiliate Marketing: An Empirical Study", Haitao Xu, Yiwen Sun, Kaleem Ullah Qasim, Shuai Hao, Wenrui Ma, **Zhenyuan Li**, Fan Zhang, Meng Han, Zhao Li
+**[C4]** "Understanding the Business of Online Affiliate Marketing: An Empirical Study"  
+*IEEE International Conference on Computer Communications (INFOCOM), 2025* · **CCF-A 会议（计算机网络）**  
+Haitao Xu, Yiwen Sun, Kaleem Ullah Qasim, Shuai Hao, Wenrui Ma, **Zhenyuan Li**, Fan Zhang, Meng Han, Zhao Li
 
-[C3] ``AsiaCCS 2024`` "[Decoding the MITRE Engenuity ATT&CK Enterprise Evaluation: An Analysis of EDR Performance in Real-World Environments](https://dl.acm.org/doi/pdf/10.1145/3634737.3645012)", Xiangmin Shen, **Zhenyuan Li**, Graham Burleigh, Lingzhi Wang, Yan Chen
+**[C3]** "[Decoding the MITRE Engenuity ATT&CK Enterprise Evaluation: An Analysis of EDR Performance in Real-World Environments](https://dl.acm.org/doi/pdf/10.1145/3634737.3645012)"  
+*ACM Asia Conference on Computer and Communications Security (AsiaCCS), 2024* · **CCF-C 会议（网络与信息安全）**  
+Xiangmin Shen, **Zhenyuan Li**, Graham Burleigh, Lingzhi Wang, Yan Chen
 
-
-[C2] ``ESORICS 2022`` "[AttacKG: Constructing Technique Knowledge Graph from Cyber Threat Intelligence Reports](https://link.springer.com/chapter/10.1007/978-3-031-17140-6_29)", **Zhenyuan Li**, Jun Zeng, Yan Chen, Zhenkai Liang
+**[C2]** "[AttacKG: Constructing Technique Knowledge Graph from Cyber Threat Intelligence Reports](https://link.springer.com/chapter/10.1007/978-3-031-17140-6_29)"  
+*European Symposium on Research in Computer Security (ESORICS), 2022* · **CCF-B 会议（网络与信息安全）**  
+**Zhenyuan Li**, Jun Zeng, Yan Chen, Zhenkai Liang
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESORICS 2022</div><img src='images/AttacKG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -150,11 +175,11 @@ I welcome collaborations on industry-oriented security research and real-world s
 
 <!-- - ``CCS 2019`` "[Effective and Light-Weight Deobfuscation and Semantic-Aware Attack Detection for PowerShell Scripts](https://dl.acm.org/doi/10.1145/3319535.3363187)", **Zhenyuan Li**, Qi Alfred Chen, Chunlin Xiong, Yan Chen, Tiantian Zhu, Hai Yang -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2019</div><img src='images/CCS19.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2019 · CCF-A</div><img src='images/CCS19.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-"[Effective and Light-Weight Deobfuscation and Semantic-Aware Attack Detection for PowerShell Scripts](https://dl.acm.org/doi/10.1145/3319535.3363187)"
-
+**[C1]** "[Effective and Light-Weight Deobfuscation and Semantic-Aware Attack Detection for PowerShell Scripts](https://dl.acm.org/doi/10.1145/3319535.3363187)"  
+*ACM SIGSAC Conference on Computer and Communications Security (CCS), 2019* · **CCF-A 会议（网络与信息安全）**  
 **Zhenyuan Li**, Qi Alfred Chen, Chunlin Xiong, Yan Chen, Tiantian Zhu, Hai Yang
 
 [**Project**](https://github.com/li-zhenyuan/Effective-and-Light-Weight-Deobfuscation-and-Semantic-Aware-Attack-Detection-for-PowerShell-Scripts) <strong><span class='show_paper_citations' data='3YGMOdwAAAAJ:u-x6o8ySG0sC'></span></strong>
@@ -165,22 +190,31 @@ I welcome collaborations on industry-oriented security research and real-world s
 </div>
 
 
-#### [Journal Papers]
-[J9] ``计算机学报（Chinese Journal of Computers）`` "大语言模型驱动的多态攻击脚本生成与检测规避"（"Large Language Models Driven Polymorphic Attack Scripts Generation and Detection Evasion"）, Yuqiao Gu, Yu Yang, **Zhenyuan Li**, Fan Zhang, Yaokun Li, Qizhi Cai, Shouling Ji
+#### [期刊论文（Journal Papers）]
 
-[J8] ``SCIS 2026`` "[RAPiDLe: Enabling Real-time Anomaly Path Detection in Streaming Provenance Graph with Learned Behavior Baseline](https://www.sciengine.com/SCIS/doi/10.1007/s11432-025-4822-0)", **Zhenyuan Li#**, Yangyang Wei, Lingzhi Wang, Xiangmin Shen, Yao Zhu, Haitao Xu, Wenmao Liu, Yan Chen, Shouling Ji 
+**[J9]** "大语言模型驱动的多态攻击脚本生成与检测规避"（"Large Language Models Driven Polymorphic Attack Scripts Generation and Detection Evasion"）  
+*《计算机学报》（Chinese Journal of Computers, CJC）* · **CCF 中文高质量科技期刊 T1**  
+Yuqiao Gu, Yu Yang, **Zhenyuan Li**, Fan Zhang, Yaokun Li, Qizhi Cai, Shouling Ji
 
-[J7] ``TDSC 2026`` "[Incorporating Gradients to Rules: Towards Online, Adaptive Provenance-based Intrusion Detection](https://ieeexplore.ieee.org/abstract/document/11169421/)", **Zhenyuan Li#**, Lingzhi Wang, Zhengkai Wang, Xiangmin Shen, Haitao Xu, Yan Chen, Shouling Ji 
+**[J8]** "[RAPiDLe: Enabling Real-time Anomaly Path Detection in Streaming Provenance Graph with Learned Behavior Baseline](https://www.sciengine.com/SCIS/doi/10.1007/s11432-025-4822-0)"  
+*Science China Information Sciences (SCIS), 2026* · **CCF-A 期刊（交叉/综合/新兴领域）**  
+**Zhenyuan Li#**, Yangyang Wei, Lingzhi Wang, Xiangmin Shen, Yao Zhu, Haitao Xu, Wenmao Liu, Yan Chen, Shouling Ji
 
-[J6] ``微电子学与计算机（Microelectronics & Computer）`` "大语言模型驱动的攻击过程分析、描述与复现方法"（"Analysis, Description, and Reproduction Methods for Attack Processes Driven by Large Language Models"）, Jin Qian, Shiyu Tan, Libin Xu, Jun Luo, **Zhenyuan Li#**
+**[J7]** "[Incorporating Gradients to Rules: Towards Online, Adaptive Provenance-based Intrusion Detection](https://ieeexplore.ieee.org/abstract/document/11169421/)"  
+*IEEE Transactions on Dependable and Secure Computing (TDSC), 2026* · **CCF-A 期刊（网络与信息安全）**  
+**Zhenyuan Li#**, Lingzhi Wang, Zhengkai Wang, Xiangmin Shen, Haitao Xu, Yan Chen, Shouling Ji
+
+**[J6]** "大语言模型驱动的攻击过程分析、描述与复现方法"（"Analysis, Description, and Reproduction Methods for Attack Processes Driven by Large Language Models"）  
+*《微电子学与计算机》（Microelectronics & Computer）* · **CCF 中文高质量科技期刊 T3**  
+Jin Qian, Shiyu Tan, Libin Xu, Jun Luo, **Zhenyuan Li#**
 
 <!-- - ``计算机学报`` "智能溯源分析与入侵检测：洞察、挑战与展望”, **李振源**, 韦洋洋, 王征凯, 纪守领 -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chinese Journal of Computers</div><img src='images/溯源分析框架.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">计算机学报 · T1</div><img src='images/溯源分析框架.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-"基于溯源的入侵检测学习方法综述"（"Learning in Provenance-Based Intrusion Detection: A Survey"）
-
+**[J5]** "基于溯源的入侵检测学习方法综述"（"Learning in Provenance-Based Intrusion Detection: A Survey"）  
+*《计算机学报》（Chinese Journal of Computers, CJC）* · **CCF 中文高质量科技期刊 T1**  
 **Zhenyuan Li**, Yangyang Wei, Zhengkai Wang, Shouling Ji
 
 - The ability of machine learning models to discover and represent features offers new insights and solutions for accurately and efficiently extracting attack patterns, thereby improving the precision of provenance-based detection. Moreover, advances in efficient data compression and indexing enable faster analysis and significantly reduce computational overhead.
@@ -188,7 +222,9 @@ I welcome collaborations on industry-oriented security research and real-world s
 </div>
 </div>
 
-[J4] ``信息安全学报（Journal of Cyber Security）`` "移动间谍软件及其检测技术综述"（"Mobile Spyware and Its Detection: A Survey"）, Yi Jiang, **Zhenyuan Li#**, Fan Zhang, Yixin Jiang, Wenqian Xu, and Zhihong Liang.
+**[J4]** "移动间谍软件及其检测技术综述"（"Mobile Spyware and Its Detection: A Survey"）  
+*《信息安全学报》（Journal of Cyber Security, JCS）* · **CCF 中文高质量科技期刊 T2**  
+Yi Jiang, **Zhenyuan Li#**, Fan Zhang, Yixin Jiang, Wenqian Xu, Zhihong Liang
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/aurora.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -205,26 +241,44 @@ Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wan
 </div>
 </div> -->
 
-[J3] ``COSE 2025`` "[AutoSeg: Automatic Micro-segmentation Policy Generation via Configuration Analysis](https://www.sciencedirect.com/science/article/abs/pii/S0167404825002809)", Andong Chen, Zhaoxuan Jin, **Zhenyuan Li#**, Yan Chen, Yu Ning, Ying Wang 
-  
-[J2] ``TDSC 2022`` "[RATScope: Recording and Reconstructing Missing RAT Semantic Behaviors for Forensic Analysis on Windows](https://ieeexplore.ieee.org/document/9234076)", Runqing Yang, Xutong Chen, Haitao Xu, Yueqiang Chen, Chunlin Xiong, Linqi Ruan, Mohammad Kavousl, **Zhenyuan Li**, Liheng Xu, Yan Chen 
+**[J3]** "[AutoSeg: Automatic Micro-segmentation Policy Generation via Configuration Analysis](https://www.sciencedirect.com/science/article/abs/pii/S0167404825002809)"  
+*Computers & Security (COSE), 2025* · **CCF-B 期刊（网络与信息安全）**  
+Andong Chen, Zhaoxuan Jin, **Zhenyuan Li#**, Yan Chen, Yu Ning, Ying Wang
 
-[J1] ``COSE 2021`` "[Threat Detection and Investigation with System-level Provenance Graphs: A Survey](https://www.sciencedirect.com/science/article/pii/S0167404821001061)", **Zhenyuan Li**, Qi Alfred Chen, Yang Runqing, Yan Chen
+**[J2]** "[RATScope: Recording and Reconstructing Missing RAT Semantic Behaviors for Forensic Analysis on Windows](https://ieeexplore.ieee.org/document/9234076)"  
+*IEEE Transactions on Dependable and Secure Computing (TDSC), 2022* · **CCF-A 期刊（网络与信息安全）**  
+Runqing Yang, Xutong Chen, Haitao Xu, Yueqiang Chen, Chunlin Xiong, Linqi Ruan, Mohammad Kavousl, **Zhenyuan Li**, Liheng Xu, Yan Chen
+
+**[J1]** "[Threat Detection and Investigation with System-level Provenance Graphs: A Survey](https://www.sciencedirect.com/science/article/pii/S0167404821001061)"  
+*Computers & Security (COSE), 2021* · **CCF-B 期刊（网络与信息安全）**  
+**Zhenyuan Li**, Qi Alfred Chen, Yang Runqing, Yan Chen
 
 
-#### [Posters/Workshop Papers]
+#### [海报与研讨会论文（Posters / Workshop Papers）]
 
-[W2] ``PRISM 2026`` "Work In Progress: The Case for LLM-Enhanced Backward Tracking", Jiahui Wang, Xiangmin Shen, Zhengkai Wang, **Zhenyuan Li#**
+**[W2]** "Work In Progress: The Case for LLM-Enhanced Backward Tracking"  
+*Workshop on Attack Provenance, Reasoning, and Investigation for Security in the Monitored Environment (PRISM), 2026* · 
+Jiahui Wang, Xiangmin Shen, Zhengkai Wang, **Zhenyuan Li#**
 
-[W1] ``PRISM 2026`` "Work In Progress: Building Next-Generation Datasets for Provenance-Based Intrusion Detection", Qizhi Cai, Lingzhi Wang, Yao Zhu, Zhipeng Chen, Xiangmin Shen, **Zhenyuan Li#**
+**[W1]** "Work In Progress: Building Next-Generation Datasets for Provenance-Based Intrusion Detection"  
+*Workshop on Attack Provenance, Reasoning, and Investigation for Security in the Monitored Environment (PRISM), 2026* ·  
+Qizhi Cai, Lingzhi Wang, Yao Zhu, Zhipeng Chen, Xiangmin Shen, **Zhenyuan Li#**
 
-[P4] ``NDSS 2026`` "Poster: Abstracting and Tracking Semantic Flow among Agents for Threat Detection", YangYang Wei, Xiangmin Shen, Yijie Xu, **Zhenyuan Li**
+**[P4]** "Poster: Abstracting and Tracking Semantic Flow among Agents for Threat Detection"  
+*Network and Distributed System Security Symposium (NDSS), 2026* · 
+YangYang Wei, Xiangmin Shen, Yijie Xu, **Zhenyuan Li**
 
-[P3] ``NDSS 2026`` "Poster: Reconstructing the Provenance of Android", Mingxiang Shi, Xiangmin Shen, Yuqiao Gu, Zhipeng Chen, Lingzhi Wang, Yi Jiang, **Zhenyuan Li**
+**[P3]** "Poster: Reconstructing the Provenance of Android"  
+*Network and Distributed System Security Symposium (NDSS), 2026* · 
+Mingxiang Shi, Xiangmin Shen, Yuqiao Gu, Zhipeng Chen, Lingzhi Wang, Yi Jiang, **Zhenyuan Li**
 
-[P2] ``NDSS 2022`` "Poster: Towards automated and large-scale cyber attack reconstruction with apt reports", **Zhenyuan Li**, Ahmad Soltani, Anis Yusof, Aris Cahyadi Risdianto, Kang Huang, Jun Zeng, Zhenkai Liang, Yan Chen 
+**[P2]** "Poster: Towards automated and large-scale cyber attack reconstruction with apt reports"  
+*Network and Distributed System Security Symposium (NDSS), 2022* · 
+**Zhenyuan Li**, Ahmad Soltani, Anis Yusof, Aris Cahyadi Risdianto, Kang Huang, Jun Zeng, Zhenkai Liang, Yan Chen
 
-[P1] ``ACSAC 2021`` "A First Look at Evasion against Provenance Graph-based Threat Detection", **Zhenyuan Li**, Runqing Yang, Qi Alfred Chen, Yan Chen
+**[P1]** "A First Look at Evasion against Provenance Graph-based Threat Detection"  
+*Annual Computer Security Applications Conference (ACSAC), 2021* · 
+**Zhenyuan Li**, Runqing Yang, Qi Alfred Chen, Yan Chen
 
 
 # 📑 Selected Patents
