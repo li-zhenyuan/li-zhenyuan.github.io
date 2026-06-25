@@ -193,7 +193,7 @@ Xiangmin Shen, **Zhenyuan Li**, Graham Burleigh, Lingzhi Wang, Yan Chen
 #### [期刊论文（Journal Papers）]
 
 **[J9]** "大语言模型驱动的多态攻击脚本生成与检测规避"（"Large Language Models Driven Polymorphic Attack Scripts Generation and Detection Evasion"）  
-*《计算机学报》（Chinese Journal of Computers, CJC）* · **CCF 中文高质量科技期刊 T1**  
+*《计算机学报》（Chinese Journal of Computers, CJC）* · **CCF-T1**  
 Yuqiao Gu, Yu Yang, **Zhenyuan Li**, Fan Zhang, Yaokun Li, Qizhi Cai, Shouling Ji
 
 **[J8]** "[RAPiDLe: Enabling Real-time Anomaly Path Detection in Streaming Provenance Graph with Learned Behavior Baseline](https://www.sciengine.com/SCIS/doi/10.1007/s11432-025-4822-0)"  
@@ -205,7 +205,7 @@ Yuqiao Gu, Yu Yang, **Zhenyuan Li**, Fan Zhang, Yaokun Li, Qizhi Cai, Shouling J
 **Zhenyuan Li#**, Lingzhi Wang, Zhengkai Wang, Xiangmin Shen, Haitao Xu, Yan Chen, Shouling Ji
 
 **[J6]** "大语言模型驱动的攻击过程分析、描述与复现方法"（"Analysis, Description, and Reproduction Methods for Attack Processes Driven by Large Language Models"）  
-*《微电子学与计算机》（Microelectronics & Computer）* · **CCF 中文高质量科技期刊 T3**  
+*《微电子学与计算机》（Microelectronics & Computer）* · **CCF-T3**  
 Jin Qian, Shiyu Tan, Libin Xu, Jun Luo, **Zhenyuan Li#**
 
 <!-- - ``计算机学报`` "智能溯源分析与入侵检测：洞察、挑战与展望”, **李振源**, 韦洋洋, 王征凯, 纪守领 -->
@@ -214,7 +214,7 @@ Jin Qian, Shiyu Tan, Libin Xu, Jun Luo, **Zhenyuan Li#**
 <div class='paper-box-text' markdown="1">
 
 **[J5]** "基于溯源的入侵检测学习方法综述"（"Learning in Provenance-Based Intrusion Detection: A Survey"）  
-*《计算机学报》（Chinese Journal of Computers, CJC）* · **CCF 中文高质量科技期刊 T1**  
+*《计算机学报》（Chinese Journal of Computers, CJC）* · **CCF-T1**  
 **Zhenyuan Li**, Yangyang Wei, Zhengkai Wang, Shouling Ji
 
 - The ability of machine learning models to discover and represent features offers new insights and solutions for accurately and efficiently extracting attack patterns, thereby improving the precision of provenance-based detection. Moreover, advances in efficient data compression and indexing enable faster analysis and significantly reduce computational overhead.
@@ -223,7 +223,7 @@ Jin Qian, Shiyu Tan, Libin Xu, Jun Luo, **Zhenyuan Li#**
 </div>
 
 **[J4]** "移动间谍软件及其检测技术综述"（"Mobile Spyware and Its Detection: A Survey"）  
-*《信息安全学报》（Journal of Cyber Security, JCS）* · **CCF 中文高质量科技期刊 T2**  
+*《信息安全学报》（Journal of Cyber Security, JCS）* · **CCF-T2**  
 Yi Jiang, **Zhenyuan Li#**, Fan Zhang, Yixin Jiang, Wenqian Xu, Zhihong Liang
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/aurora.png' alt="sym" width="100%"></div></div>
