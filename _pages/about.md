@@ -36,9 +36,10 @@ I welcome collaborations on industry-oriented security research and real-world s
 
 
 # 🔥 News
+- 🎉 *2026.06*, 指导研究生获得浙江大学“陆氏研究生国际交流基金”资助，拟赴新加坡南洋理工大学交流3个月。
 - 🧑‍💻 *2026.06*, Invited to serve as a TPC member for **USENIX Security 2027**.
 - 📑 *2026.06*, Our paper "MINOS: A Multi-Agent Collaborative Framework for Backward Tracking" has been accepted to **ESORICS'26**.
-- 👨🏻‍🏫 *2026.06*, 受邀在“[电子学会-2026网络空间安全学术大会-网络空间威胁密态对抗与智能化防御论坛](https://csc.cie.org.cn/subforum/11464.html)”做报告.
+- 👨🏻‍🏫 *2026.06*, 受邀在“[电子学会-2026网络空间安全学术大会-网络空间威胁密态对抗与智能化防御论坛](https://csc.cie.org.cn/subforum/11464.html)”做报告。
 - 📑 *2026.06*, 论文《大语言模型驱动的多态攻击脚本生成与检测规避》（"Large Language Models Driven Polymorphic Attack Scripts Generation and Detection Evasion"）被**《计算机学报》**（Chinese Journal of Computers）录用。
 - 🧑‍💻 *2026.03*, Invited to serve as a TPC member for **RAID 2026**.
 - 📑 *2026.03*, Our paper "[RAPiDLe: Enabling Real-time Anomaly Path Detection in Streaming Provenance Graph with Learned Behavior Baseline](https://www.sciengine.com/SCIS/doi/10.1007/s11432-025-4822-0)" has been accepted by **SCIS**.
