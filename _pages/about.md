@@ -329,9 +329,9 @@ Mingxiang Shi, Xiangmin Shen, Yuqiao Gu, Zhipeng Chen, Lingzhi Wang, Yi Jiang, *
 
 # 🎓 Students
 - **Undergraduate**: Chun Xu (UESTC)， Xingchen Lin (Sichuan University)
-- **2026**: Junjie Cheng, Yijie Xu (PRISM'26 1st Author)
+- **2026**: Junjie Cheng, Bingze Li, Wenxin Ruan, Ping Liu, Jiting Fan, Lingman Bao
 - **2025**: Shiyu Tan (1 * Patent, 1 * Competition Award), Yaokun Li, Qizhi Cai (NDSS'26 Poster 1st Author), Haocheng Li, Zhipeng Chen
-- **2024**: Yuqiao Gu (Ph.D. student, NDSS'26 Poster 1st Author, 1 * Patent, 1 * Competition Award), Zhenkai Wang (TDSC Co-1st Author, ACNS 4th Author, Chinese Journal of Computers 3rd Author, 1 * Competition Award), Yi Jiang (Journal of Cybersecurity (Chinese) 1st Author, ACNS 3rd Author, 1 * Competition Award)
+- **2024**: Yuqiao Gu (Ph.D. student, CJC 1st Author, NDSS'26 Poster 1st Author, 1 * Patent, 1 * Competition Award), Zhenkai Wang (TDSC Co-1st Author, SCIS 3rd Author, ACNS 4th Author, Chinese Journal of Computers 3rd Author, 1 * Competition Award), Yi Jiang (Journal of Cybersecurity (Chinese) 1st Author, ACNS 3rd Author, 1 * Competition Award)
 
 --- **Alumni** ---
 
