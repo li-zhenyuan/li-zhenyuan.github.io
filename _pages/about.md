@@ -40,27 +40,27 @@ I welcome collaborations on industry-oriented security research and real-world s
 - 🧑‍💻 *2026.06*, Invited to serve as a TPC member for **USENIX Security 2027**.
 - 📑 *2026.06*, Our paper "MINOS: A Multi-Agent Collaborative Framework for Backward Tracking" has been accepted to **ESORICS'26**.
 - 👨🏻‍🏫 *2026.06*, 受邀在“[电子学会-2026网络空间安全学术大会-网络空间威胁密态对抗与智能化防御论坛](https://csc.cie.org.cn/subforum/11464.html)”做报告。
-- 📑 *2026.06*, 论文《大语言模型驱动的多态攻击脚本生成与检测规避》（"Large Language Models Driven Polymorphic Attack Scripts Generation and Detection Evasion"）被**《计算机学报》**（Chinese Journal of Computers）录用。
+- 📑 *2026.06*, 论文《大语言模型驱动的多态攻击脚本生成与检测规避》 ("Large Language Models Driven Polymorphic Attack Scripts Generation and Detection Evasion")被**《计算机学报》** (Chinese Journal of Computers)录用。
 - 🧑‍💻 *2026.03*, Invited to serve as a TPC member for **RAID 2026**.
 - 📑 *2026.03*, Our paper "[RAPiDLe: Enabling Real-time Anomaly Path Detection in Streaming Provenance Graph with Learned Behavior Baseline](https://www.sciengine.com/SCIS/doi/10.1007/s11432-025-4822-0)" has been accepted by **SCIS**.
 <!-- - 📑 *2026.02*, Two Posters titled "Abstracting and Tracking Semantic Flow among Agents for Threat Detection" and "Reconstructing the Provenance of Android" to appear in NDSS'26. -->
 <!-- - 📑 *2026.01*, Two Work-In-Progress papers, titled "Building Next-Generation Datasets for Provenance-Based Intrusion Detection" and "The Case for LLM-Enhanced Backward Tracking" accepted by PRISM'26 co-located with NDSS'26. -->
 <!-- - 🧑‍💻 *2025.12*, Invited to serve as a TPC member for "GlobalCom 2026 CISS".  -->
-- 🎉 *2025.12*, 获**中国商业联合会科学技术进步奖一等奖**（排名 5/15；First Prize of the Science and Technology Progress Award, China General Chamber of Commerce）——“AI 驱动的网络安全检测关键技术与产业化应用”（"Key Technologies and Industrial Applications of AI-Driven Cybersecurity Detection"）。
-- 🎉 *2025.12*, 获**北京市科学技术进步奖二等奖**（排名 7/10；Second Prize of Beijing Municipal Science and Technology Progress Award）——“基于反隐身机制的高隐蔽网络威胁检测与溯源关键技术及应用”（"Key Technologies and Applications for Detection and Attribution of Highly Stealthy Cyber Threats Based on Anti-Stealth Mechanisms"）。
+- 🎉 *2025.12*, 获**中国商业联合会科学技术进步奖一等奖** (排名 5/15；First Prize of the Science and Technology Progress Award, China General Chamber of Commerce)——“AI 驱动的网络安全检测关键技术与产业化应用” ("Key Technologies and Industrial Applications of AI-Driven Cybersecurity Detection")。
+- 🎉 *2025.12*, 获**北京市科学技术进步奖二等奖** (排名 7/10；Second Prize of Beijing Municipal Science and Technology Progress Award)——“基于反隐身机制的高隐蔽网络威胁检测与溯源关键技术及应用” ("Key Technologies and Applications for Detection and Attribution of Highly Stealthy Cyber Threats Based on Anti-Stealth Mechanisms")。
 <!-- - 🧑‍💻 *2025.12*, Invited to serve as an Early Career Editorial Board member for the journal "Digital Twins and Applications".  -->
 <!-- - 📑 *2025.11*, Our paper "Actionable, Customizable, and Causality-Preserving Cyberattack Emulation with LLM-powered Symbolic Planning" has been accepted to ACNS'26. -->
-- 🏗️ *2025.11*, 获**宁波市自然科学基金青年博士创新研究项目**资助，担任项目负责人（PI；Natural Science Foundation of Ningbo, Youth Ph.D. Program）。
+- 🏗️ *2025.11*, 获**宁波市自然科学基金青年博士创新研究项目**资助，担任项目负责人 (PI；Natural Science Foundation of Ningbo, Youth Ph.D. Program)。
 - 📑 *2025.11*, Our paper "[Breaking the Bulkhead: Demystifying Cross-Namespace Reference Vulnerabilities in Kubernetes Operators](https://arxiv.org/pdf/2507.03387)" has been accepted to **NDSS'26**.
 - 📑 *2025.10*, Our paper "[Towards Scalable and Interpretable Mobile App Risk Analysis via Large Language Models](https://arxiv.org/pdf/2508.15606)" has been accepted to **ICSE'26**.
 <!-- - 📑 *2025.09*, Our paper "[Incorporating Gradients to Rules: Towards Online, Adaptive Provenance-based Intrusion Detection](https://ieeexplore.ieee.org/abstract/document/11169421/)" has been accepted to TDSC. -->
-- 🏗️ *2025.07*, 获**CCF-腾讯“犀牛鸟”科研基金**资助，担任项目负责人（PI；CCF-Tencent "Rhino-Bird" Open Research Fund）。
+- 🏗️ *2025.07*, 获**CCF-腾讯“犀牛鸟”科研基金**资助，担任项目负责人 (PI；CCF-Tencent "Rhino-Bird" Open Research Fund)。
 <!-- - 📑 *2025.07*, Our paper "Learning in Provenance-Based Intrusion Detection: A Survey" accepted by Chinese Journal of Computers. -->
 <!-- - 📑 *2025.05*, Our paper "[The Case for Learned Provenance-based System Behavior Baseline](https://openreview.net/pdf?id=SY4owu5BK6)" has been accepted to ICML'25. -->
 - 📑 *2025.04*, Our paper "[PentestAgent: Incorporating LLM Agents to Automated Penetration Testing](https://dl.acm.org/doi/pdf/10.1145/3708821.3733882)" has been accepted to **AsiaCCS'25**.
 <!-- - 🧑‍💻 *2025.03*, Invited to serve as a TPC member for "GlobalCom 2025 CISS".  -->
-- 🎉 *2024.09*, 入选**宁波市“甬江”人才工程青年项目**（Ningbo "YongJiang" Talent Programme, Youth Program）。
-- 🏗️ *2024.08*, 获**国家自然科学基金青年科学基金项目**资助，担任项目负责人（PI；National Natural Science Foundation of China, Youth Program）。
+- 🎉 *2024.09*, 入选**宁波市“甬江”人才工程青年项目** (Ningbo "YongJiang" Talent Programme, Youth Program)。
+- 🏗️ *2024.08*, 获**国家自然科学基金青年科学基金项目**资助，担任项目负责人 (PI；National Natural Science Foundation of China, Youth Program)。
 - 📑 *2024.08*, Our paper "Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection" has been accepted to **NDSS'25**.
 
 
@@ -86,18 +86,26 @@ I welcome collaborations on industry-oriented security research and real-world s
 (* Equal contribution, # Corresponding author)
 
 
-#### [预印本（arXiv / Preprints）]
+#### [预印本 (arXiv / Preprints)]
 
-**[A4]** "Beyond Input Guardrails: Reconstructing Cross-Agent Semantic Flows for Execution-Aware Attack Detection"  
-*arXiv, 2026* · **预印本（Preprint）**  
-Yangyang Wei, Yijie Xu, Zhenyuan Li, Xiangmin Shen, Shouling Ji
+**[A6]** "MazeRunner: Nonlinear Task and Clue Orchestration for LLM-driven Black-Box Automated Penetration Testing"  
+*arXiv, 2026* · **预印本 (Preprint)**  
+**Zhenyuan Li#**, Yi Jiang, Junjie Cheng, Yaokun Li, Jing Qiu, Shouling Ji
+
+**[A5]** "SherAgent: Scaling Attack Investigation in the Wild via LLM-Empowered Iterative Query-Filter Backtracking"  
+*arXiv, 2026* · **预印本 (Preprint)**  
+**Zhenyuan Li#**, Zhengkai Wang, Ling Jiang, Xiangmin Shen, Ruixiao Lin, Sen Nie, Shi Wu, Shouling Ji
+
+**[A4]** "Cross-Layer Semantic Flow Reconstruction for Attack Detection in Agentic Systems"  
+*arXiv, 2026* · **预印本 (Preprint)**  
+Qizhi Cai, Yangyang Wei, Zhipeng Chen, **Zhenyuan Li#**, Shouling Ji
 
 **[A3]** "Automated Penetration Testing with LLM Agents and Classical Planning"  
-*arXiv, 2025* · **预印本（Preprint）**  
+*arXiv, 2025* · **预印本 (Preprint)**  
 Lingzhi Wang, Xinyi Shi, Ziyu Li, Yi Jiang, Shiyu Tan, Yuhao Jiang, Junjie Cheng, Wenyuan Chen, Xiangmin Shen, **Zhenyuan Li**, Yan Chen
 
 **[A2]** "AEAS: Actionable Exploit Assessment System"  
-*arXiv, 2025* · **预印本（Preprint）**  
+*arXiv, 2025* · **预印本 (Preprint)**  
 Xiangmin Shen, Wenyuan Cheng, Yan Chen, **Zhenyuan Li**, Yuqiao Gu, Lingzhi Wang, Wencheng Zhao, Dawei Sun, Jiashui Wang
 
 <!-- - ``arXiv`` "[Marlin: Knowledge-Driven Analysis of Provenance Graphs for Efficient and Robust Detection of Cyber Attacks](https://arxiv.org/pdf/2403.12541)",  **Zhenyuan Li**, Yangyang Wei, Xiangmin Shen, Lingzhi Wang, Yan Chen, Haitao Xu, Shouling Ji, Fan Zhang, Liang Hou, Wenmao Liu, Xuhong Zhang, Jianwei Ying -->
@@ -106,7 +114,7 @@ Xiangmin Shen, Wenyuan Cheng, Yan Chen, **Zhenyuan Li**, Yuqiao Gu, Lingzhi Wang
 <div class='paper-box-text' markdown="1">
 
 **[A1]** "[Marlin: Knowledge-Driven Analysis of Provenance Graphs for Efficient and Robust Detection of Cyber Attacks](https://arxiv.org/pdf/2403.12541)"  
-*arXiv, 2024* · **预印本（Preprint）**  
+*arXiv, 2024* · **预印本 (Preprint)**  
 **Zhenyuan Li**, Yangyang Wei, Xiangmin Shen, Lingzhi Wang, Yan Chen, Haitao Xu, Shouling Ji, Fan Zhang, Liang Hou, Wenmao Liu, Xuhong Zhang, Jianwei Ying
 
 [**Project**](https://github.com/MarineYY/MARLIN) <strong><span class='show_paper_citations' data='3YGMOdwAAAAJ:UeHWp8X0CEIC'></span></strong> 
@@ -117,46 +125,46 @@ Xiangmin Shen, Wenyuan Cheng, Yan Chen, **Zhenyuan Li**, Yuqiao Gu, Lingzhi Wang
 </div>
 </div>
 
-#### [会议论文（Conference Papers）]
+#### [会议论文 (Conference Papers)]
 
 **[C11]** "MINOS: A Multi-Agent Collaborative Framework for Backward Tracking"  
-*European Symposium on Research in Computer Security (ESORICS), 2026* · **CCF-B 会议（网络与信息安全）**  
+*European Symposium on Research in Computer Security (ESORICS), 2026* · **CCF-B 会议 (网络与信息安全)**  
 Jiahui Wang\*, **Zhenyuan Li\*#**, Zhengkai Wang, Xiangmin Shen, Fan Zhang
 
 **[C10]** "Actionable, Customizable, and Causality-Preserving Cyberattack Emulation with LLM-powered Symbolic Planning"  
-*International Conference on Applied Cryptography and Network Security (ACNS), 2026* · **CCF-C 会议（网络与信息安全）**  
+*International Conference on Applied Cryptography and Network Security (ACNS), 2026* · **CCF-C 会议 (网络与信息安全)**  
 Lingzhi Wang, **Zhenyuan Li**, Yi Jiang, Zhengkai Wang, Xiangmin Shen, Wei Ruan, Yan Chen
 
 **[C9]** "[Towards Scalable and Interpretable Mobile App Risk Analysis via Large Language Models](https://arxiv.org/pdf/2508.15606)"  
-*IEEE/ACM International Conference on Software Engineering (ICSE), 2026* · **CCF-A 会议（软件工程/系统软件/程序设计语言）**  
+*IEEE/ACM International Conference on Software Engineering (ICSE), 2026* · **CCF-A 会议 (软件工程/系统软件/程序设计语言)**  
 Yu Yang\*, **Zhenyuan Li\*#**, Xiandong Ran, Jiahao Liu, Jiahui Wang, Bo Yu, Shouling Ji
 
 **[C8]** "[Breaking the Bulkhead: Demystifying Cross-Namespace Reference Vulnerabilities in Kubernetes Operators](https://arxiv.org/pdf/2507.03387)"  
-*Network and Distributed System Security Symposium (NDSS), 2026* · **CCF-A 会议（网络与信息安全）**  
+*Network and Distributed System Security Symposium (NDSS), 2026* · **CCF-A 会议 (网络与信息安全)**  
 Andong Chen, Ziyi Guo, Zhaoxuan Jin, **Zhenyuan Li#**, Yan Chen
 
 **[C7]** "[The Case for Learned Provenance-based System Behavior Baseline](https://openreview.net/pdf?id=SY4owu5BK6)"  
-*International Conference on Machine Learning (ICML), 2025* · **CCF-A 会议（人工智能）**  
+*International Conference on Machine Learning (ICML), 2025* · **CCF-A 会议 (人工智能)**  
 Yao Zhu\*, **Zhenyuan Li\*#**, Yangyang Wei, Shouling Ji
 
 **[C6]** "[PentestAgent: Incorporating LLM Agents to Automated Penetration Testing](https://dl.acm.org/doi/pdf/10.1145/3708821.3733882)"  
-*ACM Asia Conference on Computer and Communications Security (AsiaCCS), 2025* · **CCF-C 会议（网络与信息安全）**  
+*ACM Asia Conference on Computer and Communications Security (AsiaCCS), 2025* · **CCF-C 会议 (网络与信息安全)**  
 Xiangmin Shen, Lingzhi Wang, **Zhenyuan Li**, Yan Chen, Wencheng Zhao, Dawei Sun, Jiashui Wang, Wei Ruan
 
 **[C5]** "[Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection](https://arxiv.org/pdf/2404.14720)"  
-*Network and Distributed System Security Symposium (NDSS), 2025* · **CCF-A 会议（网络与信息安全）**  
+*Network and Distributed System Security Symposium (NDSS), 2025* · **CCF-A 会议 (网络与信息安全)**  
 Lingzhi Wang, Xiangmin Shen, Weijian Li, **Zhenyuan Li#**, R Sekar, Han Liu, Yan Chen
 
 **[C4]** "Understanding the Business of Online Affiliate Marketing: An Empirical Study"  
-*IEEE International Conference on Computer Communications (INFOCOM), 2025* · **CCF-A 会议（计算机网络）**  
+*IEEE International Conference on Computer Communications (INFOCOM), 2025* · **CCF-A 会议 (计算机网络)**  
 Haitao Xu, Yiwen Sun, Kaleem Ullah Qasim, Shuai Hao, Wenrui Ma, **Zhenyuan Li**, Fan Zhang, Meng Han, Zhao Li
 
 **[C3]** "[Decoding the MITRE Engenuity ATT&CK Enterprise Evaluation: An Analysis of EDR Performance in Real-World Environments](https://dl.acm.org/doi/pdf/10.1145/3634737.3645012)"  
-*ACM Asia Conference on Computer and Communications Security (AsiaCCS), 2024* · **CCF-C 会议（网络与信息安全）**  
+*ACM Asia Conference on Computer and Communications Security (AsiaCCS), 2024* · **CCF-C 会议 (网络与信息安全)**  
 Xiangmin Shen, **Zhenyuan Li**, Graham Burleigh, Lingzhi Wang, Yan Chen
 
 **[C2]** "[AttacKG: Constructing Technique Knowledge Graph from Cyber Threat Intelligence Reports](https://link.springer.com/chapter/10.1007/978-3-031-17140-6_29)"  
-*European Symposium on Research in Computer Security (ESORICS), 2022* · **CCF-B 会议（网络与信息安全）**  
+*European Symposium on Research in Computer Security (ESORICS), 2022* · **CCF-B 会议 (网络与信息安全)**  
 **Zhenyuan Li**, Jun Zeng, Yan Chen, Zhenkai Liang
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESORICS 2022</div><img src='images/AttacKG.png' alt="sym" width="100%"></div></div>
@@ -180,7 +188,7 @@ Xiangmin Shen, **Zhenyuan Li**, Graham Burleigh, Lingzhi Wang, Yan Chen
 <div class='paper-box-text' markdown="1">
 
 **[C1]** "[Effective and Light-Weight Deobfuscation and Semantic-Aware Attack Detection for PowerShell Scripts](https://dl.acm.org/doi/10.1145/3319535.3363187)"  
-*ACM SIGSAC Conference on Computer and Communications Security (CCS), 2019* · **CCF-A 会议（网络与信息安全）**  
+*ACM SIGSAC Conference on Computer and Communications Security (CCS), 2019* · **CCF-A 会议 (网络与信息安全)**  
 **Zhenyuan Li**, Qi Alfred Chen, Chunlin Xiong, Yan Chen, Tiantian Zhu, Hai Yang
 
 [**Project**](https://github.com/li-zhenyuan/Effective-and-Light-Weight-Deobfuscation-and-Semantic-Aware-Attack-Detection-for-PowerShell-Scripts) <strong><span class='show_paper_citations' data='3YGMOdwAAAAJ:u-x6o8ySG0sC'></span></strong>
@@ -191,22 +199,22 @@ Xiangmin Shen, **Zhenyuan Li**, Graham Burleigh, Lingzhi Wang, Yan Chen
 </div>
 
 
-#### [期刊论文（Journal Papers）]
+#### [期刊论文 (Journal Papers)]
 
-**[J9]** "大语言模型驱动的多态攻击脚本生成与检测规避"（"Large Language Models Driven Polymorphic Attack Scripts Generation and Detection Evasion"）  
-*《计算机学报》（Chinese Journal of Computers, CJC）* · **CCF-T1**  
+**[J9]** "大语言模型驱动的多态攻击脚本生成与检测规避" ("Large Language Models Driven Polymorphic Attack Scripts Generation and Detection Evasion")  
+*《计算机学报》 (Chinese Journal of Computers, CJC)* · **CCF-T1**  
 Yuqiao Gu, Yu Yang, **Zhenyuan Li**, Fan Zhang, Yaokun Li, Qizhi Cai, Shouling Ji
 
 **[J8]** "[RAPiDLe: Enabling Real-time Anomaly Path Detection in Streaming Provenance Graph with Learned Behavior Baseline](https://www.sciengine.com/SCIS/doi/10.1007/s11432-025-4822-0)"  
-*Science China Information Sciences (SCIS), 2026* · **CCF-A 期刊（交叉/综合/新兴领域）**  
+*Science China Information Sciences (SCIS), 2026* · **CCF-A 期刊 (交叉/综合/新兴领域)**  
 **Zhenyuan Li#**, Yangyang Wei, Lingzhi Wang, Xiangmin Shen, Yao Zhu, Haitao Xu, Wenmao Liu, Yan Chen, Shouling Ji
 
 **[J7]** "[Incorporating Gradients to Rules: Towards Online, Adaptive Provenance-based Intrusion Detection](https://ieeexplore.ieee.org/abstract/document/11169421/)"  
-*IEEE Transactions on Dependable and Secure Computing (TDSC), 2026* · **CCF-A 期刊（网络与信息安全）**  
+*IEEE Transactions on Dependable and Secure Computing (TDSC), 2026* · **CCF-A 期刊 (网络与信息安全)**  
 **Zhenyuan Li#**, Lingzhi Wang, Zhengkai Wang, Xiangmin Shen, Haitao Xu, Yan Chen, Shouling Ji
 
-**[J6]** "大语言模型驱动的攻击过程分析、描述与复现方法"（"Analysis, Description, and Reproduction Methods for Attack Processes Driven by Large Language Models"）  
-*《微电子学与计算机》（Microelectronics & Computer）* · **CCF-T3**  
+**[J6]** "大语言模型驱动的攻击过程分析、描述与复现方法" ("Analysis, Description, and Reproduction Methods for Attack Processes Driven by Large Language Models")  
+*《微电子学与计算机》 (Microelectronics & Computer)* · **CCF-T3**  
 Jin Qian, Shiyu Tan, Libin Xu, Jun Luo, **Zhenyuan Li#**
 
 <!-- - ``计算机学报`` "智能溯源分析与入侵检测：洞察、挑战与展望”, **李振源**, 韦洋洋, 王征凯, 纪守领 -->
@@ -214,8 +222,8 @@ Jin Qian, Shiyu Tan, Libin Xu, Jun Luo, **Zhenyuan Li#**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">计算机学报 · T1</div><img src='images/溯源分析框架.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[J5]** "基于溯源的入侵检测学习方法综述"（"Learning in Provenance-Based Intrusion Detection: A Survey"）  
-*《计算机学报》（Chinese Journal of Computers, CJC）* · **CCF-T1**  
+**[J5]** "基于溯源的入侵检测学习方法综述" ("Learning in Provenance-Based Intrusion Detection: A Survey")  
+*《计算机学报》 (Chinese Journal of Computers, CJC)* · **CCF-T1**  
 **Zhenyuan Li**, Yangyang Wei, Zhengkai Wang, Shouling Ji
 
 - The ability of machine learning models to discover and represent features offers new insights and solutions for accurately and efficiently extracting attack patterns, thereby improving the precision of provenance-based detection. Moreover, advances in efficient data compression and indexing enable faster analysis and significantly reduce computational overhead.
@@ -223,8 +231,8 @@ Jin Qian, Shiyu Tan, Libin Xu, Jun Luo, **Zhenyuan Li#**
 </div>
 </div>
 
-**[J4]** "移动间谍软件及其检测技术综述"（"Mobile Spyware and Its Detection: A Survey"）  
-*《信息安全学报》（Journal of Cyber Security, JCS）* · **CCF-T2**  
+**[J4]** "移动间谍软件及其检测技术综述" ("Mobile Spyware and Its Detection: A Survey")  
+*《信息安全学报》 (Journal of Cyber Security, JCS)* · **CCF-T2**  
 Yi Jiang, **Zhenyuan Li#**, Fan Zhang, Yixin Jiang, Wenqian Xu, Zhihong Liang
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/aurora.png' alt="sym" width="100%"></div></div>
@@ -243,19 +251,19 @@ Lingzhi Wang, **Zhenyuan Li#**, Yi Jiang, Zhengkai Wang, Zonghan Guo, Jiahui Wan
 </div> -->
 
 **[J3]** "[AutoSeg: Automatic Micro-segmentation Policy Generation via Configuration Analysis](https://www.sciencedirect.com/science/article/abs/pii/S0167404825002809)"  
-*Computers & Security (COSE), 2025* · **CCF-B 期刊（网络与信息安全）**  
+*Computers & Security (COSE), 2025* · **CCF-B 期刊 (网络与信息安全)**  
 Andong Chen, Zhaoxuan Jin, **Zhenyuan Li#**, Yan Chen, Yu Ning, Ying Wang
 
 **[J2]** "[RATScope: Recording and Reconstructing Missing RAT Semantic Behaviors for Forensic Analysis on Windows](https://ieeexplore.ieee.org/document/9234076)"  
-*IEEE Transactions on Dependable and Secure Computing (TDSC), 2022* · **CCF-A 期刊（网络与信息安全）**  
+*IEEE Transactions on Dependable and Secure Computing (TDSC), 2022* · **CCF-A 期刊 (网络与信息安全)**  
 Runqing Yang, Xutong Chen, Haitao Xu, Yueqiang Chen, Chunlin Xiong, Linqi Ruan, Mohammad Kavousl, **Zhenyuan Li**, Liheng Xu, Yan Chen
 
 **[J1]** "[Threat Detection and Investigation with System-level Provenance Graphs: A Survey](https://www.sciencedirect.com/science/article/pii/S0167404821001061)"  
-*Computers & Security (COSE), 2021* · **CCF-B 期刊（网络与信息安全）**  
+*Computers & Security (COSE), 2021* · **CCF-B 期刊 (网络与信息安全)**  
 **Zhenyuan Li**, Qi Alfred Chen, Yang Runqing, Yan Chen
 
 
-#### [海报与研讨会论文（Posters / Workshop Papers）]
+#### [海报与研讨会论文 (Posters / Workshop Papers)]
 
 **[W2]** "Work In Progress: The Case for LLM-Enhanced Backward Tracking"  
 *Workshop on Attack Provenance, Reasoning, and Investigation for Security in the Monitored Environment (PRISM), 2026* · 
@@ -284,35 +292,35 @@ Mingxiang Shi, Xiangmin Shen, Yuqiao Gu, Zhipeng Chen, Lingzhi Wang, Yi Jiang, *
 
 # 📑 Selected Patents
 
-- **综合数据采集（Comprehensive Data Collection）**
-  - （专利申请；Patent Application Filed）基于 eBPF 的 Android 系统细粒度溯源数据采集方法与装置（Fine-Grained Provenance Data Collection Method and Apparatus for Android Systems Based on eBPF）
-  - （授权专利；Patent Granted）基于多层数据融合的云平台细粒度溯源数据采集方法与系统（Fine-Grained Provenance Data Collection Method and System for Cloud Platforms Based on Multi-Layer Data Fusion）
+- **综合数据采集 (Comprehensive Data Collection)**
+  -  (专利申请；Patent Application Filed)基于 eBPF 的 Android 系统细粒度溯源数据采集方法与装置 (Fine-Grained Provenance Data Collection Method and Apparatus for Android Systems Based on eBPF)
+  -  (授权专利；Patent Granted)基于多层数据融合的云平台细粒度溯源数据采集方法与系统 (Fine-Grained Provenance Data Collection Method and System for Cloud Platforms Based on Multi-Layer Data Fusion)
 
-- **高效威胁狩猎（Efficient Threat Hunting）**
-  - （授权专利；Patent Granted）基于标签传播与事件基线学习的实时攻击链检测方法与系统（Real-Time Attack Chain Detection Method and System Based on Label Propagation and Event Baseline Learning）
-  - （授权专利；Patent Granted）基于标注与图对齐的流式溯源图实时攻击检测方法与系统（Real-Time Attack Detection Method and System for Streaming Provenance Graphs Based on Labeling and Graph Alignment）
-  - （专利申请；Patent Application Filed）基于大模型的可疑事件前后向追踪与攻击路径重构方法及系统（Suspicious Event Forward-Backward Tracing and Attack Path Reconstruction Method and System Based on Large Models）
-  - （专利申请；Patent Application Filed）基于大模型多智能体决策树的应用风险评估方法与装置（Application Risk Assessment Method and Apparatus Based on Large Model Multi-Agent Decision Trees）
+- **高效威胁狩猎 (Efficient Threat Hunting)**
+  -  (授权专利；Patent Granted)基于标签传播与事件基线学习的实时攻击链检测方法与系统 (Real-Time Attack Chain Detection Method and System Based on Label Propagation and Event Baseline Learning)
+  -  (授权专利；Patent Granted)基于标注与图对齐的流式溯源图实时攻击检测方法与系统 (Real-Time Attack Detection Method and System for Streaming Provenance Graphs Based on Labeling and Graph Alignment)
+  -  (专利申请；Patent Application Filed)基于大模型的可疑事件前后向追踪与攻击路径重构方法及系统 (Suspicious Event Forward-Backward Tracing and Attack Path Reconstruction Method and System Based on Large Models)
+  -  (专利申请；Patent Application Filed)基于大模型多智能体决策树的应用风险评估方法与装置 (Application Risk Assessment Method and Apparatus Based on Large Model Multi-Agent Decision Trees)
 
-- **智能规则优化（Intelligent Rule Optimization）**
-  - （授权专利；Patent Granted）基于迭代预测-校正的流式溯源图异常检测方法与系统（Anomaly Detection Method and System for Streaming Provenance Graphs Based on Iterative Prediction-Correction）
-  - （授权专利；Patent Granted）基于特征反向传播的攻击检测策略优化方法与系统（Attack Detection Policy Optimization Method and System Based on Feature Backpropagation）
+- **智能规则优化 (Intelligent Rule Optimization)**
+  -  (授权专利；Patent Granted)基于迭代预测-校正的流式溯源图异常检测方法与系统 (Anomaly Detection Method and System for Streaming Provenance Graphs Based on Iterative Prediction-Correction)
+  -  (授权专利；Patent Granted)基于特征反向传播的攻击检测策略优化方法与系统 (Attack Detection Policy Optimization Method and System Based on Feature Backpropagation)
 
-- **自动化攻击规划（Automated Attack Planning）**
-  - （专利申请；Patent Application Filed）一种端到端网络攻击构造方法（An End-to-End Network Attack Construction Method）
-  - （专利申请；Patent Application Filed）基于大语言模型与攻击树模型的多阶段自动化渗透测试计划生成方法与系统（Multi-Stage Automated Penetration Testing Plan Generation Method and System Based on Large Language Models and Attack Tree Models）
+- **自动化攻击规划 (Automated Attack Planning)**
+  -  (专利申请；Patent Application Filed)一种端到端网络攻击构造方法 (An End-to-End Network Attack Construction Method)
+  -  (专利申请；Patent Application Filed)基于大语言模型与攻击树模型的多阶段自动化渗透测试计划生成方法与系统 (Multi-Stage Automated Penetration Testing Plan Generation Method and System Based on Large Language Models and Attack Tree Models)
 
 
 # 💫 Selected Fundings
-- **国家自然科学基金青年科学基金项目**（National Natural Science Foundation of China, Youth Program），**大规模实时攻击检测与溯源方法及关键技术研究**（Research on Methods and Key Technologies for Large-Scale Real-Time Attack Detection and Attribution），2024/01-2026/12，在研，项目负责人（PI）
-- **国家重点研发计划“网络空间安全治理”重点专项**（National Key R&D Program of China – “Cyberspace Security Governance” Special Project），**面向终端的高隐蔽传播型网络滋扰行为识别、取证与溯源**（Terminal-Oriented Identification, Forensics, and Attribution of Highly Stealthy Propagation-Based Cyber Nuisances），在研，子课题负责人（Sub-Task Leader）
-- **浙江省“领雁”研发攻关计划**（Zhejiang Provincial Key R&D Program, "Leading Goose"），**\*\*\*\*\*\***，2025/01-2025/12，在研，项目负责人（PI）
-- **宁波市“甬江”青年创新人才项目**（Ningbo "Yongjiang" Young Innovative Talents Project），**\*\*\*\*\*\***，2025/01-2027/12，在研，项目负责人（PI）
-- **宁波市自然科学基金青年博士创新研究项目**（Natural Science Foundation of Ningbo – Young Doctoral Innovation Research Project），**关键基础设施中新兴异构系统的行为治理与安全防护**（Behavior Governance and Security Protection for Emerging Heterogeneous Systems in Critical Infrastructure），2026/01-2027/12，在研，项目负责人（PI）
-- **CCF-腾讯“犀牛鸟”科研基金**（CCF-Tencent “Rhino Bird” Research Fund），**面向对抗场景的高效智能溯源分析与威胁狩猎**（Efficient, Intelligent, and Adversary-Aware Attribution Analysis and Threat Hunting），2026/01-2026/12，在研，项目负责人（PI）
-- **浙江省“领雁”研发攻关计划**（Zhejiang Provincial Key R&D Program, "Leading Goose"），**\*\*\*\*\*\***，2024/01-2024/12，已结题，任务负责人（Task Leader）
-- **CF-绿盟“鲲鹏”科研基金**（CF-NSFOCUS “Kunpeng” Research Fund），**云计算环境下基于流式处理的大规模溯源分析**（Large-Scale Attribution Analysis Based on Stream Processing in Cloud Computing Environments），2024/01-2024/12，已结题，项目负责人（PI）
-- **国家自然科学基金联合基金项目**（Joint Fund of the National Natural Science Foundation of China），**APT 网络杀伤链智能检测与溯源方法及关键技术**（Intelligent Detection and Attribution Methods and Key Technologies for APT Cyber Kill Chains），2021/01-2023/12，已结题，核心技术成员（Core Technical Member）
+- **国家自然科学基金青年科学基金项目** (National Natural Science Foundation of China, Youth Program)，**大规模实时攻击检测与溯源方法及关键技术研究** (Research on Methods and Key Technologies for Large-Scale Real-Time Attack Detection and Attribution)，2024/01-2026/12，在研，项目负责人 (PI)
+- **国家重点研发计划“网络空间安全治理”重点专项** (National Key R&D Program of China – “Cyberspace Security Governance” Special Project)，**面向终端的高隐蔽传播型网络滋扰行为识别、取证与溯源** (Terminal-Oriented Identification, Forensics, and Attribution of Highly Stealthy Propagation-Based Cyber Nuisances)，在研，子课题负责人 (Sub-Task Leader)
+- **浙江省“领雁”研发攻关计划** (Zhejiang Provincial Key R&D Program, "Leading Goose")，**\*\*\*\*\*\***，2025/01-2025/12，在研，项目负责人 (PI)
+- **宁波市“甬江”青年创新人才项目** (Ningbo "Yongjiang" Young Innovative Talents Project)，**\*\*\*\*\*\***，2025/01-2027/12，在研，项目负责人 (PI)
+- **宁波市自然科学基金青年博士创新研究项目** (Natural Science Foundation of Ningbo – Young Doctoral Innovation Research Project)，**关键基础设施中新兴异构系统的行为治理与安全防护** (Behavior Governance and Security Protection for Emerging Heterogeneous Systems in Critical Infrastructure)，2026/01-2027/12，在研，项目负责人 (PI)
+- **CCF-腾讯“犀牛鸟”科研基金** (CCF-Tencent “Rhino Bird” Research Fund)，**面向对抗场景的高效智能溯源分析与威胁狩猎** (Efficient, Intelligent, and Adversary-Aware Attribution Analysis and Threat Hunting)，2026/01-2026/12，在研，项目负责人 (PI)
+- **浙江省“领雁”研发攻关计划** (Zhejiang Provincial Key R&D Program, "Leading Goose")，**\*\*\*\*\*\***，2024/01-2024/12，已结题，任务负责人 (Task Leader)
+- **CF-绿盟“鲲鹏”科研基金** (CF-NSFOCUS “Kunpeng” Research Fund)，**云计算环境下基于流式处理的大规模溯源分析** (Large-Scale Attribution Analysis Based on Stream Processing in Cloud Computing Environments)，2024/01-2024/12，已结题，项目负责人 (PI)
+- **国家自然科学基金联合基金项目** (Joint Fund of the National Natural Science Foundation of China)，**APT 网络杀伤链智能检测与溯源方法及关键技术** (Intelligent Detection and Attribution Methods and Key Technologies for APT Cyber Kill Chains)，2021/01-2023/12，已结题，核心技术成员 (Core Technical Member)
 
 
 # 📝 Teaching
@@ -331,17 +339,17 @@ Mingxiang Shi, Xiangmin Shen, Yuqiao Gu, Zhipeng Chen, Lingzhi Wang, Yi Jiang, *
 
 
 # 🎖 Honors and Awards
-- *2025.12*, 中国商业联合会科学技术进步奖一等奖（排名 5/15；First Prize of Science and Technology Progress Award, China General Chamber of Commerce）
-- *2025.09*, 北京市科学技术进步奖二等奖（排名 7/10；Second Prize of Beijing Municipal Science and Technology Progress Award）
-- *2025.05*, 软件创新大赛软件系统安全赛道全国二等奖及优秀指导教师奖（National Second Prize and Outstanding Faculty Advisor Award in the Software Innovation Competition, Software System Security Track）
-- *2025.03*, 软件学院科研贡献奖（Research Contribution Award, School of Software Technology）
-- *2024.09*, 宁波市“甬江”人才工程青年项目（Ningbo "YongJiang" Talent Programme, Youth Program）
-- *2023.03*, 华为“明日之星”奖（Huawei "Star of Tomorrow" Award）
-- *2021.02*, 之江实验室青年国际人才基金（Zhejiang Lab's International Talent Fund for Young Professionals）
-- *2020.12*, 浙江大学学术新星（Zhejiang University's Academic Rising Star）
-- *2020.10*, 国家留学基金委联合培养博士项目（新加坡国立大学）（China Scholarship Council Joint Ph.D. Program, NUS）
-- *2017.05*, 西安电子科技大学优秀毕业生（前 1%；Outstanding Graduate of Xidian University）
-- *2015.11*, 国家奖学金（本科，前 1%；National Scholarship）
+- *2025.12*, 中国商业联合会科学技术进步奖一等奖 (排名 5/15；First Prize of Science and Technology Progress Award, China General Chamber of Commerce)
+- *2025.09*, 北京市科学技术进步奖二等奖 (排名 7/10；Second Prize of Beijing Municipal Science and Technology Progress Award)
+- *2025.05*, 软件创新大赛软件系统安全赛道全国二等奖及优秀指导教师奖 (National Second Prize and Outstanding Faculty Advisor Award in the Software Innovation Competition, Software System Security Track)
+- *2025.03*, 软件学院科研贡献奖 (Research Contribution Award, School of Software Technology)
+- *2024.09*, 宁波市“甬江”人才工程青年项目 (Ningbo "YongJiang" Talent Programme, Youth Program)
+- *2023.03*, 华为“明日之星”奖 (Huawei "Star of Tomorrow" Award)
+- *2021.02*, 之江实验室青年国际人才基金 (Zhejiang Lab's International Talent Fund for Young Professionals)
+- *2020.12*, 浙江大学学术新星 (Zhejiang University's Academic Rising Star)
+- *2020.10*, 国家留学基金委联合培养博士项目 (新加坡国立大学) (China Scholarship Council Joint Ph.D. Program, NUS)
+- *2017.05*, 西安电子科技大学优秀毕业生 (前 1%；Outstanding Graduate of Xidian University)
+- *2015.11*, 国家奖学金 (本科，前 1%；National Scholarship)
 
 
 # 💬 Invited Talks
