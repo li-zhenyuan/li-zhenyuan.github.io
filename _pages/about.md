@@ -130,7 +130,7 @@ Xiangmin Shen, Wenyuan Cheng, Yan Chen, **Zhenyuan Li**, Yuqiao Gu, Lingzhi Wang
 
 **[C12]** "Beyond the App Store: Uncovering the Underground iOS Signing Supply Chain via Operational Data"  
 *Network and Distributed System Security Symposium (NDSS), 2027* · **CCF-A 会议 (网络与信息安全)**  
-Yicheng Hu, Haitao Xu, Shuai Hao, Chuan Yue, Wenrui Ma, **Zhenyuan Li#**, Zhao Li
+Yicheng Hu, Haitao Xu, Shuai Hao, Chuan Yue, Wenrui Ma, **Zhenyuan Li**, Zhao Li
 
 **[C11]** "MINOS: A Multi-Agent Collaborative Framework for Backward Tracking"  
 *European Symposium on Research in Computer Security (ESORICS), 2026* · **CCF-B 会议 (网络与信息安全)**  
