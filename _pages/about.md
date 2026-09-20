@@ -36,6 +36,7 @@ I welcome collaborations on industry-oriented security research and real-world s
 
 
 # 🔥 News
+- 📑 *2026.09*, One paper "Beyond the App Store: Uncovering the Underground iOS Signing Supply Chain via Operational Data" has been accepted to **NDSS'27**.
 - 🎉 *2026.06*, 指导研究生获得浙江大学“陆氏研究生国际交流基金”资助，拟赴新加坡南洋理工大学交流3个月。
 - 🧑‍💻 *2026.06*, Invited to serve as a TPC member for **USENIX Security 2027**.
 - 📑 *2026.06*, Our paper "MINOS: A Multi-Agent Collaborative Framework for Backward Tracking" has been accepted to **ESORICS'26**.
@@ -126,6 +127,10 @@ Xiangmin Shen, Wenyuan Cheng, Yan Chen, **Zhenyuan Li**, Yuqiao Gu, Lingzhi Wang
 </div>
 
 #### [会议论文 (Conference Papers)]
+
+**[C12]** "Beyond the App Store: Uncovering the Underground iOS Signing Supply Chain via Operational Data"  
+*Network and Distributed System Security Symposium (NDSS), 2027* · **CCF-A 会议 (网络与信息安全)**  
+Yicheng Hu, Haitao Xu, Shuai Hao, Chuan Yue, Wenrui Ma, **Zhenyuan Li#**, Zhao Li
 
 **[C11]** "MINOS: A Multi-Agent Collaborative Framework for Backward Tracking"  
 *European Symposium on Research in Computer Security (ESORICS), 2026* · **CCF-B 会议 (网络与信息安全)**  
