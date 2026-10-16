@@ -327,7 +327,7 @@ Mingxiang Shi, Xiangmin Shen, Yuqiao Gu, Zhipeng Chen, Lingzhi Wang, Yi Jiang, *
 - **宁波市“甬江”青年创新人才项目** (Ningbo "Yongjiang" Young Innovative Talents Project)，**\*\*\*\*\*\***，2025/01-2027/12，在研，项目负责人 (PI)
 - **宁波市自然科学基金青年博士创新研究项目** (Natural Science Foundation of Ningbo – Young Doctoral Innovation Research Project)，**关键基础设施中新兴异构系统的行为治理与安全防护** (Behavior Governance and Security Protection for Emerging Heterogeneous Systems in Critical Infrastructure)，2026/01-2027/12，在研，项目负责人 (PI)
 - **CCF-腾讯“犀牛鸟”科研基金** (CCF-Tencent “Rhino Bird” Research Fund)，**面向对抗场景的高效智能溯源分析与威胁狩猎** (Efficient, Intelligent, and Adversary-Aware Attribution Analysis and Threat Hunting)，2026/01-2026/12，在研，项目负责人 (PI)
-- **CF-绿盟“鲲鹏”科研基金** (CF-NSFOCUS “Kunpeng” Research Fund)，**云计算环境下基于流式处理的大规模溯源分析** (Large-Scale Attribution Analysis Based on Stream Processing in Cloud Computing Environments)，2024/01-2024/12，已结题，项目负责人 (PI)
+- **CCF-绿盟“鲲鹏”科研基金** (CF-NSFOCUS “Kunpeng” Research Fund)，**云计算环境下基于流式处理的大规模溯源分析** (Large-Scale Attribution Analysis Based on Stream Processing in Cloud Computing Environments)，2024/01-2024/12，已结题，项目负责人 (PI)
 
 
 # 📝 Teaching
