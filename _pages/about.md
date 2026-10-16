@@ -36,6 +36,7 @@ I welcome collaborations on industry-oriented security research and real-world s
 
 
 # 🔥 News
+- 🏗️ *2026.10*, 获**国家重点研发计划“\*\*\*\*”专项**资助，担任项目负责人 (PI；National Key R&D Program of China – “\*\*\*\*” Special Project)。
 - 📑 *2026.09*, One paper "Beyond the App Store: Uncovering the Underground iOS Signing Supply Chain via Operational Data" has been accepted to **NDSS'27**.
 - 🎉 *2026.06*, 指导研究生获得浙江大学“陆氏研究生国际交流基金”资助，拟赴新加坡南洋理工大学交流3个月。
 - 🧑‍💻 *2026.06*, Invited to serve as a TPC member for **USENIX Security 2027**.
@@ -317,15 +318,16 @@ Mingxiang Shi, Xiangmin Shen, Yuqiao Gu, Zhipeng Chen, Lingzhi Wang, Yi Jiang, *
 
 
 # 💫 Selected Fundings
+- **国家重点研发计划“网络空间安全治理”专项** (National Key R&D Program of China – “Cyberspace Security Governance” Special Project)，**面向终端的高隐蔽传播型网络滋扰行为识别、取证与溯源** (Terminal-Oriented Identification, Forensics, and Attribution of Highly Stealthy Propagation-Based Cyber Nuisances)，在研，子课题负责人 (Sub-Task Leader)
+- **国家重点研发计划“\*\*\*\*”专项** (National Key R&D Program of China – “\*\*\*\*” Special Project)，**\*\*\*\*\*\***，在研，项目负责人 (PI)
 - **国家自然科学基金青年科学基金项目** (National Natural Science Foundation of China, Youth Program)，**大规模实时攻击检测与溯源方法及关键技术研究** (Research on Methods and Key Technologies for Large-Scale Real-Time Attack Detection and Attribution)，2024/01-2026/12，在研，项目负责人 (PI)
-- **国家重点研发计划“网络空间安全治理”重点专项** (National Key R&D Program of China – “Cyberspace Security Governance” Special Project)，**面向终端的高隐蔽传播型网络滋扰行为识别、取证与溯源** (Terminal-Oriented Identification, Forensics, and Attribution of Highly Stealthy Propagation-Based Cyber Nuisances)，在研，子课题负责人 (Sub-Task Leader)
-- **浙江省“领雁”研发攻关计划** (Zhejiang Provincial Key R&D Program, "Leading Goose")，**\*\*\*\*\*\***，2025/01-2025/12，在研，项目负责人 (PI)
+- **国家自然科学基金联合基金项目** (Joint Fund of the National Natural Science Foundation of China)，**APT 网络杀伤链智能检测与溯源方法及关键技术** (Intelligent Detection and Attribution Methods and Key Technologies for APT Cyber Kill Chains)，2021/01-2023/12，已结题，核心技术成员 (Core Technical Member)
+- **浙江省“领雁”研发攻关计划** (Zhejiang Provincial Key R&D Program, "Leading Goose")，**\*\*\*\*\*\***，2025/01-2025/12，已结题，项目负责人 (PI)
+- **浙江省“领雁”研发攻关计划** (Zhejiang Provincial Key R&D Program, "Leading Goose")，**\*\*\*\*\*\***，2024/01-2024/12，已结题，任务负责人 (Task Leader)
 - **宁波市“甬江”青年创新人才项目** (Ningbo "Yongjiang" Young Innovative Talents Project)，**\*\*\*\*\*\***，2025/01-2027/12，在研，项目负责人 (PI)
 - **宁波市自然科学基金青年博士创新研究项目** (Natural Science Foundation of Ningbo – Young Doctoral Innovation Research Project)，**关键基础设施中新兴异构系统的行为治理与安全防护** (Behavior Governance and Security Protection for Emerging Heterogeneous Systems in Critical Infrastructure)，2026/01-2027/12，在研，项目负责人 (PI)
 - **CCF-腾讯“犀牛鸟”科研基金** (CCF-Tencent “Rhino Bird” Research Fund)，**面向对抗场景的高效智能溯源分析与威胁狩猎** (Efficient, Intelligent, and Adversary-Aware Attribution Analysis and Threat Hunting)，2026/01-2026/12，在研，项目负责人 (PI)
-- **浙江省“领雁”研发攻关计划** (Zhejiang Provincial Key R&D Program, "Leading Goose")，**\*\*\*\*\*\***，2024/01-2024/12，已结题，任务负责人 (Task Leader)
 - **CF-绿盟“鲲鹏”科研基金** (CF-NSFOCUS “Kunpeng” Research Fund)，**云计算环境下基于流式处理的大规模溯源分析** (Large-Scale Attribution Analysis Based on Stream Processing in Cloud Computing Environments)，2024/01-2024/12，已结题，项目负责人 (PI)
-- **国家自然科学基金联合基金项目** (Joint Fund of the National Natural Science Foundation of China)，**APT 网络杀伤链智能检测与溯源方法及关键技术** (Intelligent Detection and Attribution Methods and Key Technologies for APT Cyber Kill Chains)，2021/01-2023/12，已结题，核心技术成员 (Core Technical Member)
 
 
 # 📝 Teaching
