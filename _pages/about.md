@@ -36,7 +36,7 @@ I welcome collaborations on industry-oriented security research and real-world s
 
 
 # 🔥 News
-- 📑 *2026.06*, Our paper "MazeRunner: Nonlinear Task and Clue Orchestration for LLM-driven Black-Box Automated Penetration Testing" has been accepted to **Knowledge-based Systems**.
+- 📑 *2026.11*, Our paper "MazeRunner: Nonlinear Task and Clue Orchestration for LLM-driven Black-Box Automated Penetration Testing" has been accepted to **Knowledge-based Systems**.
 - 👨🏻‍🏫 *2026.10*, 受邀在“CNCC2026-[AI驱动漏洞发现：从工具辅助到智能体实战](https://csc.cie.org.cn/subforum/11464.html)”做报告。
 - 🏗️ *2026.10*, 获**国家重点研发计划“\*\*\*\*”专项**资助，担任项目负责人 (PI；National Key R&D Program of China – “\*\*\*\*” Special Project)。
 - 📑 *2026.09*, One paper "Beyond the App Store: Uncovering the Underground iOS Signing Supply Chain via Operational Data" has been accepted to **NDSS'27**.
