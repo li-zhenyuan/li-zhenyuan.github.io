@@ -37,22 +37,23 @@ I welcome collaborations on industry-oriented security research and real-world s
 
 # 🔥 News
 - 📑 *2026.11*, Our paper "MazeRunner: Nonlinear Task and Clue Orchestration for LLM-driven Black-Box Automated Penetration Testing" has been accepted to **Knowledge-based Systems**.
-- 🤝🏻 *2026.11*，中机博也—浙江大学 “载运装备人工智能安全创新实验室” 投入运营（地址：浙江大学宁波校区2号楼3楼），欢迎来访。
-- 👨🏻‍🏫 *2026.10*, 受邀在“CNCC2026-[AI驱动漏洞发现：从工具辅助到智能体实战](https://csc.cie.org.cn/subforum/11464.html)”做报告。
-- 🏗️ *2026.10*, 获**国家重点研发计划“\*\*\*\*”专项**资助，担任项目负责人 (PI；National Key R&D Program of China – “\*\*\*\*” Special Project)。
+- 🤝🏻 *2026.11*，中机博也—浙江大学 “载运装备人工智能安全创新实验室” 投入运营（地址：浙江大学宁波校区2号楼3楼），关注智能网联汽车的信息安全分析与测试（TARA），欢迎访问交流。
+- 👨🏻‍🏫 *2026.10*, 受邀在“CNCC 2026 [AI驱动漏洞发现：从工具辅助到智能体实战论坛](https://csc.cie.org.cn/subforum/11464.html)”做报告。
+- 🏗️ *2026.10*, 获**国家重点研发计划“\*\*\*\*”专项**资助，担任项目负责人 (PI；National Key R&D Program of China “\*\*\*\*” Special Project)。
 - 📑 *2026.09*, One paper "Beyond the App Store: Uncovering the Underground iOS Signing Supply Chain via Operational Data" has been accepted to **NDSS'27**.
+- 👨🏻‍🏫 *2026.08*，受邀在“犀牛鸟中学科学人才培养计划—科研项目实践”中担任特邀指导教师。
 - 🎉 *2026.06*, 指导研究生获得浙江大学“陆氏研究生国际交流基金”资助，拟赴新加坡南洋理工大学交流3个月。
 - 🧑‍💻 *2026.06*, Invited to serve as a TPC member for **USENIX Security 2027**.
 - 📑 *2026.06*, Our paper "MINOS: A Multi-Agent Collaborative Framework for Backward Tracking" has been accepted to **ESORICS'26**.
-- 👨🏻‍🏫 *2026.06*, 受邀在“电子学会 2026网络空间安全学术大会-[网络空间威胁密态对抗与智能化防御论坛](https://csc.cie.org.cn/subforum/11464.html)”做报告。
+- 👨🏻‍🏫 *2026.06*, 受邀在“电子学会 2026网络空间安全学术大会 [网络空间威胁密态对抗与智能化防御论坛](https://csc.cie.org.cn/subforum/11464.html)”做报告。
 - 📑 *2026.06*, 论文《大语言模型驱动的多态攻击脚本生成与检测规避》 ("Large Language Models Driven Polymorphic Attack Scripts Generation and Detection Evasion")被**《计算机学报》** (Chinese Journal of Computers)录用。
 - 🧑‍💻 *2026.03*, Invited to serve as a TPC member for **RAID 2026**.
 - 📑 *2026.03*, Our paper "[RAPiDLe: Enabling Real-time Anomaly Path Detection in Streaming Provenance Graph with Learned Behavior Baseline](https://www.sciengine.com/SCIS/doi/10.1007/s11432-025-4822-0)" has been accepted by **SCIS**.
 <!-- - 📑 *2026.02*, Two Posters titled "Abstracting and Tracking Semantic Flow among Agents for Threat Detection" and "Reconstructing the Provenance of Android" to appear in NDSS'26. -->
 <!-- - 📑 *2026.01*, Two Work-In-Progress papers, titled "Building Next-Generation Datasets for Provenance-Based Intrusion Detection" and "The Case for LLM-Enhanced Backward Tracking" accepted by PRISM'26 co-located with NDSS'26. -->
 <!-- - 🧑‍💻 *2025.12*, Invited to serve as a TPC member for "GlobalCom 2026 CISS".  -->
-- 🎉 *2025.12*, 获**中国商业联合会科学技术进步奖一等奖** (排名 5/15；First Prize of the Science and Technology Progress Award, China General Chamber of Commerce)——“AI 驱动的网络安全检测关键技术与产业化应用” ("Key Technologies and Industrial Applications of AI-Driven Cybersecurity Detection")。
-- 🎉 *2025.12*, 获**北京市科学技术进步奖二等奖** (排名 7/10；Second Prize of Beijing Municipal Science and Technology Progress Award)——“基于反隐身机制的高隐蔽网络威胁检测与溯源关键技术及应用” ("Key Technologies and Applications for Detection and Attribution of Highly Stealthy Cyber Threats Based on Anti-Stealth Mechanisms")。
+- 🎉 *2025.12*, 获**中国商业联合会科学技术进步奖一等奖** (排名 5/15；First Prize of the Science and Technology Progress Award, China General Chamber of Commerce)—“AI 驱动的网络安全检测关键技术与产业化应用” ("Key Technologies and Industrial Applications of AI-Driven Cybersecurity Detection")。
+- 🎉 *2025.12*, 获**北京市科学技术进步奖二等奖** (排名 7/10；Second Prize of Beijing Municipal Science and Technology Progress Award)—“基于反隐身机制的高隐蔽网络威胁检测与溯源关键技术及应用” ("Key Technologies and Applications for Detection and Attribution of Highly Stealthy Cyber Threats Based on Anti-Stealth Mechanisms")。
 <!-- - 🧑‍💻 *2025.12*, Invited to serve as an Early Career Editorial Board member for the journal "Digital Twins and Applications".  -->
 <!-- - 📑 *2025.11*, Our paper "Actionable, Customizable, and Causality-Preserving Cyberattack Emulation with LLM-powered Symbolic Planning" has been accepted to ACNS'26. -->
 - 🏗️ *2025.11*, 获**宁波市自然科学基金青年博士创新研究项目**资助，担任项目负责人 (PI；Natural Science Foundation of Ningbo, Youth Ph.D. Program)。
