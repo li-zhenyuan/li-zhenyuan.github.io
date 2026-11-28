@@ -94,9 +94,9 @@ I welcome collaborations on industry-oriented security research and real-world s
 
 #### [预印本 (arXiv / Preprints)]
 
-**[A6]** "MazeRunner: Nonlinear Task and Clue Orchestration for LLM-driven Black-Box Automated Penetration Testing"  
+<!-- **[A6]** "MazeRunner: Nonlinear Task and Clue Orchestration for LLM-driven Black-Box Automated Penetration Testing"  
 *arXiv, 2026* · **预印本 (Preprint)**  
-**Zhenyuan Li#**, Yi Jiang, Junjie Cheng, Yaokun Li, Jing Qiu, Shouling Ji
+**Zhenyuan Li#**, Yi Jiang, Junjie Cheng, Yaokun Li, Jing Qiu, Shouling Ji -->
 
 **[A5]** "SherAgent: Scaling Attack Investigation in the Wild via LLM-Empowered Iterative Query-Filter Backtracking"  
 *arXiv, 2026* · **预印本 (Preprint)**  
